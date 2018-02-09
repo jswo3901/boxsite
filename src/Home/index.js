@@ -6,28 +6,30 @@ import {
     Link
   } from 'react-router-dom'
 import './index.css'
+import pro1 from './pro1.gif'
+import pro2 from './pro2.gif'
+import pro3 from './pro3.gif'
+import pro4 from './pro4.gif'
+import pro5 from './pro5.gif'
 
 const Home = () => {
     return (
         <div>
             <Grid>
                 <Row className="show-grid">
-                    <Col xs={12} md={8}>
+                    <Col xs={12} md={3}>
                         <div className="box_1">
-                            광고박스 1
+                            <img src={pro1} alt="Smiley face" />
                         </div>
-                        <div>
-                            광고박스 2
-                        </div>
-                        <div>
-                            광고박스 3
-                        </div>
-                        <div>
-                            광고박스 4
-                        </div>
-                        <div>
-                            광고박스 5
-                        </div>
+                    </Col>
+                    <Col xs={12} md={3}>
+                        <img src={pro2} alt="Smiley face" />
+                    </Col>
+                    <Col xs={12} md={3}>
+                        <img src={pro3} alt="Smiley face" />
+                    </Col>
+                    <Col xs={12} md={3}>
+                        <img src={pro4} alt="Smiley face" />
                     </Col>
                 </Row> 
             </Grid>
