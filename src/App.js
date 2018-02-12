@@ -5,38 +5,33 @@ import {
   Route,
   Link
 } from 'react-router-dom'
-import {Grid, Row, Col, Clearfix} from 'react-bootstrap'
 import Home from './Home'
 import About from './About'
 import Topics from './Topics'
+import Pro1Page from './Home/Pro1Page'
 class App extends Component {
   render() {
     return (
-      <Router>
-        <Grid>
-          <Row className="show-grid">
-            <Col xs={12} xsOffset={3} md={12}>
+      
+        <Router>
+          <div>
+            <div>
               메인로고
-            </Col>
-          </Row>
-          <Row className="show-grid">
-              <Col xs={6} md={4}>
-                <Link to="/">Home</Link>
-              </Col>
-              <Col xs={6} md={4}>
-                <Link to="/about">About</Link>  
-              </Col>
-              <Col xs={6} md={4}>
-                <Link to="/topics">Topics</Link>
-              </Col>
-          </Row> 
-          <Route exact path="/" component={Home}/>
-          <Route path="/about" component={About}/>
-          <Route path="/topics" component={Topics}/>
-        </Grid>
-      </Router>
+            </div>
 
-
+            <div className="nav-grid">
+              <Link to="/">Home</Link>
+              <Link to="/about">About</Link>  
+              <Link to="/topics">Topics</Link>
+            </div>
+            
+            <Route exact path="/" component={Home}/>
+            <Route path="/about" component={About}/>
+            <Route path="/topics" component={Topics}/>
+            <Route path="/pro1" component={Pro1Page}/>
+          </div>
+        </Router>
+      
     );
   }
 }
