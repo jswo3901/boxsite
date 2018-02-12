@@ -7,44 +7,120 @@ import {
   } from 'react-router-dom'
 import './index.css'
 import pro1 from './pro1.gif'
-import Pro1Page from './Pro1Page'
-
 import pro2 from './pro2.gif'
 import pro3 from './pro3.gif'
 import pro4 from './pro4.gif'
 import pro5 from './pro5.gif'
 
+
 const Home = () => {
     return (
         <div>
-            <Grid>
-                <Row className="show-grid">
-                    <Col xs={12} md={3}>
-                        <div className="box_1">
-                            <Link to="/pro1"><img src={pro1} alt="Smiley face" /></Link>
-                        </div>
-                        <Route path="/pro1" component={Pro1Page}/>
-                    </Col>
-                    <Col xs={12} md={3}>
-                        <img src={pro2} alt="Smiley face" />
-                    </Col>
-                    <Col xs={12} md={3}>
-                        <img src={pro3} alt="Smiley face" />
-                    </Col>
-                    <Col xs={12} md={3}>
-                        <img src={pro4} alt="Smiley face" />
-                    </Col>
-                </Row> 
-            </Grid>
+          
+          <div className="box_1">
+            <Link to="/pro1">
+              <div className="img_1">
+                <img src={pro1} alt="Smiley face"/>
+              </div>
+            </Link>
+            <div className="boxfont_1">
+              광고내용
+            </div>
+            <div className="boxfont_bar">
+            </div>
+            <div className="boxfontBottom_1">
+              <b>
+                <font>
+                  ★★가능가능★★
+                </font>
+              </b>
+            </div>
+          </div>
+          <div>
+          </div>
+
+          <div className="box_1">
+            <Link to="/pro2">
+              <div className="img_1">
+                <img src={pro2} alt="Smiley face" />
+              </div>
+            </Link>
+            <div className="boxfont_1">
+              광고내용
+            </div>
+            <div className="boxfont_bar">
+            </div>
+            <div className="boxfontBottom_1">
+              <b>
+                <font>
+                  ★★가능가능★★
+                </font>
+              </b>
+            </div>
+          </div>
+
+          <div className="box_1">
+            <Link to="/pro3">
+              <div className="img_1">
+                <img src={pro3} alt="Smiley face" />
+              </div>
+            </Link>
+            <div className="boxfont_1">
+              광고내용
+            </div>
+            <div className="boxfont_bar">
+            </div>
+            <div className="boxfontBottom_1">
+              <b>
+                <font>
+                  ★★가능가능★★
+                </font>
+              </b>
+            </div>
+          </div>          
+
+          <div className="box_1">
+            <Link to="/pro4">
+              <div className="img_1">
+                <img src={pro4} alt="Smiley face" />
+              </div>
+            </Link>
+            <div className="boxfont_1">
+              광고내용
+            </div>
+            <div className="boxfont_bar">
+            </div>
+            <div className="boxfontBottom_1">
+              <b>
+                <font>
+                  ★★가능가능★★
+                </font>
+              </b>
+            </div>
+          </div>
+
+          <div className="box_1">
+            <Link to="/pro5">
+              <div className="img_1">
+                <img src={pro4} alt="Smiley face" />
+              </div>
+            </Link>
+            <div className="boxfont_1">
+              광고내용
+            </div>
+            <div className="boxfont_bar">
+            </div>
+            <div className="boxfontBottom_1">
+              <b>
+                <font>
+                  ★★가능가능★★
+                </font>
+              </b>
+            </div>
+          </div>  
+
         </div>
     )
 }
-
-
-// const HomeRoute = () => {
-//     return(
-// <div>hi</div>
-//     )
-// }
 export default Home
 

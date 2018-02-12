@@ -1,4 +1,9 @@
-.nav-grid {
+.main-bar {
+  width: 1200px;
+  border: 1px solid pink;
+}
+.nav-bar {
+  width: 1200px;
   border: 1px solid gray;
 }
 
