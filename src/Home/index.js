@@ -12,10 +12,13 @@ import pro3 from './pro3.gif'
 import pro4 from './pro4.gif'
 import pro5 from './pro5.gif'
 
+import fox_logo from './fox_logo.jpg'
+import fox_logo2 from './fox_logo2.jpg'
+
 
 const Home = () => {
     return (
-        <div>
+        <div className="box_main">
           
           <div className="box_1">
             <Link to="/pro1">

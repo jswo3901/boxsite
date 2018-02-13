@@ -13,6 +13,10 @@ import Pro2Page from './Home/Profile/Pro2Page'
 import Pro3Page from './Home/Profile/Pro3Page'
 import Pro4Page from './Home/Profile/Pro4Page'
 import Pro5Page from './Home/Profile/Pro5Page'
+
+
+import fox_logo from './Home/fox_logo.jpg'
+import fox_logo2 from './Home/fox_logo2.jpg'
 class App extends Component {
   render() {
     return (
@@ -20,13 +24,19 @@ class App extends Component {
         <Router>
           <div>
             <div className="main-bar">
-              메인로고
+              <img src={fox_logo} />
             </div>
 
             <div className="nav-bar">
-              <Link to="/">Home</Link>
-              <Link to="/about">About</Link>  
-              <Link to="/topics">Topics</Link>
+              <div className="nav-menu">
+                <Link to="/">구인정보</Link>
+              </div>
+              <div className="nav-menu">
+                <Link to="/about">점포정보</Link>  
+              </div>
+              <div className="nav-menu">
+                <Link to="/topics">업소정보</Link>
+              </div>
             </div>
             
             <Route exact path="/" component={Home}/>
@@ -37,7 +47,6 @@ class App extends Component {
             <Route path="/pro3" component={Pro3Page}/>
             <Route path="/pro4" component={Pro4Page}/>
             <Route path="/pro5" component={Pro5Page}/>
-
           </div>
         </Router>
       

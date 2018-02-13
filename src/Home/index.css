@@ -1,3 +1,9 @@
+.box_main {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .box_1 {
   width: 175px;
   height: 106px;

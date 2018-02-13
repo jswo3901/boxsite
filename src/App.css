@@ -1,10 +1,33 @@
 .main-bar {
-  width: 1200px;
-  border: 1px solid pink;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: middle;
+  /* border: 1px solid pink; */
 }
 .nav-bar {
-  width: 1200px;
-  border: 1px solid gray;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 4px solid #f7924f;
 }
-
-
+.nav-menu {
+  display:inline-block;
+  /* vertical-align:middle; */
+  margin-right: 10px;
+  color: #141414;
+  text-decoration: none;
+  font-size: 25px;
+}
+/* a {
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:-webkit-any-link {
+  text-decoration: none;
+} */
