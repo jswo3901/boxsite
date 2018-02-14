@@ -6,9 +6,19 @@
 
 .divTableBody{
     /* float: left; */
+    border-radius: radius;
+}
+
+.divTableCell {
+    
 }
 
 .divTable {
     width: 100%;
     border: 1px solid #000;
+    margin-bottom: 5px;
+}
+
+.test11{
+    
 }

@@ -8,8 +8,11 @@ class Pro1Page extends Component {
 
         <div class="divTable infoTable">
           <div class="divTableBody">
+          
             <div class="divTableRow">
-              <div class="divTableCell">업소명 : 나비</div>
+              <div class="divTableCell">
+                업소명  
+              </div>
               <div class="divTableCell">모집업종</div>
             </div>
             <div class="divTableRow">
@@ -18,17 +21,36 @@ class Pro1Page extends Component {
             </div>
             <div class="divTableRow">
               <div class="divTableCell">연락처</div>
-              <div class="divTableCell">cell2_3</div>
+              <div class="divTableCell"></div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="divTable infoTable">
+          <div class="divTableBody">
+            <div class="divTableRow">
+              <div class="divTableCell">근무 시간</div>
+              <div class="divTableCell">급여</div>
             </div>
             <div class="divTableRow">
-              <div class="divTableCell">cell1_4</div>
-              <div class="divTableCell">cell2_4</div>
+              <div class="divTableCell">성별</div>
+              <div class="divTableCell">나이</div>
             </div>
+
+          </div>
+        </div>
+
+        <div class="divTable infoTable">
+          <div class="divTableBody">
             <div class="divTableRow">
-              <div class="divTableCell">cell1_5</div>
-              <div class="divTableCell">cell2_5</div>
+              <div class="divTableCell">상세모집요강</div>
             </div>
           </div>
+        </div>
+
+        <div>
+          광고내용
         </div>
 
       </div>
