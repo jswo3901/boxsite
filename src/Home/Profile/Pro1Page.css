@@ -1,0 +1,14 @@
+.test {
+    margin: 0 auto;
+    text-align: center;
+    width: 900px;
+}
+
+.divTableBody{
+    /* float: left; */
+}
+
+.divTable {
+    width: 100%;
+    border: 1px solid #000;
+}
