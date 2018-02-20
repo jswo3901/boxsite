@@ -27,7 +27,7 @@ class App extends Component {
               <img src={fox_logo} />
             </div>
 
-            <div className="nav-bar">
+            {/* <div className="nav-bar">
               <div className="nav-menu">
                 <Link to="/">구인정보</Link>
               </div>
@@ -36,6 +36,33 @@ class App extends Component {
               </div>
               <div className="nav-menu">
                 <Link to="/topics">업소정보</Link>
+              </div>
+            </div> */}
+            <div id="HeaderMenuWrap">
+              <div id="HeaderMenu">
+                <ul className="headerMenu">
+                  <li className="job">
+                    <Link to="/">구인정보</Link>
+                  </li>
+                  <li className="brand">
+                    <Link to="/">브랜드 알바</Link>
+                  </li>
+                  <li className="genius">
+                    <Link to="/">맞춤 알바</Link>
+                  </li>
+                  <li className="resume">
+                    <Link to="/">인재정보</Link>
+                  </li>
+                  <li className="story">
+                    <Link to="/">커뮤니티</Link>
+                  </li>
+                  <li className="person">
+                    <Link to="/">개인서비스</Link>
+                  </li>
+                  <li className="biz">
+                    <Link to="/">기업서비스</Link>
+                  </li>
+                </ul>
               </div>
             </div>
             
