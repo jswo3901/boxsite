@@ -3,7 +3,8 @@ import './Pro1Page.css'
 //http://divtable.com/generator/
 import pro1 from './pro1.gif'
 import room from './room.jpg'
-
+import ad from './ad.jpg'
+import bar from './bar.jpg'
 class Pro1Page extends Component {
   render() {
     return (
@@ -58,7 +59,7 @@ class Pro1Page extends Component {
                             <span>
                               3명
                             </span>
-                            <span>(친구와함께 환영)</span>
+                            <span>(친구 동반지원 가능)</span>
                           </td>
                         </tr>
                         <tr>
@@ -75,7 +76,7 @@ class Pro1Page extends Component {
                           <td>
                             <span>
                               유사직종 경험 상관X
-                            </span>
+                            </span> 
                             <span>(초보자도 가능)</span>
                           </td>
                         </tr>
@@ -141,13 +142,58 @@ class Pro1Page extends Component {
                 </div>
               </div>
               <div className="column column_340 infoBox">
-
+                <h2>
+                  채용담당자 정보
+                </h2>
+                <div className="viewTable">
+                <table>
+                      <tbody>
+                        <tr>
+                          <th>닉네임</th>
+                          <td>
+                            <span>
+                              ☆영천스타☆
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>담당자</th>
+                          <td>
+                            <span>
+                              노주상
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>연락처</th>
+                          <td>
+                            <span>
+                              010-5279-3901
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    </div>
               </div>
             </div>
 
           </div>
           <div className="viewLinkAd">중간광고</div>
-          <div className="viewTab">본문</div>
+          <div className="viewTab">
+            <div className="tabItem_workDetail">
+              <h2>상세모집요강</h2>
+              <div className="iframeCover">
+                <img src={bar} alt="Smiley face"/>
+              </div>
+              
+
+            </div>
+          </div>
+          <div>마지막 광고</div>
         </div>
       </div>
     )
