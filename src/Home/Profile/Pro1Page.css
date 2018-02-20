@@ -1,24 +1,121 @@
-.test {
-    margin: 0 auto;
-    text-align: center;
-    width: 900px;
+.viewContent {
+    width: 960px;
+    position: relative;
+    padding-bottom: 0px;
+    line-height: 1.25em;
+    letter-spacing: -1px;
+    margin: 37px auto 0px;
 }
 
-.divTableBody{
-    /* float: left; */
-    border-radius: radius;
-}
-
-.divTableCell {
-    
-}
-
-.divTable {
+.registerInfo {
+    margin-bottom: 10px;
     width: 100%;
-    border: 1px solid #000;
-    margin-bottom: 5px;
+    display: table-cell;
+    vertical-align: middle;
+    color: #999999;
 }
 
-.test11{
-    
+.viewTypeFullWidth {
+    border: 1px solid #ededed;
+}
+
+.companyInfo {
+    position: relative;
+}
+
+.companyInfo h1 {
+    font-size: 32px;
+    padding-bottom: 37px;
+    letter-spacing: -2.4px;
+}
+
+.infoBox {
+    box-sizing: border-box;
+    padding: 0 40px;
+}
+
+.recruitInfo {
+    display: table;
+    width: 100%;
+}
+
+
+.company {
+    color: #222222;
+    padding: 37px 0 2px 0px;
+    font-size: 0;
+}
+
+.companyName {
+    margin-right: 18px;
+    font-size: 16px;
+}
+
+.companyLogo {
+    display: table-cell;
+    vertical-align: middle;
+    width: 208px;
+    text-align: center;
+    border-left: 1px solid #ededed;
+}
+
+.logo {
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+}
+
+.thumbnailContainer {
+    padding: 30px 0;
+    display: table;
+    width: 100%;
+    border-top: 1px solid #ededed;
+}
+
+.thumbnailImage {
+    overflow: hidden;
+}
+
+.verticalLine {
+    border-top: 1px solid #ededed;
+}
+
+.conditionInfo {
+    display: table;
+    width: 100%;
+    height: 1px;
+}
+
+.column {
+    display: table-cell;
+    float: left;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+}
+
+.column_620 {
+    width: 64.5%;
+    border-right: 1px solid #ededed;
+}
+
+.viewTable th {
+    font-size: 15px;
+    letter-spacing: -1px;
+    color: #999999;
+    font-weight: normal;
+    vertical-align: top;
+    line-height: 18px;
+    height: 32px;
+    width: 80px;
+}
+
+.viewTable td {
+    color: #222222;
+    line-height: 18px;
+    vertical-align: top;
+}
+col {
+    width: 80px;
+    display: table-column;
 }

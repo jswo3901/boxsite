@@ -1,58 +1,154 @@
 import React, { Component } from 'react';
 import './Pro1Page.css'
 //http://divtable.com/generator/
+import pro1 from './pro1.gif'
+import room from './room.jpg'
+
 class Pro1Page extends Component {
   render() {
     return (
-      <div className="test">
+      <div className="allcontent">
+        <div className="viewContent">
+          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="viewTypeFullWidth">
 
-        <div class="divTable infoTable">
-          <div class="divTableBody">
-          
-            <div class="divTableRow">
-              <div class="divTableCell">
-                업소명  
+            <div className="companyInfo infoBox">
+              <div className="recruitInfo">
+                <div className="company">
+                  <span className="companyName">퍼블릭 노원</span>
+                </div>
+                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <div className="companyLogo">
+                  <div className="logo">
+                    <img src={pro1} alt="Smiley face"/>
+                  </div>
+                </div>
               </div>
-              <div class="divTableCell">모집업종</div>
+              <div className="thumbnailContainer">
+                <div className="viewThumbnail">
+                  <div className="thumbnailImage">
+                    <img src={room} alt="Smiley face"/>
+                  </div>
+                </div>
+                <div className="viewWorkInfo">
+
+                </div>
+              </div>
             </div>
-            <div class="divTableRow">
-              <div class="divTableCell">담당자</div>
-              <div class="divTableCell">주소</div>
-            </div>
-            <div class="divTableRow">
-              <div class="divTableCell">연락처</div>
-              <div class="divTableCell"></div>
+
+            <div className="conditionInfo verticalLine">
+              <div className="column column_620 infoBox">
+                <div className="recruitCondition">
+                  <h2>모집조건</h2>
+                  <div className="viewTable">
+                    <table>
+                      <tbody>
+                        <tr>
+                          <th>마감일</th>
+                          <td>
+                            <span>
+                              2018.02.27
+                            </span>
+                            <span>(마감 7일전)</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>모집인원</th>
+                          <td>
+                            <span>
+                              3명
+                            </span>
+                            <span>(친구와함께 환영)</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>연령</th>
+                          <td>
+                            <span>
+                              20살이상
+                            </span>
+                            <span>(1999년생 생일이 지나신 분)</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>경험유무</th>
+                          <td>
+                            <span>
+                              유사직종 경험 상관X
+                            </span>
+                            <span>(초보자도 가능)</span>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+                <div className="workCondition">
+                  <h2>근무조건</h2>
+                  <div className="viewTable">
+                  <table>
+                      <tbody>
+                        <tr>
+                          <th>급여</th>
+                          <td>
+                            <span>
+                              월급 1,900,000원
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>업종</th>
+                          <td>
+                            <span>
+                              노래주점
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>근무지 위치</th>
+                          <td>
+                            <span>
+                              강남구 역삼동
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>근무기간</th>
+                          <td>
+                            <span>
+                              1~3개월
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th>근무시간</th>
+                          <td>
+                            <span>
+                              09:00~18:00
+                            </span>
+                            <span></span>
+                          </td>
+                        </tr>
+                        
+                      </tbody>
+
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <div className="column column_340 infoBox">
+
+              </div>
             </div>
 
           </div>
+          <div className="viewLinkAd">중간광고</div>
+          <div className="viewTab">본문</div>
         </div>
-
-        <div class="divTable infoTable">
-          <div class="divTableBody">
-            <div class="divTableRow">
-              <div class="divTableCell">근무 시간</div>
-              <div class="divTableCell">급여</div>
-            </div>
-            <div class="divTableRow">
-              <div class="divTableCell">성별</div>
-              <div class="divTableCell">나이</div>
-            </div>
-
-          </div>
-        </div>
-
-        <div class="divTable infoTable">
-          <div class="divTableBody">
-            <div class="divTableRow">
-              <div class="divTableCell">상세모집요강</div>
-            </div>
-          </div>
-        </div>
-
-        <div>
-          광고내용
-        </div>
-
       </div>
     )
   }
