@@ -5,6 +5,7 @@ import pro1 from './pro1.gif'
 import room from './room.jpg'
 import ad from './ad.jpg'
 import bar from './bar.jpg'
+import last_ad from './lastAdd.jpg'
 class Pro1Page extends Component {
   render() {
     return (
@@ -193,7 +194,9 @@ class Pro1Page extends Component {
 
             </div>
           </div>
-          <div>마지막 광고</div>
+          <div className="lastAd">
+            <img src={last_ad} alt="smiley" />
+          </div>
         </div>
       </div>
     )
