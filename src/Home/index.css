@@ -41,3 +41,13 @@
   color: #1063A5;
   font-size: 14px;
 }
+
+.leftBanner {
+    position: relative;
+    left: 0px;
+    top: 235px;
+}
+
+.left_banner1 img{
+    margin-top: 15px;
+}
