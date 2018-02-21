@@ -1,0 +1,31 @@
+#MainTop {
+    position: relative;
+    width: 900px;
+    margin: 0 auto 25px;
+}
+.mainTop1 {
+    overflow: hidden;
+    float: left;
+    width: 900px;
+    height: 120px;
+    margin: 0 0 10px;
+}
+#TopBanner {
+    float:left;
+    width: 477px;
+    height: 118px;
+}
+#TopPr {
+    position: relative;
+    overflow: hidden;
+    float: right;
+    width: 393px;
+    height: 120px;
+    /* margin-left: 5px; */
+}
+
+.mainTop2 {
+    float: left;
+    width: 900px;
+    height: 130px;
+}

@@ -1,9 +1,13 @@
-.main-bar {
-  width: 900px;
-  margin: 0 auto;
-  text-align: center;
-  vertical-align: middle;
-  /* border: 1px solid pink; */
+
+
+#mainTop {
+  position: relative;
+  width: 1070px;
+  margin: 0 auto 25px;
+}
+#Global {
+  width: 100%;
+  margin:0 0 12px;
 }
 .nav-bar {
   width: 900px;
@@ -32,13 +36,21 @@ a:hover {
 a:-webkit-any-link {
   text-decoration: none;
 } */
-
+#Header {
+  z-index: 105;
+  position: relative;
+  width: 1070px;
+  height: 75px;
+  margin: 0 auto;
+  text-align: center;
+}
 #HeaderMenuWrap {
   z-index: 100;
   position: relative;
   width: 100%;
   height: 42px;
   background-color: #ffd100;
+  margin-bottom: 15px;
 }
 #HeaderMenu {
   z-index: 100;
