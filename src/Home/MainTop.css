@@ -26,22 +26,31 @@
 .mainTop2 {
     float: left;
     width: 900px;
-    height: 230px;
+    height: 180px;
 }
 #PrimaryMenu {
-    width: 895px;
+    width: 477px;
     height: 171px;
     margin: 0 0 10px;
     border: 1px solid #d8e1e8;
 }
 #PrimaryMenu>li {
     float: left;
-    width: 267px;
+    width: 158px;
 }
-#Primarymenu>li>p.titleSub {
-    width: 266px;
-    font-weight: bold;
-    text-align: center;
-    background-color: #f8f8f8;
-    border-bottom: 1px solid #d8e1e8;
+
+#PrimaryMenu>li>p.titleSub {
+  width: 158px;
+  height: 30px;
+  padding-top:6.5px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #d8e1e8;
+  border-left: 1px solid #e6e6e6;
+  color:blue;
+}
+
+#PrimaryMenu>li>p.menu>img {
+  margin-top:-10px;
 }
