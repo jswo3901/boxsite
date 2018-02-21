@@ -19,13 +19,29 @@
     position: relative;
     overflow: hidden;
     float: right;
-    width: 393px;
     height: 120px;
-    /* margin-left: 5px; */
+    margin-right: 5px;
 }
 
 .mainTop2 {
     float: left;
     width: 900px;
-    height: 130px;
+    height: 230px;
+}
+#PrimaryMenu {
+    width: 895px;
+    height: 171px;
+    margin: 0 0 10px;
+    border: 1px solid #d8e1e8;
+}
+#PrimaryMenu>li {
+    float: left;
+    width: 267px;
+}
+#Primarymenu>li>p.titleSub {
+    width: 266px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #d8e1e8;
 }

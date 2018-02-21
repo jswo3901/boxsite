@@ -19,7 +19,16 @@ class MainTop extends Component {
                 </div>
               </div>
               <div className="mainTop2">
-                지역,단기,테마
+                <ul id="PrimaryMenu">
+                    <li className="list01">
+                        <p className="titleSub">
+                            지역별 알바
+                        </p>
+                        <p className="menu">
+                        논현
+                        </p>
+                    </li>
+                </ul>
               </div>
             </div>
     );
