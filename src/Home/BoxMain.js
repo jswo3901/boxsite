@@ -10,12 +10,15 @@ import pro2 from './pro2.gif'
 import pro3 from './pro3.gif'
 import pro4 from './pro4.gif'
 import pro5 from './pro5.gif'
+import boxInfo from './boxInfo.jpg'
 
 class BoxMain extends Component {
   render() {
     return (
         <div className="box_main">
-          
+          <div className="boxMainLogo">
+            <img src={boxInfo} />
+          </div>
         <div className="box_1">
           <Link to="/pro1">
             <div className="img_1">

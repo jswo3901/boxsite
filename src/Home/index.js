@@ -24,19 +24,21 @@ import boxInfo from './boxInfo.jpg'
 import Global from './Global'
 import MainTop from './MainTop'
 import BoxMain from './BoxMain'
+import TextMain from './TextMain'
 const Home = () => {
     return (
       <div>
         <Global />
         <MainTop />
         <BoxMain />
+        <TextMain />
 
-        <div className="left_banner">
+        {/* <div className="left_banner">
           <img src={left} alt="Smiley face" />
           <div clasName="left_banner1">
             <img src={left1} alt="Smiley face" />
           </div>
-        </div>
+        </div> */}
       </div>
     )
 }
