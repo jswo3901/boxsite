@@ -11,7 +11,9 @@ import pro3 from './pro3.gif'
 import pro4 from './pro4.gif'
 import pro5 from './pro5.gif'
 import boxInfo from './boxInfo.jpg'
-
+import logo3 from './logo3.jpg'
+import logo4 from './logo4.jpg'
+//https://cooltext.com/Render-Image?RenderID=276913117391127&LogoId=2769131173
 class BoxMain extends Component {
   render() {
     return (
@@ -22,7 +24,7 @@ class BoxMain extends Component {
         <div className="box_1">
           <Link to="/pro1">
             <div className="img_1">
-              <img src={pro1} alt="Smiley face"/>
+              <img src={logo3} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -42,7 +44,7 @@ class BoxMain extends Component {
         <div className="box_1">
           <Link to="/pro2">
             <div className="img_1">
-              <img src={pro2} alt="Smiley face" />
+              <img src={logo4} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
