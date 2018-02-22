@@ -107,16 +107,18 @@
   text-align: left;
   font-size: 12px;
   border-bottom: 1px solid #c0c6ca;
+  margin-bottom: 5px;
 }
 
 .text-left-content {
   float: left;
-  width: 285px;
+  width: 305px;
   height: 20px;
   text-align: left;
   font-size: 12px;
   border-bottom: 1px solid #c0c6ca;
   cursor: pointer;
+  margin-bottom: 8px;
 }
 
 .text-clear {
@@ -133,8 +135,17 @@
 }
 .text-left-content>a {
   text-decoration: none;
-  color: black;
+  color: rgb(49, 48, 48);
 }
 .text-left-content>a:hover {
-  color: red;
+  color: black;
+  text-decoration: underline;
+}
+
+.fastIcon {
+  margin-right: 3px;
+}
+.newIcon {
+  margin-bottom: 5px;
+  margin-left: 3px;
 }
