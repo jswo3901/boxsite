@@ -6,7 +6,7 @@ import {
 } from 'react-router-dom'
 import './MainTop.css'
 import main_top from './main_top.jpg'
-import Login from './login.jpg'
+
 
 class MainTop extends Component {
   render() {

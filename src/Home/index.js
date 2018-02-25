@@ -6,18 +6,9 @@ import {
     Link
   } from 'react-router-dom'
 import './index.css'
-import pro1 from './pro1.gif'
-import pro2 from './pro2.gif'
-import pro3 from './pro3.gif'
-import pro4 from './pro4.gif'
-import pro5 from './pro5.gif'
 
 import fox_logo from './fox_logo.jpg'
 import fox_logo2 from './fox_logo2.jpg'
-
-import left from './left.gif'
-import left1 from './left1.gif'
-import left2 from './left2.gif'
 
 import boxInfo from './boxInfo.jpg'
 

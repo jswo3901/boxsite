@@ -6,9 +6,15 @@ import room from './room.jpg'
 import ad from './ad.jpg'
 import bar from './bar.jpg'
 import last_ad from './lastAdd.jpg'
+import Global from '../Global'
+import MainTop_ver2 from '../MainTop_ver2'
+
 class Pro1Page extends Component {
   render() {
     return (
+      <div>
+        <Global />
+        <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
           <div className="registerInfo">2018.02.20 10:46</div>
@@ -198,6 +204,7 @@ class Pro1Page extends Component {
             <img src={last_ad} alt="smiley" />
           </div>
         </div>
+      </div>
       </div>
     )
   }
