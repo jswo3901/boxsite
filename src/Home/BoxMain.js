@@ -5,6 +5,9 @@ import {
   Link
 } from 'react-router-dom'
 import './index.css'
+
+
+import boxInfo from './boxInfo.jpg'
 import logo1 from './BoxLogo/1.jpg'
 import logo2 from './BoxLogo/2.jpg'
 import logo3 from './BoxLogo/3.png'
@@ -61,13 +64,13 @@ class BoxMain extends Component {
     return (
         <div className="box_main">
           <div className="boxMainLogo">
-            <img src={logo1} />
+            <img src={boxInfo} />
           </div>
         <div className="box_1">
           <Link to="/pro1">
             <div className="img_1">
               
-            <img src={logo2} alt="Smiley face" />
+            <img src={logo1} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -87,7 +90,7 @@ class BoxMain extends Component {
         <div className="box_1">
           <Link to="/pro2">
             <div className="img_1">
-              <img src={logo3} alt="Smiley face" />
+              <img src={logo2} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -107,7 +110,7 @@ class BoxMain extends Component {
         <div className="box_1">
           <Link to="/pro3">
             <div className="img_1">
-              <img src={logo4} alt="Smiley face" />
+              <img src={logo3} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -126,6 +129,26 @@ class BoxMain extends Component {
 
         <div className="box_1">
           <Link to="/pro4">
+            <div className="img_1">
+              <img src={logo4} alt="Smiley face" />
+            </div>
+          </Link>
+          <div className="boxfont_1">
+            광고내용
+          </div>
+          <div className="boxfont_bar">
+          </div>
+          <div className="boxfontBottom_1">
+            <b>
+              <font>
+                ★★가능가능★★
+              </font>
+            </b>
+          </div>
+        </div>
+
+        <div className="box_1">
+          <Link to="/pro5">
             <div className="img_1">
               <img src={logo5} alt="Smiley face" />
             </div>
@@ -142,36 +165,12 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>
-
-        <div className="box_1">
-          <Link to="/pro5">
-            <div className="img_1">
-              <img src={logo6} alt="Smiley face" />
-            </div>
-          </Link>
-          <div className="boxfont_1">
-            광고내용
-          </div>
-          <div className="boxfont_bar">
-          </div>
-          <div className="boxfontBottom_1">
-            <b>
-              <font>
-                ★★가능가능★★
-              </font>
-            </b>
-          </div>
         </div>  
 
-
-
-
-                  
-                  <div className="box_1">
-          <Link to="/pro1">
+        <div className="box_1">
+          <Link to="/pro6">
             <div className="img_1">
-              <img src={logo7} alt="Smiley face"/>
+              <img src={logo6} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -189,7 +188,27 @@ class BoxMain extends Component {
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro7">
+            <div className="img_1">
+              <img src={logo7} alt="Smiley face" />
+            </div>
+          </Link>
+          <div className="boxfont_1">
+            광고내용
+          </div>
+          <div className="boxfont_bar">
+          </div>
+          <div className="boxfontBottom_1">
+            <b>
+              <font>
+                ★★가능가능★★
+              </font>
+            </b>
+          </div>
+        </div>
+
+        <div className="box_1">
+          <Link to="/pro8">
             <div className="img_1">
               <img src={logo8} alt="Smiley face" />
             </div>
@@ -206,10 +225,10 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>
+        </div>          
 
         <div className="box_1">
-          <Link to="/pro3">
+          <Link to="/pro9">
             <div className="img_1">
               <img src={logo9} alt="Smiley face" />
             </div>
@@ -226,10 +245,10 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>          
+        </div>
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro10">
             <div className="img_1">
               <img src={logo10} alt="Smiley face" />
             </div>
@@ -246,31 +265,11 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>
-
-        <div className="box_1">
-          <Link to="/pro5">
-            <div className="img_1">
-              <img src={logo11} alt="Smiley face" />
-            </div>
-          </Link>
-          <div className="boxfont_1">
-            광고내용
-          </div>
-          <div className="boxfont_bar">
-          </div>
-          <div className="boxfontBottom_1">
-            <b>
-              <font>
-                ★★가능가능★★
-              </font>
-            </b>
-          </div>
         </div>           
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro11">
             <div className="img_1">
-              <img src={logo12} alt="Smiley face"/>
+              <img src={logo11} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -288,7 +287,27 @@ class BoxMain extends Component {
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro12">
+            <div className="img_1">
+              <img src={logo12} alt="Smiley face" />
+            </div>
+          </Link>
+          <div className="boxfont_1">
+            광고내용
+          </div>
+          <div className="boxfont_bar">
+          </div>
+          <div className="boxfontBottom_1">
+            <b>
+              <font>
+                ★★가능가능★★
+              </font>
+            </b>
+          </div>
+        </div>
+
+        <div className="box_1">
+          <Link to="/pro13">
             <div className="img_1">
               <img src={logo13} alt="Smiley face" />
             </div>
@@ -305,10 +324,10 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>
+        </div>          
 
         <div className="box_1">
-          <Link to="/pro3">
+          <Link to="/pro14">
             <div className="img_1">
               <img src={logo14} alt="Smiley face" />
             </div>
@@ -325,10 +344,10 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>          
+        </div>
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro15">
             <div className="img_1">
               <img src={logo15} alt="Smiley face" />
             </div>
@@ -345,31 +364,11 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>
-
-        <div className="box_1">
-          <Link to="/pro5">
-            <div className="img_1">
-              <img src={logo16} alt="Smiley face" />
-            </div>
-          </Link>
-          <div className="boxfont_1">
-            광고내용
-          </div>
-          <div className="boxfont_bar">
-          </div>
-          <div className="boxfontBottom_1">
-            <b>
-              <font>
-                ★★가능가능★★
-              </font>
-            </b>
-          </div>
         </div>           
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro16">
             <div className="img_1">
-              <img src={logo17} alt="Smiley face"/>
+              <img src={logo16} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -387,29 +386,29 @@ class BoxMain extends Component {
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro17">
+            <div className="img_1">
+              <img src={logo17} alt="Smiley face" />
+            </div>
+          </Link>
+          <div className="boxfont_1">
+            광고내용
+          </div>
+          <div className="boxfont_bar">
+          </div>
+          <div className="boxfontBottom_1">
+            <b>
+              <font>
+                ★★가능가능★★
+              </font>
+            </b>
+          </div>
+        </div>
+
+        <div className="box_1">
+          <Link to="/pro18">
             <div className="img_1">
               <img src={logo18} alt="Smiley face" />
-            </div>
-          </Link>
-          <div className="boxfont_1">
-            광고내용
-          </div>
-          <div className="boxfont_bar">
-          </div>
-          <div className="boxfontBottom_1">
-            <b>
-              <font>
-                ★★가능가능★★
-              </font>
-            </b>
-          </div>
-        </div>
-
-        <div className="box_1">
-          <Link to="/pro3">
-            <div className="img_1">
-              <img src={logo19} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -427,7 +426,27 @@ class BoxMain extends Component {
         </div>          
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro19">
+            <div className="img_1">
+              <img src={logo19} alt="Smiley face" />
+            </div>
+          </Link>
+          <div className="boxfont_1">
+            광고내용
+          </div>
+          <div className="boxfont_bar">
+          </div>
+          <div className="boxfontBottom_1">
+            <b>
+              <font>
+                ★★가능가능★★
+              </font>
+            </b>
+          </div>
+        </div>
+
+        <div className="box_1">
+          <Link to="/pro20">
             <div className="img_1">
               <img src={logo20} alt="Smiley face" />
             </div>
@@ -444,31 +463,11 @@ class BoxMain extends Component {
               </font>
             </b>
           </div>
-        </div>
-
-        <div className="box_1">
-          <Link to="/pro5">
-            <div className="img_1">
-              <img src={logo21} alt="Smiley face" />
-            </div>
-          </Link>
-          <div className="boxfont_1">
-            광고내용
-          </div>
-          <div className="boxfont_bar">
-          </div>
-          <div className="boxfontBottom_1">
-            <b>
-              <font>
-                ★★가능가능★★
-              </font>
-            </b>
-          </div>
         </div>           
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro21">
             <div className="img_1">
-              <img src={logo22} alt="Smiley face"/>
+              <img src={logo21} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -486,29 +485,29 @@ class BoxMain extends Component {
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro22">
+            <div className="img_1">
+              <img src={logo22} alt="Smiley face" />
+            </div>
+          </Link>
+          <div className="boxfont_1">
+            광고내용
+          </div>
+          <div className="boxfont_bar">
+          </div>
+          <div className="boxfontBottom_1">
+            <b>
+              <font>
+                ★★가능가능★★
+              </font>
+            </b>
+          </div>
+        </div>
+
+        <div className="box_1">
+          <Link to="/pro23">
             <div className="img_1">
               <img src={logo23} alt="Smiley face" />
-            </div>
-          </Link>
-          <div className="boxfont_1">
-            광고내용
-          </div>
-          <div className="boxfont_bar">
-          </div>
-          <div className="boxfontBottom_1">
-            <b>
-              <font>
-                ★★가능가능★★
-              </font>
-            </b>
-          </div>
-        </div>
-
-        <div className="box_1">
-          <Link to="/pro3">
-            <div className="img_1">
-              <img src={logo24} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">

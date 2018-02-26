@@ -132,7 +132,7 @@
 }
 
 .tabItem_workDetail .iframeCover {
-    text-align: center;
+    text-align: left;
 }
 
 .tabItem_workDetail h2 {
@@ -149,4 +149,8 @@
     margin-top: 25px;
     margin-bottom: 25px;
     text-align: center;
+}
+
+.jsjs {
+    line-height: 18px;
 }

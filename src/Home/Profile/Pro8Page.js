@@ -9,7 +9,7 @@ import last_ad from './lastAdd.jpg'
 import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
 
-class Pro2Page extends Component {
+class Pro8Page extends Component {
   render() {
     return (
       <div>
@@ -194,79 +194,8 @@ class Pro2Page extends Component {
             <div className="tabItem_workDetail">
               <h2>상세모집요강</h2>
               <div className="iframeCover">
-                <div className="jsjs">
-                .....  좋은인연을 찾습니다  .....
-                </div>
-                <div>
-                나이,체형,외모,경력,아무것도
-                </div>
-                <div>
-                묻지도 따지지도 않습니다.
-                </div>
-                <div>
-                저희업소에서 근무하실 성실한
-                </div>
-                <div>
-                여성분을  찾습니다.  
-                </div>
-                <div>
-                1.무슨일이든 꾸준하게 빨리벌어서 자립해서
-                </div>
-                <div>
-                자~~~~알  살아보고 싶으신분
-                </div>
-                <div>
-                2.업소에 일하면서 술때문에 힘들어하시는분
-                </div>
-                <div>
-                3.믿고 찾아간 업소에서 약속을 안지켜서
-                </div>
-                <div>
-                실망만  하신분 .....(당일지급.페이보장)
-                </div>
-                <div>
-                4.텃세 때문에 맘고생 많이하신분 .....
-                </div>
-                <div>
-                (가족같은 분위기)
-                </div>
-                <div>
-                5.페이만 되면 업종 상관없다고 생각하시는분
-                </div>
-                <div>
-                6.집이 멀어서 고민하시는분....(숙식무료제공)
-                </div>
-                <div>
-                7.외모때문에 성형 생각하시는분....(성형지원)
-                </div>
-                <div>
-                8.돈 (사채,생활비 ) 때문에
-                </div>
-                <div>
-                고민하시는분... (선불가능)
-                </div>
-                <div>
-                9.처음 하는일 이라 걱정되시는분...(초보가능)
-                </div>
-                <div>
-                10.나이가 많거나 적어서 걱정하시는분
-                </div>
-                <div>
-                위 열가지 글중 해당사항 있으신분은
-                </div>
-                <div>
-                지금바로 전화,문자,카톡 주세요
-                </div>
-                <div>
-                카톡아이디: seven7979
-                </div>
-                <div>
-                혹시 연락안받으면 문자나 카톡 남겨주시면 
-                </div>
-                <div>
-                확인하고 바로 연락드릴께요
-                </div>
-            </div>
+                <img src={bar} alt="Smiley face"/>
+              </div>
               
 
             </div>
@@ -281,4 +210,4 @@ class Pro2Page extends Component {
   }
 }
 
-export default Pro2Page
+export default Pro8Page
