@@ -16,20 +16,34 @@ import Global from './Global'
 import MainTop from './MainTop'
 import BoxMain from './BoxMain'
 import TextMain from './TextMain'
+import Side_1 from './side_1.gif'
+import Side_2 from './side_2.gif'
+import Side_3 from './side_3.gif'
+import Side_4 from './side_4.gif'
 const Home = () => {
     return (
       <div>
+        
         <Global />
         <MainTop />
+        <div className="left_banner">
+          <img src={Side_1} alt="Smiley face" />
+        </div>
+        <div clasName="left_banner">
+           <img src={Side_2} alt="Smiley face" />
+         </div>
         <BoxMain />
+        
         <TextMain />
+        <div className="left_banner">
+          <img src={Side_3} alt="Smiley face" />
+        </div>
+        <div clasName="left_banner">
+           <img src={Side_4} alt="Smiley face" />
+         </div>
+        
 
-        {/* <div className="left_banner">
-          <img src={left} alt="Smiley face" />
-          <div clasName="left_banner1">
-            <img src={left1} alt="Smiley face" />
-          </div>
-        </div> */}
+        
       </div>
     )
 }

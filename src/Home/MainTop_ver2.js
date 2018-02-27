@@ -5,8 +5,8 @@ import {
   Link
 } from 'react-router-dom'
 import './MainTop.css'
-import main_top from './main_top.jpg'
-
+import main_top from './main_top.gif'
+import TopPr from './TopPr.gif'
 
 class MainTop_ver2 extends Component {
   render() {
@@ -17,7 +17,7 @@ class MainTop_ver2 extends Component {
                   <img src={main_top} />
                 </div>
                 <div id="TopPr">
-                  <img src="http://via.placeholder.com/413x120" />
+                  <img src={TopPr} />
                 </div>
               </div>
             </div>

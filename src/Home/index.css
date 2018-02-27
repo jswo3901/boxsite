@@ -74,15 +74,14 @@
   font-size: 14px;
 }
 
-.leftBanner {
-    position: relative;
-    left: 0px;
-    top: 235px;
+.left_banner {
+    /* position: fixed; */
+    /* top: 275px; */
+    /* left: 0; */
+    margin-bottom: 10px;
 }
 
-.left_banner1 img{
-    margin-top: 15px;
-}
+
 
 .boxMainLogo {
   margin-bottom: 10px;

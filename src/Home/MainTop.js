@@ -5,9 +5,9 @@ import {
   Link
 } from 'react-router-dom'
 import './MainTop.css'
-import main_top from './main_top.jpg'
-
-
+import main_top from './main_top.gif'
+import TopPr from './TopPr.gif'
+import MiddlePr from './middlePr.gif'
 class MainTop extends Component {
   render() {
     return (
@@ -17,7 +17,7 @@ class MainTop extends Component {
                   <img src={main_top} />
                 </div>
                 <div id="TopPr">
-                  <img src="http://via.placeholder.com/413x120" />
+                  <img src={TopPr} />
                 </div>
               </div>
               <div className="mainTop2">
@@ -49,7 +49,7 @@ class MainTop extends Component {
                     
                 </ul>
                 <div id="PrimaryMenu2">
-                  <img src="http://via.placeholder.com/198x169" />
+                  <img src={MiddlePr} />
                 </div>
 
                 <div id="PrimaryLoginMenu3">
