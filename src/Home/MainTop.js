@@ -8,6 +8,9 @@ import './MainTop.css'
 import main_top from './main_top.gif'
 import TopPr from './TopPr.gif'
 import MiddlePr from './middlePr.gif'
+import Middle_Bottom_1 from './158_1.jpg'
+import Middle_Bottom_2 from './158_2.jpg'
+import Middle_Bottom_3 from './158_3.jpg'
 class MainTop extends Component {
   render() {
     return (
@@ -27,7 +30,7 @@ class MainTop extends Component {
                             오늘의 추천 알바
                         </p>
                         <p className="menu">
-                          <img src="http://via.placeholder.com/158x139" />
+                          <img src={Middle_Bottom_1} />
                         </p>
                     </li>
                     <li className="list02">
@@ -35,7 +38,7 @@ class MainTop extends Component {
                             당일 알바
                         </p>
                         <p className="menu">
-                          <img src="http://via.placeholder.com/158x139" />
+                          <img src={Middle_Bottom_2} />
                         </p>
                     </li>
                     <li className="list03">
@@ -43,7 +46,7 @@ class MainTop extends Component {
                             인기 알바
                         </p>
                         <p className="menu">
-                          <img src="http://via.placeholder.com/158x139" />
+                          <img src={Middle_Bottom_3} />
                         </p>
                     </li>
                     
