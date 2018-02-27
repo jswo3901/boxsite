@@ -8,7 +8,8 @@ import bar from './bar.jpg'
 import last_ad from './lastAdd.jpg'
 import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
-
+//https://magic.reactjs.net/htmltojsx.htm
+//https://prettier.io/playground/#N4Igxg9gdgLgprEAuEIA0IIAcYEtoDOyoWATrrAOq4AmMAFsgBwAMGMAhgEbV2NIAmDAQoBzADZwAigFcI8ZADMO4gnHakOucWIDCEALYGOyEFGhx0ILprABrODADKWDmDHIYpGepAArAgAPACFbB2cOAzgAGQpLJGVVX1dSNVJTLm4AT3FoKzUDXE9vXxk1ABVuIgSVNQwKNJgABU1RYyVa31I4AEcZXG6WjjaTGqSMMgg1Sk0sUzI4NIA3SwwOUlIIAHcm9YRqkA4liForGggwDvHDghgruswZGCwngXu4AF8PoA
 class Pro2Page extends Component {
   render() {
     return (
@@ -194,81 +195,183 @@ class Pro2Page extends Component {
             <div className="tabItem_workDetail">
               <h2>상세모집요강</h2>
               <div className="iframeCover">
-                <div className="jsjs">
-                .....  좋은인연을 찾습니다  .....
-                </div>
-                <div>
-                나이,체형,외모,경력,아무것도
-                </div>
-                <div>
-                묻지도 따지지도 않습니다.
-                </div>
-                <div>
-                저희업소에서 근무하실 성실한
-                </div>
-                <div>
-                여성분을  찾습니다.  
-                </div>
-                <div>
-                1.무슨일이든 꾸준하게 빨리벌어서 자립해서
-                </div>
-                <div>
-                자~~~~알  살아보고 싶으신분
-                </div>
-                <div>
-                2.업소에 일하면서 술때문에 힘들어하시는분
-                </div>
-                <div>
-                3.믿고 찾아간 업소에서 약속을 안지켜서
-                </div>
-                <div>
-                실망만  하신분 .....(당일지급.페이보장)
-                </div>
-                <div>
-                4.텃세 때문에 맘고생 많이하신분 .....
-                </div>
-                <div>
-                (가족같은 분위기)
-                </div>
-                <div>
-                5.페이만 되면 업종 상관없다고 생각하시는분
-                </div>
-                <div>
-                6.집이 멀어서 고민하시는분....(숙식무료제공)
-                </div>
-                <div>
-                7.외모때문에 성형 생각하시는분....(성형지원)
-                </div>
-                <div>
-                8.돈 (사채,생활비 ) 때문에
-                </div>
-                <div>
-                고민하시는분... (선불가능)
-                </div>
-                <div>
-                9.처음 하는일 이라 걱정되시는분...(초보가능)
-                </div>
-                <div>
-                10.나이가 많거나 적어서 걱정하시는분
-                </div>
-                <div>
-                위 열가지 글중 해당사항 있으신분은
-                </div>
-                <div>
-                지금바로 전화,문자,카톡 주세요
-                </div>
-                <div>
-                카톡아이디: seven7979
-                </div>
-                <div>
-                혹시 연락안받으면 문자나 카톡 남겨주시면 
-                </div>
-                <div>
-                확인하고 바로 연락드릴께요
-                </div>
-            </div>
+              <div
+  id="ct"
+  style={{ marginTop: 10, borderBottom: "1px solid #e0e0e0", padding: 10 }}
+>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+    
+    <font size={5}>
+      강남 일등 하이퍼블릭 룸싸롱 신규 오픈
+    </font>
+  </div>
+  <div style={{ textAlign: "center" }} align="center">
+    <br />
+    <font color="#ff0000" size={6}>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+        재오픈
+      </div>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+        <span style={{ textAlign: "center" }}>
+          러블리에서
+        </span>
+      </div>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+        <span style={{ textAlign: "center" }}>
+           티씨 11만원 방갯수 보장
+        </span>
+      </div>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+        <span style={{ textAlign: "center" }}>
+          란제리x 인사x 마무리x
+        </span>
+      </div>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+        <span style={{ textAlign: "center" }}>
+          정통 퍼블릭입니다.
+        </span>
+      </div>
+    </font>
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+    자격은?!
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+    <br />
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+     20~35세 투잡,초보,백조,휴학생모두모두환영이예용^0^
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+    <br />
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+    {" "}
+    미성년자 불가
+  </div>
+  <div style={{ textAlign: "center" }} align="center">
+    <br />
+  </div>
+  <div style={{ textAlign: "center" }} align="center">
+    <font color="#ff0000" size={6}>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+        24시간 영업
+      </div>
+    </font>
+  </div>
+  <div style={{ lineHeight: 2, textAlign: "center" }} align="center">
+             
+    
+  </div>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font size={3}>
+     {" "}
+      <font size={3}> 같은 일 힘든 방도있고 쉬운방도있습니다.</font>
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font size={3}>
+      
+      하지만 페이는 챙겨가세요 똑같은 퍼블릭 이지만{" "}
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font size={3}>
+      <font color="#c00000">
+        저희 업소는 1시간30분이라는 메리트가있습니다.
+      </font>
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font color="#c00000" size={3}>
+      티씨는
+      11만원 씩지급하고있습니다 !!
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font color="#c00000" size={3}>
+      
+      똑같은 퍼블릭 에서일하고 있거나{" "}
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font color="#c00000" size={3}>
+     
+      란제리에서 일하고 계신분들은{" "}
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font color="#c00000" size={3}>
+      일글
+      읽으시고 꼭연락주세요{" "}
+    </font>
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font color="#c00000" size={3}>
+     
+      오셔서 란제리일시 100만원 지급{" "}
+    </font>
+  </p>
+  <div style={{ textAlign: "center" }} align="center">
+    <font color="#c00000" size={3}>
+      <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+       
+      </div>
+    </font>
+  </div>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+  
+  </p>
+  <p style={{ textAlign: "center" }} align="center" />
+  <div style={{ textAlign: "left" }} align="left">
+    <br />
+  </div>
+  <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
               
+        <font color="#ff0000">
+      선릉역
+      10번 출구 1분
+    </font>
+  </div>
+  <p style={{ textAlign: "center" }} align="center" />
+  <p style={{ textAlign: "center" }} align="center" />
+  <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+            
+  </div>
+  <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+              
+      언니들 요즘경기에 힘드신데 하루나와주셔도 감사합니다.
+  </div>
+  <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    가족같은분위기에 우리즐겁게 일 해봐요♡
+  </div>
+  <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
+              
+         기타 궁금하신 사항은 언제든지 연락
+    주세요~~
+  </div>
+  <p style={{ textAlign: "center" }} align="center" />
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    
+  </p>
+  <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
+    <font color="#ff0000" size={6}>
+           이사장 010.4140.5907{" "}
+    </font>
+  </p>
+  <p style={{ textAlign: "left" }}>
+    <font color="#ff0000" size={6}>
+      <br />
+    </font>
+  </p>
+  {/* search서울 강남구 룸살롱[클럽] search */}
+</div>;
 
+              </div>
+              
+              </div>
             </div>
           </div>
           <div className="lastAd">
@@ -276,9 +379,10 @@ class Pro2Page extends Component {
           </div>
         </div>
       </div>
-      </div>
+      
     )
   }
 }
 
 export default Pro2Page
+
