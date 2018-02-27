@@ -46,11 +46,12 @@ class TextMain extends Component {
                     </div>
                     <div className="text-left-content">
                     <a>동종업계NO1■♡■당일페이■♡■</a>
-                    </div> <div className="text-left-loca">
+                    </div> 
+                    <div className="text-left-loca">
                         강남구 서초동
                     </div>
                     <div className="text-left-content">
-                    <a>★안양평촌 최고의대우 1등업소 더블유..</a>
+                    <a style={{"color":"red"}}>★안양평촌 최고의대우 1등업소 더블유..</a>
                     </div> <div className="text-left-loca">
                         강남구 서초동
                     </div>
@@ -60,7 +61,7 @@ class TextMain extends Component {
                         강남구 서초동
                     </div>
                     <div className="text-left-content">
-                    <a>▶야간매니저 급구◀업계최고대우●가족같은분.. </a>
+                    <a style={{"backgroundColor":"yellow"}}>▶야간매니저 급구◀업계최고대우●가족같은분.. </a>
                     </div> <div className="text-left-loca">
                         강남구 서초동
                     </div>
@@ -80,7 +81,7 @@ class TextMain extends Component {
                         강남구 서초동
                     </div>
                     <div className="text-left-content">
-                    <a>■1순위 안전 ■2순위 갯수 </a>
+                    <a style={{"backgroundColor":"#D3F9FF"}}>■1순위 안전 ■2순위 갯수 </a>
                     </div> <div className="text-left-loca">
                         강남구 서초동
                     </div>
@@ -147,7 +148,7 @@ class TextMain extends Component {
                         강남구 서초동
                     </div>
                     <div className="text-left-content">
-                    <a>↖↖술x진상x텃새x↗↗고페이보장↗↗</a>
+                    <a style={{"color":"blue"}}>↖↖술x진상x텃새x↗↗고페이보장↗↗</a>
                     </div> <div className="text-left-loca">
                         강남구 서초동
                     </div>
