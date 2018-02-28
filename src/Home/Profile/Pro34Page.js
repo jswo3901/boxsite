@@ -9,7 +9,7 @@ import last_ad from './lastAdd.jpg'
 import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
 
-class Pro9Page extends Component {
+class Pro34Page extends Component {
   render() {
     return (
       <div>
@@ -198,378 +198,426 @@ class Pro9Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>six</b>
+    <b>♥순수테이블♥</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
     <p align="center" style={{ margin: 0 }}>
-      &nbsp;<span style={{ fontSize: "small" }}>안녕하세요&nbsp;</span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <font color="#ff0000" style={{}} size={4}>
-        <b style={{}}>강남 1등 영업 마담&nbsp;</b>
+      <font face="굴림" size={5}>
+        안녕하세요~♥
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font color="#ff0000" style={{}} size={4}>
-        <b style={{}}>★한별 상무★</b>
+      <font size={5}>
+        <font face="굴림">
+          <strong>
+            <font color="#7030a0" size={6}>
+              나두식
+            </font>
+          </strong>상무 인사드립니다~!!
+        </font>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2}>인사드릴게요</font>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <font size={2}>언니♥</font>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        <br />
+      <font color="#7030a0" face="굴림" size={6}>
+        <strong>010- 3892- 1280</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        누구보다도 남자가 아닌&nbsp;
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        저희가게는{" "}
+        <font color="#ff0000" size={5}>
+          <strong>강남권1등</strong>
+        </font>{" "}
+        가게지만{" "}
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        같은 여자로써&nbsp;
+      <font face="굴림" size={4}>
+        그안에서도 저희팀이{" "}
+        <font color="#ff0000" size={5}>
+          <strong>영업매출1위</strong>
+        </font>{" "}
+        입니당~
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        <br />
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        가게도 손님이 넘쳐나지만 저희팀 손님만으로도{" "}
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "small" }}>보다 </span>
-      <font color="#ff0000" style={{ fontSize: "small" }}>
-        동질감을 느끼고
-      </font>
-      <span style={{ fontSize: "small" }}>&nbsp;</span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        말하지 않아도 아는거 알죠?&nbsp;&nbsp;
+      <font size={4}>
+        <font face="굴림">
+          <font color="#ff0000" size={5}>
+            <strong>기본갯수</strong>
+          </font>는 보장해줄수있어요~
+        </font>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}} color="#ff0000">
-        우리 사이는 말하지 않아도 아는 그런&nbsp;
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        그래서 어느담당을 만나는가에{" "}
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}} color="#ff0000">
-        동네 언니 스탈♥
+      <font face="굴림">
+        <font size={4}>돈벌는 차이가 </font>
+        <font size={4}>확실히 </font>
+        <font size={4}>나는거죠~ </font>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        <br />
+      <font face="굴림" size={4}>
+        기본적으로<font size={6}>
+          <font color="#ff0000">
+            {" "}
+            <strong>
+              <font size={5}>5개는보장</font>
+            </strong>
+          </font>
+        </font>
+        <font size={5}> </font>해줄수 있구요~
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        백날 말해도 모르는 남자들과는&nbsp;
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        5개이상 돈벌고자하는 욕심있는언니들이면
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        달라도 너무 다른다는거&nbsp;
+      <font face="굴림" size={4}>
+        다른언니들보다 출근시간을 두시간정도 빨리한다면
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        ㅎㅎㅎ
+      <font size={4}>
+        <font face="굴림">
+          <font color="#ff0000" size={5}>
+            <strong>7-9개</strong>
+          </font>{" "}
+          갯수 맞춰드릴수있어요~!!{" "}
+        </font>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        <br />
+      <font face="굴림" size={4}>
+        강남권에서 하루{" "}
+        <font color="#ff0000" size={5}>
+          <strong>10개 12개</strong>
+        </font>{" "}
+        나오는가게는{" "}
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        ★한별★
+      <font face="굴림" size={4}>
+        저희가게뿐이라고 장담할수 있어요~
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2} style={{}}>
-        &nbsp;여러분을&nbsp;
+      <font face="굴림" size={4}>
+        (여기서 왼쪽손모가지 걸고갑시다~!!ㅋ)
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={2}>
-        <font color="#ff0000">확실하게 케어 할게요</font>&nbsp;&nbsp;
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        어느가게서 일하든 기본적으로 언니들이{" "}
       </font>
-      <font size={4} style={{ color: "#ff0000" }}>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        돈벌고자하는 욕심이 기본베이스인거죠~
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        욕심이있느냐 없느냐 에 따라서{" "}
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        돈벌어가는 액수가 차이 나는건 맞습니다!!ㅋ
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        기본베이스가 되있는 언니들이라면{" "}
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4}>
+        <font face="굴림">
+          <font color="#ff0000" size={5}>
+            <strong>물심양면</strong>
+          </font>으로 팍팍~!!{" "}
+        </font>
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4}>
+        <font face="굴림">
+          <font size={5}>
+            <font color="#ff0000">
+              <strong>간.쓸개</strong>
+            </font>{" "}
+          </font>다빼놓고 밀어드리겠습니다!!
+        </font>
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        가게소개를 간략하게 해드릴께요~!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        1. 저희가게는{" "}
+        <font color="#ff0000" size={5}>
+          <strong>순수테이블</strong>
+        </font>가게입니다
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        2. 페이는{" "}
+        <font size={5}>
+          <font color="#ff0000">
+            <strong>1시간10만원</strong>
+          </font>{" "}
+        </font>★<font color="#ff0000" size={5}>
+          <strong>당일지급</strong>
+        </font>★
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp; 일요일.공휴일 365일 연중무휴{" "}
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp; (주말알바.단기알바.투잡알바.
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        한달에한두번 돈이급하게
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp;&nbsp;필요한날만 나와서벌어가도되요)
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        3. 영업시간은{" "}
+        <font size={5}>
+          <font color="#ff0000">
+            <strong>오후7시부터</strong>
+          </font>{" "}
+        </font>
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        오전7시까지 넘쳐나지만
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp; 출근.퇴근시간은{" "}
+        <font color="#ff0000" size={5}>
+          <strong>자유</strong>
+        </font>~!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp; 절대 강요없어요~!! 필요한만큼만 벌어가요~!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        4. 강남이라 걱정하는 외모!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp; NO~NO!! 절대걱정마요~!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp;{" "}
+        <font color="#ff0000" size={5}>
+          <strong>초보</strong>
+        </font>라구요??{" "}
+        <font color="#ff0000" size={5}>
+          <strong>대환영</strong>
+        </font>입니다!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp; 가게내에{" "}
+        <font color="#000000">헤어.렌탈.사물함.식당.매점</font> 다있어요~!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;&nbsp; 몸만오셔도 굿!! 바로 일할수있게 해드릴께요~!!
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림">
+        <font size={4}>▶더 궁금한점있으면 </font>
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림">
+        <font size={4}>
+          부담없이 바로<font color="#ff0000">
+            <strong>
+              {" "}
+              <font size={5}>전화주세요</font>
+            </strong>
+          </font>
+        </font>◀
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        &nbsp;&nbsp;{" "}
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font color="#7030a0" face="굴림" size={6}>
+        <strong>나두식</strong>
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font color="#7030a0" face="굴림" size={6}>
+        <strong>010- 3892-1280</strong>
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림">
+        <strong>
+          <font color="#7030a0" size={6}>
+            na1281
+          </font>
+        </strong>&nbsp;
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4} />&nbsp;
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림" size={4}>
+        ▶부재시에는{" "}
+        <font color="#ff0000" size={5}>
+          <strong>문자나카톡</strong>
+        </font>주시면{" "}
+      </font>
+    </p>
+    <p align="center" style={{ margin: 0 }}>
+      <font face="굴림">
+        <font size={4}>&nbsp; 확인 하는대로 연락드릴께요</font>◀
+      </font>
+    </p>
+    <p style={{ margin: 0 }}>
+      <font size={4} />
+      <font face="굴림">&nbsp;</font>
+    </p>
+    <p style={{ margin: 0 }}>
+      <font size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4} />&nbsp;
+    </p>
+    <p style={{ margin: 0 }}>
+      <font face="Tahoma" size={4}>
         &nbsp;
       </font>
     </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <br />
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>그럼 이제부터&nbsp;</span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        1분 1초가 소중한 우리 언니들에게&nbsp;
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>우리 가게 시스템&nbsp;</span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>이해하기 쉽게&nbsp;&nbsp;</span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      브리핑 한번 할게용
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      렛츠 고우~~~!
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{ fontSize: "9pt" }}>
-        <br />
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{ fontSize: "9pt" }}>
-        <br />
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{ fontSize: "9pt" }}>
-        1.<font color="#ff0000">순수 100% 테이블 진행</font>
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        정확히 더도말고 딱 <font color="#ff0000">1시간</font> only 테이블
-        진행이며&nbsp;
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>다른 업소와는 비교가 안되는 회전율로 고페이 보장해요&nbsp;</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        <br />
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <b>
-          2.무조건 당일페이 <font color="#ff0000">당일지급</font>&nbsp;
-        </b>
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>아직도 그날 번 페이 당일에 못받는 업소에서 일하신다면</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>이제 당일지급 받는 업소에서 편히 일하세요♥</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        <br />
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        3.<font color="#ff0000">방 1TC 10만원</font>
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>누구와도 비교가 안되는 페이 지급&nbsp;</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>남들 9만원 받을때 1만원 씩 더 받아가세요&nbsp;</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>한달이면 낮일하는 사람들 한달 월급인거 아시죠?</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        4.<font color="#ff0000">출/퇴근 자율</font>
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>언제든 본인이 원하는 요일.시간에 마음편히 출근하세요 언니♥</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        <br />
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        <br />
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        5.<font color="#ff0000">무리한 출퇴근 강요 연락 절대 X</font>
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{}}>누구보다도 같은 여자로써&nbsp;</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{}}>남자친구 또는 가족.친구들 있을떄&nbsp;</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>곤란한 상황 많았죠?&nbsp;</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{}}>
-        저는 애초에 곤란한 상황을 만들지 않아요&nbsp;<font color="#ff0000">
-          &nbsp;
-        </font>
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <font color="#ff0000">
-        <b>
-          <br />
-        </b>
-      </font>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b>
-        6..<font color="#ff0000">대학생.초보자.경험자.알</font>
-      </b>
-      <b style={{ fontSize: "9pt" }}>
-        <font color="#ff0000">바.투잡&nbsp;&nbsp;</font>
-      </b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <b style={{ fontSize: "9pt" }}>♥두손 두발 들어 환영해요♥</b>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <br />
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <b>
-          <br />
-        </b>
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <b>24시간 언제 어디서든 편하게&nbsp;</b>
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <b>
-          <font color="#ff0000">동네 언니/동생처럼</font> 통화 가능하니&nbsp;
-        </b>
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
-        <b>문의 연락 주세요&nbsp;</b>
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ color: "#ff0000", fontSize: "x-large" }} />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <span style={{ color: "#ff0000", fontSize: "x-large" }}>
-        ★강남 1등 마담★
-      </span>
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <font color="#ff0000" size={5}>
-        한 별 상무
-      </font>&nbsp;
-    </p>
-    <p align="center" style={{ margin: 0 }}>
-      <br />
-    </p>
-    <font color="#000000">
-      <p align="center" style={{ margin: 0 }}>
-        <font size={6}>&nbsp;</font>
-        <font color="#000000" size={6} style={{ fontSize: "xx-large" }}>
-          {" "}
-        </font>
-        <font color="#000000" style={{}} size={5}>
-          010-5429-9326
-        </font>
-      </p>
-      <p align="center" style={{ margin: 0 }}>
-        <font size={5}>&nbsp;카톡/라인 : ababc5429</font>
-      </p>
-    </font>
-    <p align="center" style={{ margin: 0 }}>
-      &nbsp;
-    </p>
-    <font size={6}>
-      <p align="center" style={{ margin: 0 }}>
-        &nbsp;
-      </p>
-      <p style={{ margin: 0 }}>
-        <br />
-      </p>
-    </font>
     <p style={{ margin: 0 }}>
-      <font size={3}>
-        <br />
-      </font>
+      <font face="Tahoma" size={5} />&nbsp;
     </p>
-    <p align="center" style={{ margin: 0 }}>
-      &nbsp;
-    </p>
-    <strong>
-      <p align="center" style={{ margin: 0 }}>
-        &nbsp;
-      </p>
-      <p style={{ margin: 0 }}>
-        <br />
-      </p>
-    </strong>
-    <p style={{ margin: 0 }}>
-      <br />
-    </p>
-    <p style={{ margin: 0 }}>
-      <br />
-    </p>
+    <p style={{ margin: 0 }}>&nbsp;</p>
   </font>
   <br />
 </div>;
@@ -589,4 +637,4 @@ class Pro9Page extends Component {
   }
 }
 
-export default Pro9Page
+export default Pro34Page

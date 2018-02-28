@@ -9,7 +9,7 @@ import last_ad from './lastAdd.jpg'
 import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
 
-class Pro10Page extends Component {
+class Pro32Page extends Component {
   render() {
     return (
       <div>
@@ -815,4 +815,4 @@ class Pro10Page extends Component {
   }
 }
 
-export default Pro10Page
+export default Pro32Page
