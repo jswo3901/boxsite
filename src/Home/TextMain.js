@@ -13,7 +13,15 @@ class TextMain extends Component {
     render() {
         return (
             <div className="text_main">
-                <img className="textInfo" src={textInfo} />
+            
+            <div>
+            
+            <h4> &nbsp;</h4>
+              <h3 className="textInfo">
+              
+                ◎일반 채용정보
+              </h3>
+            </div>
                 <div className="text-left-main">
                     <div className="text-left-loca">
                         강남구 서초동

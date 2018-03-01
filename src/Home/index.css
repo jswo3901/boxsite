@@ -39,7 +39,7 @@
   width: 175px;
   height: 106px;
   text-align: center;  
-  background-image: url(box1.gif);
+  background-image: url(boxTest.jpg);
   display: block;
   float: left;
   margin-right:5px;
@@ -85,10 +85,17 @@
 
 .boxMainLogo {
   margin-bottom: 10px;
+  text-align: left;
+  color: #000;
+  font: bold 19px/1.2 'Malgun Gothic';
 }
 .textInfo {
   margin-bottom: 10px;
+  text-align: left;
+  color: #000;
+  font: bold 19px/1.2 'Malgun Gothic';
 }
+
 .text_main {
   width: 900px;
   margin: 0 auto;

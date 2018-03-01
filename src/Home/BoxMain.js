@@ -63,8 +63,11 @@ class BoxMain extends Component {
   render() {
     return (
         <div className="box_main">
-          <div className="boxMainLogo">
-            <img src={boxInfo} />
+          <div>
+            {/* <img src={boxInfo} /> */}
+            <h3 className="boxMainLogo">
+            ◎브랜드 채용정보
+            </h3>
           </div>
         <div className="box_1">
           <Link to="/pro1">
