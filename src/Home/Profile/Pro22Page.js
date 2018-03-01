@@ -17,15 +17,15 @@ class Pro22Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.03.02 17:33</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">청담 프린세스</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>청담★연예인손님 많아요~</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro22Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro22Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro22Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro22Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 청담동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro22Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro22Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00 ~ 10:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro22Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              프린세스
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro22Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              김대표
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro22Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>◆청담언니◆</b>
+    <b>◆청담 프린세스◆</b>
   </font>
   <br />
   <br />
@@ -207,7 +206,7 @@ class Pro22Page extends Component {
     <p align="center" style={{ margin: 0, textAlign: "center" }}>
       <font size={5}>
         <strong>
-          <font color="#002060">◆강남 청담언니◆</font>
+          <font color="#002060">◆강남청담 프린세스◆</font>
         </strong>
         <br />
       </font>
@@ -225,14 +224,6 @@ class Pro22Page extends Component {
       <font size={4}>
         <font face="맑은 고딕">
           <strong>안녕하세요&nbsp;~</strong>
-          <img
-            width={90}
-            height={90}
-            style={{ margin: "1px 4px", verticalAlign: "middle" }}
-            alt
-            src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/93.gif"
-            border={0}
-          />
         </font>
       </font>
       <br />
@@ -269,7 +260,7 @@ class Pro22Page extends Component {
     <p align="center" style={{ margin: 0, textAlign: "center" }}>
       <span style={{ fontSize: "12pt" }}>
         <font color="#000000">
-          <strong>언니와 함께할 언니를 찾고 있습니다~!</strong>
+          <strong>함께할 언니를 찾고 있습니다~!</strong>
         </font>
       </span>
     </p>
@@ -298,7 +289,7 @@ class Pro22Page extends Component {
     <p align="center" style={{ margin: 0, textAlign: "center" }}>
       <span style={{ fontSize: "12pt" }}>
         <font color="#000000">
-          <strong>마지막으로 언니 광고 잘봤어요~</strong>
+          <strong>마지막으로 제 광고 잘봤어요~</strong>
         </font>
       </span>
     </p>
@@ -315,7 +306,7 @@ class Pro22Page extends Component {
           <strong>
             이왕이면{" "}
             <font color="#ff0000">
-              <font size={4}>꼼꼼</font>하고 <font size={4}>세심</font>한언니와
+              <font size={4}>꼼꼼</font>하고 <font size={4}>세심</font>한김대표와
             </font>
           </strong>
         </font>
@@ -343,8 +334,8 @@ class Pro22Page extends Component {
         <font color="#000000">
           <strong>
             저 <font color="#ff0000">청담</font>
-            <font color="#ff0000">언</font>
-            <font color="#ff0000">니</font>는여~
+            <font color="#ff0000">프린</font>
+            <font color="#ff0000">세스</font>는
           </strong>
         </font>
       </span>
@@ -352,7 +343,7 @@ class Pro22Page extends Component {
     <p align="center" style={{ margin: 0, textAlign: "center" }}>
       <span style={{ fontSize: "12pt" }}>
         <font color="#000000">
-          <strong>진실과 능력, 행동으로 승부볼께요~</strong>
+          <strong>진실과 능력, 행동으로 승부 보겠습니다.</strong>
         </font>
       </span>
     </p>
@@ -368,7 +359,7 @@ class Pro22Page extends Component {
         <font color="#000000">
           <strong>
             다 <font color="#ff0000">담당</font>
-            <font color="#ff0000">언니</font>의 차이와{" "}
+            <font color="#ff0000">실장</font>의 차이와{" "}
             <font color="#ff0000">능력</font>이랍니다~
           </strong>
         </font>
@@ -409,7 +400,7 @@ class Pro22Page extends Component {
             {" "}
             <strong>
               <font color="#c00000">◆청담</font>
-              <font color="#ff0000">언니</font>
+              <font color="#ff0000">프린세스</font>
               <font color="#000000">인사드려여</font>
             </strong>
           </u>
@@ -422,37 +413,10 @@ class Pro22Page extends Component {
         <br />
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
-        <img
-          style={{
-            borderWidth: 0,
-            margin: 0,
-            width: 32,
-            height: 27,
-            verticalAlign: "middle",
-            borderImageSource: "none"
-          }}
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/32.gif"
-          border={0}
-        />
         <font face="맑은 고딕" size={4}>
-          <b>힘을내욜 슈퍼빠월</b>
+          
         </font>
-        <img
-          style={{
-            borderWidth: 0,
-            margin: 0,
-            width: 32,
-            height: 27,
-            lineHeight: "1.5",
-            fontSize: "9pt",
-            verticalAlign: "middle",
-            borderImageSource: "none"
-          }}
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/32.gif"
-          border={0}
-        />&nbsp;
+        &nbsp;
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font style={{ fontSize: "12pt" }}>
@@ -464,18 +428,18 @@ class Pro22Page extends Component {
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font style={{ fontSize: "12pt" }}>
           <font color="#ff0000" size={4}>
-            <strong>◆청담언니</strong>
+            <strong>◆청담 프린세스</strong>
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              :&nbsp;<strong>010 5574 8764</strong>{" "}
+              :&nbsp;<strong>010 5279 3901</strong>{" "}
             </span>
           </font>
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font color="#0000ff" style={{ fontSize: "16pt" }}>
-          &nbsp;카톡 ID : endamus69
+          &nbsp;카톡 ID : 카톡아이디
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
@@ -511,8 +475,8 @@ class Pro22Page extends Component {
           <strong>
             <u>
               <span style={{ color: "rgb(255, 0, 0)" }}>돈벌이1등 ◆청</span>
-              <span style={{ color: "rgb(255, 0, 0)" }}>담언</span>
-              <font color="#ff0000">니</font>에게 연락주세여
+              <span style={{ color: "rgb(255, 0, 0)" }}>담</span>
+              <font color="#ff0000">프린세스</font>에 연락주세여
             </u>{" "}
             ^^*
           </strong>
@@ -543,7 +507,7 @@ class Pro22Page extends Component {
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <span style={{ fontSize: "11pt" }}>
           <font color="#000000">
-            <strong>별언니가</strong>{" "}
+            <strong>김대표가</strong>{" "}
           </font>
           <strong>
             <font color="#000000">언니들에게 든든한 빽이되어드리겠어여~</font>
@@ -554,7 +518,7 @@ class Pro22Page extends Component {
         <span style={{ fontSize: "11pt" }}>
           <strong>
             <font color="#000000">
-              같은 여자로써 강남최고의 대우를 해드리구여~
+              청담 1등가게로써 강남최고의 대우를 해드리구여~
             </font>
           </strong>
         </span>
@@ -624,7 +588,7 @@ class Pro22Page extends Component {
             <u>
               <font color="#c00000">◆청담</font>
               <font color="#ff0000">
-                언니가 언니들에게 큰힘이 되어드리겠습니다~!
+                프린세스가 언니들에게 큰힘이 되어드리겠습니다~!
               </font>
             </u>
           </strong>
@@ -724,7 +688,7 @@ class Pro22Page extends Component {
           <strong>
             <u>
               <font color="#ff0000">
-                강남1등 ◆청담언니에 능력을 보여드릴께여~
+                강남1등 ◆청담프린세스에 능력을 보여드릴께여~
               </font>
             </u>
           </strong>
@@ -741,37 +705,10 @@ class Pro22Page extends Component {
         <br />
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
-        &nbsp;<img
-          style={{
-            borderWidth: 0,
-            margin: 0,
-            width: 32,
-            height: 27,
-            verticalAlign: "middle",
-            borderImageSource: "none"
-          }}
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/32.gif"
-          border={0}
-        />
+        &nbsp;
         <font face="맑은 고딕" size={4}>
-          <b>힘을내욜 슈퍼빠월</b>
         </font>
-        <img
-          style={{
-            borderWidth: 0,
-            margin: 0,
-            width: 32,
-            height: 27,
-            lineHeight: "1.5",
-            fontSize: "9pt",
-            verticalAlign: "middle",
-            borderImageSource: "none"
-          }}
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/32.gif"
-          border={0}
-        />
+        
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font style={{ fontSize: "12pt" }}>
@@ -784,19 +721,19 @@ class Pro22Page extends Component {
         <font style={{ fontSize: "12pt" }}>
           <font color="#ff0000">
             <span style={{ fontSize: "14pt" }}>
-              ◆<strong>청담언니</strong>
+              ◆<strong>청담프린세스</strong>
             </span>
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              :&nbsp;<strong>010 5574 8764</strong>{" "}
+              :&nbsp;<strong>010 5279 3901</strong>{" "}
             </span>
           </font>
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font color="#0000ff" style={{ fontSize: "16pt" }}>
-          카톡 ID : endamus69
+          카톡 ID : 카톡아이디
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
@@ -812,7 +749,7 @@ class Pro22Page extends Component {
           <strong>A) 일자리</strong>
         </span>
         <span style={{ fontSize: "14pt" }}>
-          &nbsp;<img src="https://ssl.pstatic.net/static/pwe/nm/se2_new/emoticon/3_32.gif" />
+          &nbsp;
         </span>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
@@ -891,7 +828,7 @@ class Pro22Page extends Component {
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <span style={{ fontSize: "11pt" }}>
           <strong>
-            <span style={{ color: "rgb(255, 0, 0)" }}>◆청담언니와 </span>
+            <span style={{ color: "rgb(255, 0, 0)" }}>◆청담프린세스와 </span>
             <font color="#000000">상담하시면서 커피한잔하시는 언니들은</font>
           </strong>
         </span>
@@ -956,7 +893,7 @@ class Pro22Page extends Component {
         <span style={{ fontSize: "11pt" }}>
           <strong>
             <span style={{ color: "rgb(255, 0, 0)" }}>
-              &nbsp;◆청담언니 강남최고팀20명이{" "}
+              &nbsp;◆청담 프린세스 강남최고팀20명이{" "}
             </span>
             <font color="#000000">언니에게 1:1매니저가되어</font>
           </strong>
@@ -1016,7 +953,7 @@ class Pro22Page extends Component {
           <strong>B) 선성형</strong>
         </span>
         <span style={{ fontSize: "14pt" }}>&nbsp;</span>
-        <img src="https://ssl.pstatic.net/static/pwe/nm/se2_new/emoticon/3_32.gif" />
+        
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <span style={{ color: "rgb(120, 32, 185)", fontSize: "11pt" }}>
@@ -1080,7 +1017,7 @@ class Pro22Page extends Component {
             <strong>
               <img src />
               <font color="#c00000">◆청담</font>
-              <font color="#ff0000">언니</font>가 얼마든지 만들어 드려여 ^^*
+              <font color="#ff0000">프린세스</font>가 얼마든지 만들어 드려여 ^^*
             </strong>
           </font>
         </span>
@@ -1120,7 +1057,7 @@ class Pro22Page extends Component {
         <span style={{ fontSize: "11pt" }}>
           <strong>
             <font color="#ff0000">강</font>
-            <font color="#ff0000">남1등 ◆청담언니의&nbsp; 노하우로</font>
+            <font color="#ff0000">남1등 ◆청담프린세스의&nbsp; 노하우로</font>
           </strong>
         </span>
       </p>
@@ -1156,7 +1093,7 @@ class Pro22Page extends Component {
           <strong>C) 원룸*선불금</strong>
         </span>
         <span style={{ color: "rgb(120, 32, 185)", fontSize: "14pt" }}>
-          &nbsp;<img src="https://ssl.pstatic.net/static/pwe/nm/se2_new/emoticon/3_32.gif" />
+          &nbsp;
         </span>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
@@ -1230,37 +1167,10 @@ class Pro22Page extends Component {
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <span style={{ fontSize: "11pt" }}>
           <strong>&nbsp;</strong>
-          <img
-            style={{
-              borderWidth: 0,
-              margin: 0,
-              width: 32,
-              height: 27,
-              verticalAlign: "middle",
-              borderImageSource: "none"
-            }}
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/32.gif"
-            border={0}
-          />
           <font face="맑은 고딕" size={4}>
-            <b>힘을내욜 슈퍼빠월</b>
+            
           </font>
-          <img
-            style={{
-              borderWidth: 0,
-              margin: 0,
-              width: 32,
-              height: 27,
-              lineHeight: "1.5",
-              fontSize: "9pt",
-              verticalAlign: "middle",
-              borderImageSource: "none"
-            }}
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/32.gif"
-            border={0}
-          />
+          
         </span>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
@@ -1279,30 +1189,30 @@ class Pro22Page extends Component {
         <font style={{ fontSize: "12pt" }}>
           <font color="#ff0000">
             <span style={{ fontSize: "14pt" }}>
-              ◆<strong>청담언니</strong>
+              ◆<strong>청담 프린세스</strong>
             </span>
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              <font color="#ff0000"> </font>:&nbsp;010 5574 8764{" "}
+              <font color="#ff0000"> </font>:&nbsp;010 5279 3901{" "}
             </span>
           </font>
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font color="#0000ff" style={{ fontSize: "16pt" }}>
-          <span style={{ color: "rgb(120, 32, 185)" }} />카톡 ID : endamus69
+          <span style={{ color: "rgb(120, 32, 185)" }} />카톡 ID : 카톡아이디
         </font>&nbsp;
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
-        <img src="http://catalba.com/images/anigif/g119.gif" />&nbsp;
+        
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <span style={{ fontSize: "11pt" }}>
           <strong>
             <span style={{ color: "rgb(255, 0, 0)", fontSize: "14pt" }}>◆</span>
             <span style={{ color: "rgb(255, 0, 0)", fontSize: "14pt" }}>
-              청담언니
+              청담 프린세스
             </span>
             <span style={{ fontSize: "14pt" }}>
               <font color="#000000">의</font>{" "}
@@ -1315,7 +1225,7 @@ class Pro22Page extends Component {
         <span style={{ fontSize: "11pt" }}>
           <u>
             <strong>
-              <font color="#000000">언제든지 친한 언니에게 물어본다</font>
+              <font color="#000000">언제든지 친한 친구에게 물어본다</font>
             </strong>
           </u>
         </span>
@@ -1373,7 +1283,7 @@ class Pro22Page extends Component {
             <u>
               <span style={{ color: "rgb(0, 158, 37)" }} />
               <font color="#000000">
-                &nbsp;<font color="#c00000">◆청담언니</font>
+                &nbsp;<font color="#c00000">◆청담 프린세스</font>
               </font>
             </u>
           </strong>

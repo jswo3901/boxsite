@@ -17,15 +17,15 @@ class Pro19Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.23 20:41</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">리얼 텐</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>강남1등 리얼 Ten</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro19Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro19Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro19Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro19Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 서초동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro19Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro19Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~11:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro19Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              Ten
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro19Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              성화실장
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro19Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>느낌표</b>
+    <b>Ten</b>
   </font>
   <br />
   <br />
@@ -216,7 +215,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#00b0f0" size={5}>
-            선릉,분당
+            서초,역삼
           </font>
         </b>
       </p>
@@ -248,12 +247,12 @@ class Pro19Page extends Component {
           <b>
             1.{" "}
             <font color="#ffffff" style={{ backgroundColor: "#00b0f0" }}>
-              선릉,분당&nbsp;
+              서초,역삼&nbsp;
             </font>
           </b>
           <b>
             <font color="#ffffff" style={{ backgroundColor: "#00b0f0" }}>
-              TOP 페이
+              최고의 페이 보장
             </font>
           </b>
         </font>
@@ -303,7 +302,7 @@ class Pro19Page extends Component {
               color="#ffffff"
               style={{ backgroundColor: "#00b0f0" }}
             >
-              선릉,분당에서 가장 안전한 가게
+              역삼,서초에서 가장 안전한 가게, 손님의 수준이 가장 높은 가게
             </font>
           </font>
         </b>
@@ -354,14 +353,14 @@ class Pro19Page extends Component {
         <b>
           <font size={5}>
             <font color="#ffffff" style={{ backgroundColor: "#00b0f0" }}>
-              선릉
+              서초
             </font>
           </font>
         </b>
         <b>
           <font size={5}>
             <font color="#ffffff" style={{ backgroundColor: "#00b0f0" }}>
-              ,분당권 손님 최다 보유
+              ,역삼권 손님 최다 보유
             </font>
           </font>
         </b>
@@ -378,7 +377,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#ffffff" size={5} style={{ backgroundColor: "#00b0f0" }}>
-            (한자리에서 7년간 영업중)
+            (한자리에서 10년간 영업중)
           </font>
         </b>
       </p>
@@ -419,7 +418,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-2142-7854 ☏ 카톡 : youyou42
+            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
           </font>
         </b>
       </p>
@@ -447,7 +446,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#ffffff" size={4} style={{ backgroundColor: "#ff0000" }}>
-            선릉.분당에서 아시는분들은 아실만한 손님많다는&nbsp;
+            서초.역삼에서 아시는분들은 아실만한 손님많다는&nbsp;
           </font>
         </b>
       </p>
@@ -582,7 +581,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#ffffff" size={4} style={{ backgroundColor: "#ff0000" }}>
-            (2~5년 근무합니다)
+            (평균적으로 2~5년 근무합니다)
           </font>
         </b>
       </p>
@@ -591,7 +590,7 @@ class Pro19Page extends Component {
       </p>
       <p align="center" style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}>
         <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-          ☏ 010-2142-7854 ☏ 카톡 : youyou42
+          ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
         </font>
       </p>
       <p
@@ -779,7 +778,7 @@ class Pro19Page extends Component {
       </p>
       <p align="center" style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}>
         <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-          ☏ 010-2142-7854 ☏ 카톡 : youyou42
+          ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
         </font>
       </p>
       <p
@@ -953,7 +952,7 @@ class Pro19Page extends Component {
       </p>
       <p align="center" style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}>
         <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-          ☏ 010-2142-7854 ☏ 카톡 : youyou42
+          ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
         </font>
       </p>
       <p
@@ -1038,7 +1037,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#ffffff" size={5} style={{ backgroundColor: "#ff0000" }}>
-            선릉역,서현동,수내 <br />
+            강남역,역삼역 인근 <br />
           </font>
         </b>
       </p>
@@ -1131,7 +1130,7 @@ class Pro19Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-2142-7854 ☏ 카톡 : youyou42
+            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
           </font>
         </p>
       </font>
@@ -1430,7 +1429,7 @@ class Pro19Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-2142-7854 ☏ 카톡 : youyou42
+            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
           </font>
         </p>
       </font>
@@ -1698,7 +1697,7 @@ class Pro19Page extends Component {
       >
         <b>
           <font color="#ffffff" size={5} style={{ backgroundColor: "#ff0000" }}>
-            걱정해주고 생각해주는 분당 No.1
+            걱정해주고 생각해주는 강남 No.1
           </font>
         </b>
       </p>
@@ -1758,7 +1757,7 @@ class Pro19Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-2142-7854 ☏ 카톡 : youyou42
+            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
           </font>
         </p>
       </font>
@@ -1950,7 +1949,7 @@ class Pro19Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-2142-7854 ☏ 카톡 : youyou42
+            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
           </font>
         </p>
       </font>

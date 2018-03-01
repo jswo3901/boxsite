@@ -17,15 +17,15 @@ class Pro28Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.25 09:36</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">퍼블릭 프라임</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>테이블60분/tc10만</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro28Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro28Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro28Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro28Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 서초동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro28Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro28Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~10:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro28Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              프라임
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro28Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              황고실장
                             </span>
                             <span></span>
                           </td>
@@ -199,11 +198,6 @@ class Pro28Page extends Component {
   style={{ marginTop: 10, borderBottom: "1px solid #e0e0e0", padding: 10 }}
 >
   <p align="center" style={{ textAlign: "center", lineHeight: 2 }}>
-    <span style={{ fontSize: "18pt", color: "#ff0000" }}>
-      <u>남들쉴때 우리는 달립니다!!!</u>
-    </span>
-  </p>
-  <p align="center" style={{ textAlign: "center", lineHeight: 2 }}>
     <strong>
       <span style={{ fontSize: "11pt", color: "#000000" }}>&nbsp;</span>
     </strong>
@@ -211,7 +205,7 @@ class Pro28Page extends Component {
   <p align="center" style={{ textAlign: "center", lineHeight: 2 }}>
     <strong>
       <span style={{ fontSize: "11pt", color: "#000000" }}>
-        성남 "<span style={{ fontSize: "14pt", color: "#000000" }}>여인</span>"에서
+        강남역 "<span style={{ fontSize: "14pt", color: "#000000" }}>프라임</span>"에서
         새로운 <span style={{ fontSize: "14pt", color: "#000000" }}>가족</span>을
         모십니다
       </span>
@@ -277,7 +271,7 @@ class Pro28Page extends Component {
     <strong>
       <span style={{ fontSize: "11pt" }}>
         <span style={{ color: "#ff0000" }}>첫째</span>
-        <span style={{ color: "#000000" }}>. 시간당3+@ (당일지급!!)</span>
+        <span style={{ color: "#000000" }}>. TC 100,000원+@ (당일지급!!)</span>
       </span>
       <br />
       <span style={{ fontSize: "11pt" }}>
@@ -370,8 +364,7 @@ class Pro28Page extends Component {
     <br />
     <span style={{ fontSize: "11pt" }}>
       &nbsp;&nbsp;&nbsp;&nbsp;<strong>
-        <span style={{ color: "#000000" }}> 성남시&nbsp;</span>
-        <span style={{ color: "#000000" }}> 전지역</span>
+        <span style={{ color: "#000000" }}> 강남구 서초동&nbsp;</span>
       </strong>
     </span>
   </p>
@@ -489,7 +482,7 @@ class Pro28Page extends Component {
             color: "#000000"
           }}
         >
-          010 2488 8766 (야간)
+          010 5279 3901 (야간)
         </span>
       </span>
       <br />
@@ -500,7 +493,7 @@ class Pro28Page extends Component {
           color: "#000000"
         }}
       >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010 5560 1525 (주간)
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010 5279 3901 (주간)
       </span>
     </strong>
   </p>

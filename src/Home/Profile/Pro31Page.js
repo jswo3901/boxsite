@@ -17,15 +17,15 @@ class Pro31Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.24 14:46</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">강남 셔츠룸,카페 퍼블릭</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>★1시간25분★TC11</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro31Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro31Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro31Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro31Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro31Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~13:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro31Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              스페이스
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro31Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              이태민
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro31Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>six</b>
+    <b>셔츠룸 1타 스페이스</b>
   </font>
   <br />
   <br />
@@ -209,12 +208,12 @@ class Pro31Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" style={{}} size={4}>
-        <b style={{}}>강남 1등 영업 마담&nbsp;</b>
+        <b style={{}}>강남 1등 실장&nbsp;</b>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" style={{}} size={4}>
-        <b style={{}}>★한별 상무★</b>
+        <b style={{}}>태민 상무★</b>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -230,12 +229,12 @@ class Pro31Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={2} style={{}}>
-        누구보다도 남자가 아닌&nbsp;
+        누구보다도 센스있는&nbsp;
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={2} style={{}}>
-        같은 여자로써&nbsp;
+        젊은 패기로&nbsp;
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -262,7 +261,7 @@ class Pro31Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={2} style={{}} color="#ff0000">
-        동네 언니 스탈♥
+        동네 오빠 스탈♥
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -272,7 +271,7 @@ class Pro31Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={2} style={{}}>
-        백날 말해도 모르는 남자들과는&nbsp;
+        백날 말해도 모르는 꼰대들과는&nbsp;
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -292,7 +291,7 @@ class Pro31Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={2} style={{}}>
-        ★한별★
+        ★태민★
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -314,18 +313,18 @@ class Pro31Page extends Component {
       </span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>그럼 이제부터&nbsp;</span>
+      <span style={{ fontSize: "14pt" }}>그럼 이제부터&nbsp;</span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
+      <span style={{ fontSize: "14pt" }}>
         1분 1초가 소중한 우리 언니들에게&nbsp;
       </span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>우리 가게 시스템&nbsp;</span>
+      <span style={{ fontSize: "14pt" }}>우리 가게 시스템&nbsp;</span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>이해하기 쉽게&nbsp;&nbsp;</span>
+      <span style={{ fontSize: "14pt" }}>이해하기 쉽게&nbsp;&nbsp;</span>
     </p>
     <p align="center" style={{ margin: 0 }}>
       브리핑 한번 할게용
@@ -347,7 +346,7 @@ class Pro31Page extends Component {
       </b>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <b style={{ fontSize: "9pt" }}>
+      <b style={{ fontSize: "14pt" }}>
         1.<font color="#ff0000">순수 100% 테이블 진행</font>
       </b>
     </p>
@@ -369,7 +368,7 @@ class Pro31Page extends Component {
       <br />
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
+      <span style={{ fontSize: "14pt" }}>
         <b>
           2.무조건 당일페이 <font color="#ff0000">당일지급</font>&nbsp;
         </b>
@@ -436,7 +435,7 @@ class Pro31Page extends Component {
       </b>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <b style={{}}>누구보다도 같은 여자로써&nbsp;</b>
+      <b style={{}}>누구보다도 같은 젊은피로써 이해합니다.&nbsp;</b>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <b style={{}}>남자친구 또는 가족.친구들 있을떄&nbsp;</b>
@@ -468,12 +467,12 @@ class Pro31Page extends Component {
       <b>
         6..<font color="#ff0000">대학생.초보자.경험자.알</font>
       </b>
-      <b style={{ fontSize: "9pt" }}>
+      <b style={{ fontSize: "14pt" }}>
         <font color="#ff0000">바.투잡&nbsp;&nbsp;</font>
       </b>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <b style={{ fontSize: "9pt" }}>♥두손 두발 들어 환영해요♥</b>
+      <b style={{ fontSize: "14pt" }}>♥두손 두발 들어 환영해요♥</b>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <span style={{ fontSize: "9pt" }}>
@@ -488,19 +487,19 @@ class Pro31Page extends Component {
       </span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
+      <span style={{ fontSize: "14pt" }}>
         <b>24시간 언제 어디서든 편하게&nbsp;</b>
       </span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
+      <span style={{ fontSize: "14pt" }}>
         <b>
-          <font color="#ff0000">동네 언니/동생처럼</font> 통화 가능하니&nbsp;
+          <font color="#ff0000">동네 오빠/동생처럼</font> 통화 가능하니&nbsp;
         </b>
       </span>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <span style={{ fontSize: "9pt" }}>
+      <span style={{ fontSize: "14pt" }}>
         <b>문의 연락 주세요&nbsp;</b>
       </span>
     </p>
@@ -512,12 +511,12 @@ class Pro31Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <span style={{ color: "#ff0000", fontSize: "x-large" }}>
-        ★강남 1등 마담★
+        ★강남 1등 실장★
       </span>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" size={5}>
-        한 별 상무
+        태민 상무
       </font>&nbsp;
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -530,11 +529,11 @@ class Pro31Page extends Component {
           {" "}
         </font>
         <font color="#000000" style={{}} size={5}>
-          010-5429-9326
+          010-5279-3901
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
-        <font size={5}>&nbsp;카톡/라인 : ababc5429</font>
+        <font size={5}>&nbsp;카톡 : 카톡아이디</font>
       </p>
     </font>
     <p align="center" style={{ margin: 0 }}>

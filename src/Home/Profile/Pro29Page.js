@@ -17,15 +17,15 @@ class Pro29Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.24 19:21</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">더 나인</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>순수 테이블 알바</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro29Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro29Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                              [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro29Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro29Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 논현동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro29Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro29Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              17:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro29Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              더나인
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro29Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              윤철실장
                             </span>
                             <span></span>
                           </td>
@@ -199,46 +198,44 @@ class Pro29Page extends Component {
   style={{ marginTop: 10, borderBottom: "1px solid #e0e0e0", padding: 10 }}
 >
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <img src="http://www.kk44.kr/img_up/shop_pds/horsehp1/2016/184_aura7471455467186.gif" />
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>연락처</span>
-    <img src="http://www.kk44.kr/img_up/shop_pds/horsehp1/2016/184_aura7471455467186.gif" />
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>연락처</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
-      ***** 최연상{" "}
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
+       윤철실장{" "}
       <span style={{ color: "rgb(255, 0, 0)" }}>
         <b>
-          <span style={{ fontSize: "9pt" }}>010-4994-3696</span>
+          <span style={{ fontSize: "15pt" }}>010-5279-3901</span>
         </b>
       </span>{" "}
-      *****
+      
     </span>
   </div>
   <div style={{ textAlign: "center" }} align="center">
     <br />
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       많은 &nbsp;광고글&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       이쁜 언니들만을 위한 글은 아닙니다
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       어디서 일을하던 몸과 마음이 편해야&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       정말 돈도 벌수있겠죠..초보자분도&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       우대 받으면서 근무 하실수 있습니다
     </span>
   </div>
@@ -246,91 +243,91 @@ class Pro29Page extends Component {
     <br />
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★수입★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★수입★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       하루를 근무 하더라도 페이는 맞춰 드려요&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       길던 짧게 근무하더라도&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       고소득 알바 하셔야죠~!
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>TC(9~30)</span>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>TC(9~30)</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★휴일★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★휴일★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       주5일근무 가능하며
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       휴일은 주중 &nbsp;아무때나 쉬어도 무관 합니다.
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
-      (개인 어떤사항 이더라도 맞쳐드려요)^^&nbsp;
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
+      (개인 어떤사항 이더라도 맞춰드려요)^^&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★출퇴근★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★출퇴근★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       8시부터~~퇴근은 자유 입니다
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       (돈욕심 있으신 분은 늦게까지 하겠죵!^^)
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★싸이즈★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★싸이즈★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       인물은 따지지 않습니다.&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       술 손님등 시달리던 언니들..&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       사이즈,술NO,단기간 목돈 마련할 언니면OK
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       초보자분 이더라도 돈 욕심 있다면&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       언니들에겐 이보다 좋을순 없죠^^&nbsp;
     </span>
   </div>
@@ -338,42 +335,42 @@ class Pro29Page extends Component {
     <br />
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★연락처★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★연락처★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
-      ***** 최연상{" "}
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
+       윤철실장{" "}
       <span style={{ color: "rgb(255, 0, 0)" }}>
         <b>
-          <span style={{ fontSize: "9pt" }}>010-4994-3696</span>
+          <span style={{ fontSize: "15pt" }}>010-5279-3901</span>
         </b>
       </span>{" "}
-      *****&nbsp;
+      
     </span>
   </div>
   <div style={{ textAlign: "center" }} align="center">
     <br />
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★분위기★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★분위기★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       가게 분위기 젤루 고민되죠~!?
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       본인 성격만 괜찮으면 언니,동생들은
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       다들 너무좋아요 (가족같은 분위기..) &nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       사람 때문에 힘들일은 절대 없을꺼에요&nbsp;
     </span>
   </div>
@@ -381,35 +378,35 @@ class Pro29Page extends Component {
     <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>&nbsp;</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★선불★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★선불★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       적당한 선불은 가능하며&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       물론(100%)무이자 이에요
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       많은 돈은 해드릴순 없지만&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       정말필요하신 언니들껜&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       상담후 해결방법을 의논해 봐요
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       ◈근무 하시게되면 성형지원도 해드려요◈&nbsp;
     </span>
   </div>
@@ -417,17 +414,17 @@ class Pro29Page extends Component {
     <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>
       ▶★페이,결제★◀
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       당일 마감시 결제&amp;주급등 모두 가능하구요
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       언니들 통장에 만족할만큼 금액약속드립니다
     </span>
   </div>
@@ -435,56 +432,56 @@ class Pro29Page extends Component {
     <br />
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>▶★연락처★◀</span>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>▶★연락처★◀</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
-      ***** 최연상{" "}
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
+       윤철실장{" "}
     </span>
     <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
       <span style={{ color: "rgb(255, 0, 0)" }}>
         <b>
-          <span style={{ fontSize: "9pt" }}>010-4994-3696</span>
+          <span style={{ fontSize: "9pt" }}>010-5279-3901</span>
         </b>
       </span>{" "}
-      *****
+      
     </span>
   </div>
   <div style={{ textAlign: "center" }} align="center">
     <br />
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(255, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(255, 0, 0)" }}>
       ▶★업소경험★◀
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       일이 쉽다는건 아니지만 일 경험은 중요하진&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       않아요 정말 단기간 벌고자하는 언니들껜&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       하루하루 안정된 페이로 맞추도록 하며&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       가급적 언니들 입장과 조건에 노력중입니다
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       지방에 계신 언니들도 전화주세요&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       시설 &nbsp;개인숙식환영
     </span>
   </div>
@@ -492,12 +489,12 @@ class Pro29Page extends Component {
     <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>&nbsp;</span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       혹 통화하기 불편하시면 문자나 카톡&nbsp;
     </span>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
-    <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
+    <span style={{ fontSize: "15pt", color: "rgb(0, 0, 0)" }}>
       남기시면 바로 연락 드리겠습니다
     </span>
   </div>
@@ -535,13 +532,6 @@ class Pro29Page extends Component {
             fontWeight: "bold"
           }}
         >
-          <img
-            id="image_0.201136786538963"
-            alt
-            src="http://c1img.cyworld.co.kr/img/myAvatar/2010/myAvatar_17002600_1.gif"
-            border={0}
-            style={{ border: 0 }}
-          />
         </font>
       </font>
     </font>
@@ -553,16 +543,16 @@ class Pro29Page extends Component {
           color: "rgb(255, 0, 0)"
         }}
       >
-        <span style={{ fontSize: "9pt" }}>최연상</span>{" "}
+        
       </span>
       <span
         style={{
-          fontSize: "9pt",
+          fontSize: "15pt",
           backgroundColor: "rgb(255, 255, 255)",
           color: "rgb(255, 0, 0)"
         }}
       >
-        010-4994-3696
+        010-5279-3901
       </span>
     </b>
     <b
@@ -573,12 +563,6 @@ class Pro29Page extends Component {
         fontFamily: "돋움, seoul, arial, helvetica"
       }}
     >
-      <img
-        alt
-        src="http://c1img.cyworld.co.kr/img/myAvatar/2010/myAvatar_17002600_1.gif"
-        border={0}
-        style={{ border: 0 }}
-      />
     </b>
   </div>
   <div style={{ textAlign: "center", lineHeight: "1.8" }} align="center">
@@ -590,7 +574,7 @@ class Pro29Page extends Component {
       }}
     >
       <b>
-        <span style={{ fontSize: "9pt" }}>&nbsp;카톡:ns0904</span>
+        <span style={{ fontSize: "15pt" }}>&nbsp;카톡:카톡아이디</span>
       </b>
     </span>
   </div>
@@ -614,8 +598,7 @@ class Pro29Page extends Component {
       <br />
     </div>
   </div>
-  {/* search서울 강남구 룸살롱[클럽] search */}
-</div>;
+</div>
 
               </div>
               

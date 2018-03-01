@@ -17,15 +17,15 @@ class Pro25Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.27 10:46</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">큐피트</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>강남구 최상위 업소 #큐피트</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro25Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              2019.07.05
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -82,7 +81,7 @@ class Pro25Page extends Component {
                           <th>경험유무</th>
                           <td>
                             <span>
-                              유사직종 경험 상관X
+                              경험 상관X
                             </span> 
                             <span>(초보자도 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro25Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                             [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro25Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro25Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro25Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00 ~ 11:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro25Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              큐피트
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro25Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              정실장
                             </span>
                             <span></span>
                           </td>
@@ -196,7 +195,7 @@ class Pro25Page extends Component {
               <div className="iframeCover">
               <div
   id="ct"
-  style={{ marginTop: 10, borderBottom: "1px solid #e0e0e0", padding: 10 }}
+  style={{ marginTop: 10, borderBottom: "1px solid #e0e0e0", padding: 10, "fontSize":"15px" }}
 >
   <p
     align="center"
@@ -209,14 +208,14 @@ class Pro25Page extends Component {
   >
     <strong>
       <span style={{ fontSize: "24pt", color: "rgb(255, 0, 0)" }}>
-        ★ 벅시 ★
+        ★ 큐피트 ★
       </span>
     </strong>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -224,14 +223,14 @@ class Pro25Page extends Component {
   >
     <strong>
       안녕하세요 강남 최고<font color="#ff0000" size={4}>
-        &nbsp;벅시&nbsp;
+        &nbsp;큐피트&nbsp;
       </font>입니다.
     </strong>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -242,7 +241,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -253,7 +252,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -264,7 +263,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -276,7 +275,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -293,7 +292,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -307,7 +306,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -318,18 +317,18 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
     }}
   >
-    <strong>하루에도 한 두명씩 광고 보고 일을 하러 옵니다.</strong>
+    <strong>하루에도 한 네다섯명씩 광고 보고 일을 하러 옵니다.</strong>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -340,7 +339,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -352,7 +351,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -363,7 +362,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -374,7 +373,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -386,7 +385,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -399,7 +398,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -413,7 +412,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -424,7 +423,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -435,7 +434,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -446,7 +445,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -458,7 +457,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -471,33 +470,31 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
     }}
   >
     <font color="#00b050">
-      <strong>룸70개이고 매일매일 70개가 꽉차고</strong>
+      <strong>룸60개이고 매일매일 60개가 꽉차고</strong>
     </font>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
     }}
   >
-    <font color="#00b050">
-      <strong>밖에서 손님들이 줄을 서고 기다립니다.^^</strong>
-    </font>
+    
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -509,7 +506,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -520,7 +517,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -532,7 +529,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -545,20 +542,20 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
     }}
   >
     <font color="#ff0000" size={4}>
-      <strong>1시간 TC - 9만</strong>
+      <strong>1시간 TC - 10만</strong>
     </font>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -573,7 +570,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -586,7 +583,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -599,7 +596,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -612,7 +609,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -624,20 +621,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
-      textAlign: "-webkit-center",
-      color: "rgb(82, 82, 82)",
-      lineHeight: "2.3"
-    }}
-  >
-    <font color="#ffff00" style={{ backgroundColor: "rgb(23, 54, 93)" }}>
-      <strong>텃세는 없나요?</strong>
-    </font>
-  </p>
-  <p
-    align="center"
-    style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -651,7 +635,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -666,7 +650,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -680,7 +664,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -688,7 +672,7 @@ class Pro25Page extends Component {
   >
     <font color="#8064a2">
       <strong>
-        처음 일하시는 분이나 일을 못하시는 분들이여도 정성스럽게 치고로 만들어
+        처음 일하시는 분이나 일을 못하시는 분들이여도 정성스럽게 최고로 만들어
         드리며
       </strong>
     </font>
@@ -696,7 +680,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -711,7 +695,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -725,7 +709,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -740,7 +724,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -752,7 +736,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -765,7 +749,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -777,7 +761,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -794,7 +778,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -806,7 +790,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -819,7 +803,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -831,7 +815,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -846,7 +830,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -857,7 +841,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -869,7 +853,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -882,7 +866,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -893,7 +877,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -905,7 +889,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -918,7 +902,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -932,7 +916,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -943,7 +927,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -954,7 +938,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -965,7 +949,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -976,7 +960,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -988,7 +972,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -1001,7 +985,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -1012,7 +996,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -1024,7 +1008,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -1035,13 +1019,13 @@ class Pro25Page extends Component {
   </p>
   <p align="center" style={{ textAlign: "-webkit-center", lineHeight: "2.3" }}>
     <font color="#ff0000" size={7}>
-      <b>벅시</b>
+      <b>큐피트</b>
     </font>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -1055,7 +1039,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -1063,14 +1047,14 @@ class Pro25Page extends Component {
   >
     <strong>
       <font color="#ff0000" size={7}>
-        카톡 : dkrl04
+        카톡 : 카톡아이디
       </font>
     </strong>
   </p>
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)"
     }}
@@ -1084,7 +1068,7 @@ class Pro25Page extends Component {
   <p
     align="center"
     style={{
-      fontSize: "9pt",
+      fontSize: "13pt",
       textAlign: "-webkit-center",
       color: "rgb(82, 82, 82)",
       lineHeight: "2.3"
@@ -1092,11 +1076,10 @@ class Pro25Page extends Component {
   >
     <strong>
       <font color="#ff0000" size={7}>
-        010 - 3188 - 4461
+        010 - 5279 - 3901
       </font>
     </strong>
   </p>
-  {/* search서울 강남구 룸살롱[클럽] search */}
 </div>;
 
 

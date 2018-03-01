@@ -8,9 +8,7 @@ import bar from './bar.jpg'
 import last_ad from './lastAdd.jpg'
 import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
-//https://magic.reactjs.net/htmltojsx.htm
-//https://prettier.io/playground/#N4Igxg9gdgLgprEAuEIA0IIAcYEtoDOyoWATrrAOq4AmMAFsgBwAMGMAhgEbV2NIAmDAQoBzADZwAigFcI8ZADMO4gnHakOucWIDCEALYGOyEFGhx0ILprABrODADKWDmDHIYpGepAArAgAPACFbB2cOAzgAGQpLJGVVX1dSNVJTLm4AT3FoKzUDXE9vXxk1ABVuIgSVNQwKNJgABU1RYyVa31I4AEcZXG6WjjaTGqSMMgg1Sk0sUzI4NIA3SwwOUlIIAHcm9YRqkA4liForGggwDvHDghgruswZGCwngXu4AF8PoA
-//style={{"lineHeight":"26px"}}
+
 class Pro24Page extends Component {
   render() {
     return (
@@ -25,9 +23,9 @@ class Pro24Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">플릭</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>★강남논현★갯수NO1★</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -57,16 +55,15 @@ class Pro24Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              2018.05.27
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              15명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -102,7 +99,7 @@ class Pro24Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -111,7 +108,7 @@ class Pro24Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸/퍼블릭
                             </span>
                             <span></span>
                           </td>
@@ -120,7 +117,7 @@ class Pro24Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 서초동
                             </span>
                             <span></span>
                           </td>
@@ -129,7 +126,7 @@ class Pro24Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -138,7 +135,7 @@ class Pro24Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              24시간
                             </span>
                             <span></span>
                           </td>
@@ -161,7 +158,7 @@ class Pro24Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              Flick
                             </span>
                             <span></span>
                           </td>
@@ -170,7 +167,7 @@ class Pro24Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              석윤일
                             </span>
                             <span></span>
                           </td>
@@ -214,7 +211,7 @@ class Pro24Page extends Component {
       </div>
       <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
         <span style={{ textAlign: "center" }}>
-          러블리에서
+          플릭에서
         </span>
       </div>
       <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
@@ -305,7 +302,7 @@ class Pro24Page extends Component {
   </p>
   <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
     <font color="#c00000" size={3}>
-      일글
+      이 글
       읽으시고 꼭연락주세요{" "}
     </font>
   </p>
@@ -332,8 +329,8 @@ class Pro24Page extends Component {
   <div style={{ textAlign: "left", lineHeight: 2 }} align="left">
               
         <font color="#ff0000">
-      선릉역
-      10번 출구 1분
+      강남역
+      2번 출구 1분
     </font>
   </div>
   <p style={{ textAlign: "center" }} align="center" />
@@ -359,7 +356,7 @@ class Pro24Page extends Component {
   </p>
   <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
     <font color="#ff0000" size={6}>
-           이사장 010.4140.5907{" "}
+           석실장 010.5279.3901{" "}
     </font>
   </p>
   <p style={{ textAlign: "left" }}>
@@ -367,8 +364,7 @@ class Pro24Page extends Component {
       <br />
     </font>
   </p>
-  {/* search서울 강남구 룸살롱[클럽] search */}
-</div>;
+</div>
 
               </div>
               

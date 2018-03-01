@@ -23,9 +23,9 @@ class Pro32Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">라인</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>역삼 최다손님보유</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro32Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              2018.03.01
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro32Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                              [TC]110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro32Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              셔츠룸/텐카페
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro32Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro32Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                             18:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro32Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              라인
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro32Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              은실장
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro32Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>유원언니 은부장</b>
+    <b>케어1등 은실장</b>
   </font>
   <br />
   <br />
@@ -212,7 +211,7 @@ class Pro32Page extends Component {
     <p align="center" style={{ margin: 0 }}>
       <strong>
         <font color="#c0504d" size={3}>
-          텐카페 중 유일하게 지원금 드려요!
+          셔츠룸 중 유일하게 지원금 드려요!
         </font>
       </strong>
     </p>
@@ -230,7 +229,7 @@ class Pro32Page extends Component {
       <font color="#7f7f7f" size={3}>
         <strong>
           <font color="#ff0000">√</font>
-          <font color="#000000"> 유원언니 차부장 </font>
+          <font color="#000000"> 케어1등 은실장 </font>
           <font color="#ff0000">√</font>
         </strong>
       </font>
@@ -242,7 +241,7 @@ class Pro32Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#000000" size={3}>
-        <strong>☎ 010-7138-2365 ☎</strong>
+        <strong>☎ 010-5279-3901 ☎</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -252,7 +251,7 @@ class Pro32Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-        <strong>카톡ID gogo011</strong>
+        <strong>카톡ID 카톡아이디</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -280,7 +279,7 @@ class Pro32Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7f7f7f" size={3}>
-        안녕하세요!&nbsp;유원언니에요~
+        안녕하세요!&nbsp;은실장입니다.
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -326,7 +325,7 @@ class Pro32Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7f7f7f" size={3}>
-        <u>(텐프로/텐카페/쩜오/퍼블릭)</u>
+        <u>(텐프로/텐카페/쩜오/퍼블릭/셔츠룸)</u>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -334,7 +333,7 @@ class Pro32Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7f7f7f" size={3}>
-        <font color="#000000">텐프로</font> 21세이상 (T.O 5명){" "}
+        <font color="#000000">셔츠룸</font> 21세이상 (T.O 5명){" "}
         <font color="#000000">면접 후 결정</font>
       </font>
     </p>
@@ -413,7 +412,7 @@ class Pro32Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" size={3}>
-        텐프로 기준
+        셔츠룸 기준
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -452,7 +451,7 @@ class Pro32Page extends Component {
               <font color="#7f7f7f" size={3}>
                 <strong>
                   <font color="#ff0000">√</font>
-                  <font color="#000000"> 유원언니 차부장 </font>
+                  <font color="#000000"> 은실장 </font>
                   <font color="#ff0000">√</font>
                 </strong>
               </font>
@@ -466,7 +465,7 @@ class Pro32Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3}>
-            <strong>☎ 010-7138-2365 ☎</strong>
+            <strong>☎ 010-5279-3901 ☎</strong>
           </font>
         </p>
         <p align="center" style={{ margin: 0 }}>
@@ -476,7 +475,7 @@ class Pro32Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-            <strong>카톡ID gogo011</strong>
+            <strong>카톡ID 카톡아이디</strong>
           </font>
         </p>
       </font>
@@ -666,13 +665,13 @@ class Pro32Page extends Component {
             <td
               style={{ border: "1px solid rgb(0, 0, 0)", borderImage: "none" }}
             >
-              <font color="#7f7f7f">&nbsp;옷 탈의 있나요?</font>
+              <font color="#7f7f7f">&nbsp;술 많이먹나요?</font>
             </td>
             <td
               style={{ border: "1px solid rgb(0, 0, 0)", borderImage: "none" }}
             >
               <font color="#7f7f7f">
-                <font color="#ff0000">&nbsp;NO!! </font>탈의 절대 없어요!{" "}
+                <font color="#ff0000">&nbsp;NO!! </font>절대 많이 안먹습니다!!{" "}
               </font>
             </td>
           </tr>
@@ -711,15 +710,15 @@ class Pro32Page extends Component {
               style={{ border: "1px solid rgb(0, 0, 0)", borderImage: "none" }}
             >
               <font color="#7f7f7f">
-                &nbsp;노력하는 만큼 돈을 벌 수 있나요?{" "}
+                &nbsp;그래서 한달에 얼마나 버나요?{" "}
               </font>
             </td>
             <td
               style={{ border: "1px solid rgb(0, 0, 0)", borderImage: "none" }}
             >
               <font color="#7f7f7f">
-                &nbsp;<font color="#ff0000">YES!! </font>노력하는 모습만 봐도
-                페이는 보장되요!!
+                &nbsp;<font color="#ff0000">YES!! </font>
+                출근만 잘하시면 단언컨데 월천 우습게 넘습니다. 물어보세요~
               </font>
             </td>
           </tr>
@@ -767,7 +766,7 @@ class Pro32Page extends Component {
               <font color="#7f7f7f" size={3}>
                 <strong>
                   <font color="#ff0000">√</font>
-                  <font color="#000000"> 유원언니 차부장 </font>
+                  <font color="#000000"> 케어1등 은실장 </font>
                   <font color="#ff0000">√</font>
                 </strong>
               </font>
@@ -781,7 +780,7 @@ class Pro32Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3}>
-            <strong>☎ 010-7138-2365 ☎</strong>
+            <strong>☎ 010-5279-3901 ☎</strong>
           </font>
         </p>
         <p align="center" style={{ margin: 0 }}>
@@ -791,7 +790,7 @@ class Pro32Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-            <strong>카톡ID gogo011</strong>
+            <strong>카톡ID 카톡아이디</strong>
           </font>
         </p>
       </font>

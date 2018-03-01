@@ -210,12 +210,7 @@ class Pro1Page extends Component {
     </h1>
     <h3 align="center">
       <font size={3} style={{ backgroundColor: "#fffff0" }}>
-        안녕하세요 파트너 풍실장 이에요.<img
-          style={{ verticalAlign: "middle" }}
-          alt
-          src="http://www.foxalba.com/Artyboard/Editor//icons/em/2.gif"
-          border={0}
-        />
+        안녕하세요 파트너 풍실장 이에요.
       </font>
     </h3>
     <font size={3} />
@@ -232,12 +227,7 @@ class Pro1Page extends Component {
       <br />
       <font size={3}>
         손님은 엄청 많은데 언니들이 모자라요..{" "}
-        <img
-          style={{ verticalAlign: "middle" }}
-          alt
-          src="http://www.foxalba.com/Artyboard/Editor//icons/em/11.gif"
-          border={0}
-        />
+        
       </font>
     </h3>
     <font size={3} />
