@@ -123,15 +123,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            로즈
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              테이블만 11만 초보가능
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
@@ -143,15 +146,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            빨간반지
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                외모안봄/갯수폭발
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [협의]면접후결정(주점)
+              </p>
             </b>
           </div>
         </div>
@@ -163,15 +169,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            역삼위트
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              역삼1등◆훈남실장◆
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [협의]면접후결정(룸)
+              </p>
             </b>
           </div>
         </div>  
@@ -183,15 +192,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            선릉링컨
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                테이블만 오세요
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -203,15 +215,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            White
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                논현화이트 갯수폭발
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -223,15 +238,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            케이크
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                24시 연중무휴
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
@@ -243,15 +261,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            퀸즈
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              ★1시간25분★TC11
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -263,15 +284,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            셔츠룸 펀펀
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                1~1시간30분 5개이상
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [협의]면접후결정(룸)
+              </p>
             </b>
           </div>
         </div>           
@@ -282,15 +306,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            디오픈
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                강남1번 디오픈
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [협의]면접후결정(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -302,15 +329,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            논현쎄븐
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                논현동 쎄븐입니다
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [시급]35,000원(주점)
+              </p>              
             </b>
           </div>
         </div>
@@ -322,15 +352,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            강남 골드
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                술안먹고 짧은테이블
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 90,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
@@ -342,15 +375,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            프로스티
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                프로스티 손님많아요
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [시급]35,000원(주점)
+              </p>
             </b>
           </div>
         </div>
@@ -362,15 +398,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            eVEN
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                역삼 전통룸 이븐
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>           
@@ -381,15 +420,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            신사 메이저
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              <Link to="/pro16">★셔츠퍼블릭★티씨11만</Link>
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [협의]면접후결정(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -401,15 +443,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            노래와
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                노래와에서 직원구해요
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [시급]35,000원(주점)
+              </p>
             </b>
           </div>
         </div>
@@ -421,15 +466,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            스프링
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                손님 골라받는가게
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
@@ -441,15 +489,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+          리얼텐
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              강남일등가게!빨리와여.
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -461,15 +512,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+          믹스
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              신사가라오케 믹스
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>           
@@ -480,15 +534,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+          One
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              tc10 빠른회전
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -500,15 +557,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            프린세스
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              청담★연예인손님많아..
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -520,451 +580,522 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            압구정캔디
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                하루최소 5개보장합니다
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro24">
             <div className="img_1">
               <img src={logo25} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            Flick
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              ★강남논현★갯수NO1★
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [시급]35,000원(주점)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro5">
+          <Link to="/pro25">
             <div className="img_1">
               <img src={logo26} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            큐피트
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              강남구 최상위 업소
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>           
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro26">
             <div className="img_1">
               <img src={logo27} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            역삼 W
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              ★순수테이블★11만!
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro27">
             <div className="img_1">
               <img src={logo28} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            유앤미
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+               룸80/24시/대형업소
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro3">
+          <Link to="/pro28">
             <div className="img_1">
               <img src={logo29} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            영계손님
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                테이블60분/tc10만
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro29">
             <div className="img_1">
               <img src={logo30} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            The Nine
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              순수 테이블 알바
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro5">
+          <Link to="/pro30">
             <div className="img_1">
               <img src={logo31} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            Fire
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                주점 직원급구
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [시급]35,000원(주점)
+              </p>
+              
             </b>
           </div>
         </div>           
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro31">
             <div className="img_1">
               <img src={logo32} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            스페이스
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              강남 셔츠룸,카페 퍼블릭
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro32">
             <div className="img_1">
               <img src={logo33} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            라인
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                역삼 최다손님보유
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro3">
+          <Link to="/pro33">
             <div className="img_1">
               <img src={logo34} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            블랙티
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                안녕하세요?블랙팁니다
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro34">
             <div className="img_1">
               <img src={logo35} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            핫핑크
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                신사역/가로수길/핫핑크
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro5">
+          <Link to="/pro35">
             <div className="img_1">
               <img src={logo36} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            박보검실장
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                덕선아 빨리와..
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
-        </div>           
+        </div>    
+
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro36">
             <div className="img_1">
               <img src={logo37} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            BlackTea
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                BlackTea/하루80만
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro37">
             <div className="img_1">
               <img src={logo38} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            논현M
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                차량지원,콜비지원!!
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro3">
+          <Link to="/pro38">
             <div className="img_1">
               <img src={logo39} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            선릉역
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                (수요비옆)선수손님多
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro39">
             <div className="img_1">
               <img src={logo40} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            논현꽃돈
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                주점의 끝판왕/시간티
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [시급]40,000원(주점)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro5">
+          <Link to="/pro40">
             <div className="img_1">
               <img src={logo41} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            역삼 레이저
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              1시간30분10만퍼블릭..
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>           
         <div className="box_1">
-          <Link to="/pro1">
+          <Link to="/pro41">
             <div className="img_1">
               <img src={logo42} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            영천스타
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                서초동 영천스타~
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 100,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro2">
+          <Link to="/pro42">
             <div className="img_1">
               <img src={logo43} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            영미
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                영미어딨니!!영미야!!
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro3">
+          <Link to="/pro43">
             <div className="img_1">
               <img src={logo44} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            서초텐25
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              ★서초!역삼!강남!룸알바
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>          
 
         <div className="box_1">
-          <Link to="/pro4">
+          <Link to="/pro44">
             <div className="img_1">
               <img src={logo45} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            gas통
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                즐기면서 가스통~
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
 
         <div className="box_1">
-          <Link to="/pro5">
+          <Link to="/pro45">
             <div className="img_1">
               <img src={logo46} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
-            광고내용
+            DoPen
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+              테이블외모걱정제발ㄴ..
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
