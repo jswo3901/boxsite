@@ -77,15 +77,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            ☆초보환영
+            파트너
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+               당신의 최고의 파트너
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+              [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>
@@ -97,15 +100,18 @@ class BoxMain extends Component {
             </div>
           </Link>
           <div className="boxfont_1">
-            ▶▶로즈
+            ▶▶쥬만지
           </div>
           <div className="boxfont_bar">
           </div>
           <div className="boxfontBottom_1">
             <b>
-              <font>
-                ★★가능가능★★
-              </font>
+              <p>
+                고페이 초보환영
+              </p>
+              <p style={{"color":"rgb(128, 128, 128)"}}>
+                [TC] 110,000원(룸)
+              </p>
             </b>
           </div>
         </div>

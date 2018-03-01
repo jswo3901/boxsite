@@ -73,6 +73,10 @@
   color: #1063A5;
   font-size: 14px;
 }
+.boxfontBottom_1 p {
+  padding-top: 10px;
+  line-height: 10%;
+}
 
 .left_banner {
     /* position: fixed; */
