@@ -84,7 +84,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-               당신의 최고의 파트너
+               <Link to="/pro1">당신의 최고의 파트너</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
               [TC] 110,000원(룸)
@@ -107,7 +107,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                고페이 초보환영
+              <Link to="/pro2">고페이 초보환영</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -130,7 +130,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              테이블만 11만 초보가능
+              <Link to="/pro3">테이블만 11만 초보가능</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -153,7 +153,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                외모안봄/갯수폭발
+              <Link to="/pro4">외모안봄/갯수폭발</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [협의]면접후결정(주점)
@@ -176,7 +176,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              역삼1등◆훈남실장◆
+              <Link to="/pro5">역삼1등◆훈남실장◆</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [협의]면접후결정(룸)
@@ -199,7 +199,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                테이블만 오세요
+              <Link to="/pro6">테이블만 오세요</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -222,7 +222,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                논현화이트 갯수폭발
+              <Link to="/pro7">논현화이트 갯수폭발</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -245,7 +245,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                24시 연중무휴
+              <Link to="/pro8">24시 연중무휴</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -268,7 +268,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              ★1시간25분★TC11
+              <Link to="/pro9">★1시간25분★TC11</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -291,7 +291,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                1~1시간30분 5개이상
+              <Link to="/pro10">1~1시간30분 5개이상</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [협의]면접후결정(룸)
@@ -313,7 +313,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                강남1번 디오픈
+              <Link to="/pro11">강남1번 디오픈</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [협의]면접후결정(룸)
@@ -336,10 +336,10 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                논현동 쎄븐입니다
+              <Link to="/pro12">논현동 쎄븐입니다</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
-                [시급]35,000원(주점)
+              [TC] 100,000원(룸)
               </p>              
             </b>
           </div>
@@ -359,10 +359,10 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                술안먹고 짧은테이블
+              <Link to="/pro13">술안먹고 짧은테이블</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
-                [TC] 90,000원(룸)
+                [TC] 100,000원(룸)
               </p>
             </b>
           </div>
@@ -382,10 +382,10 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                프로스티 손님많아요
+              <Link to="/pro14">프로스티 손님많아요</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
-                [시급]35,000원(주점)
+                [시급]110,000원(룸)
               </p>
             </b>
           </div>
@@ -405,7 +405,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                역삼 전통룸 이븐
+              <Link to="/pro15">역삼 전통룸 이븐</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -450,7 +450,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                노래와에서 직원구해요
+              <Link to="/pro17">노래와에서 직원구해요</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [시급]35,000원(주점)
@@ -473,7 +473,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                손님 골라받는가게
+              <Link to="/pro18">손님 골라받는가게</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -496,7 +496,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              강남일등가게!빨리와여.
+              <Link to="/pro19">강남일등가게!빨리와여.</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -519,7 +519,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              신사가라오케 믹스
+              <Link to="/pro20">신사가라오케 믹스</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -541,7 +541,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              tc10 빠른회전
+              <Link to="/pro21">tc10 빠른회전</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -564,7 +564,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              청담★연예인손님많아..
+              <Link to="/pro22">청담★연예인손님많아..</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -587,7 +587,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                하루최소 5개보장합니다
+              <Link to="/pro23">하루최소 5개보장합니다</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -610,7 +610,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              ★강남논현★갯수NO1★
+              <Link to="/pro24">★강남논현★갯수NO1★</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [시급]35,000원(주점)
@@ -633,7 +633,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              강남구 최상위 업소
+              <Link to="/pro25">강남구 최상위 업소</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -655,7 +655,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              ★순수테이블★11만!
+              <Link to="/pro26">★순수테이블★11만!</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -678,7 +678,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-               룸80/24시/대형업소
+              <Link to="/pro27">룸80/24시/대형업소</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -701,7 +701,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                테이블60분/tc10만
+              <Link to="/pro28">테이블60분/tc10만</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -724,7 +724,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              순수 테이블 알바
+              <Link to="/pro29">순수 테이블 알바</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -747,7 +747,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                주점 직원급구
+              <Link to="/pro30">주점 직원급구</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [시급]35,000원(주점)
@@ -770,7 +770,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              강남 셔츠룸,카페 퍼블릭
+              <Link to="/pro31">강남 셔츠룸,카페 퍼블릭</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -793,7 +793,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                역삼 최다손님보유
+              <Link to="/pro32">역삼 최다손님보유</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -816,7 +816,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                안녕하세요?블랙팁니다
+              <Link to="/pro33">안녕하세요?블랙팁니다</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -839,7 +839,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                신사역/가로수길/핫핑크
+              <Link to="/pro34">신사역/가로수길/핫핑크</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -862,7 +862,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                덕선아 빨리와..
+              <Link to="/pro35">덕선아 빨리와..</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -885,7 +885,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                BlackTea/하루80만
+              <Link to="/pro36">BlackTea/하루80만</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -908,7 +908,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                차량지원,콜비지원!!
+              <Link to="/pro37">차량지원,콜비지원!!</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -931,7 +931,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                (수요비옆)선수손님多
+              <Link to="/pro38">(수요비옆)선수손님多</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -954,7 +954,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                주점의 끝판왕/시간티
+              <Link to="/pro39">주점의 끝판왕/시간티</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [시급]40,000원(주점)
@@ -977,7 +977,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              1시간30분10만퍼블릭..
+              <Link to="/pro40">1시간30분10만퍼블릭..</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -999,7 +999,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                서초동 영천스타~
+              <Link to="/pro41">서초동 영천스타~</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 100,000원(룸)
@@ -1022,7 +1022,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                영미어딨니!!영미야!!
+              <Link to="/pro42">영미어딨니!!영미야!!</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -1045,7 +1045,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              ★서초!역삼!강남!룸알바
+              <Link to="/pro43">★서초!역삼!강남!룸알바</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -1068,7 +1068,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-                즐기면서 가스통~
+              <Link to="/pro44">즐기면서 가스통~</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)
@@ -1091,7 +1091,7 @@ class BoxMain extends Component {
           <div className="boxfontBottom_1">
             <b>
               <p>
-              테이블외모걱정제발ㄴ..
+              <Link to="/pro45">테이블외모걱정제발ㄴ..</Link>
               </p>
               <p style={{"color":"rgb(128, 128, 128)"}}>
                 [TC] 110,000원(룸)

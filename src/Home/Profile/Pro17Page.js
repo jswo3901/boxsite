@@ -23,9 +23,9 @@ class Pro17Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">노래와</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>노래와에서 직원구해요</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro17Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro17Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [시급]35,000원
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro17Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 역삼동 선릉역부근
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro17Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro17Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~10:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro17Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              노래와
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro17Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              민병규
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro17Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>♥Six조재현♥</b>
+    <b>♥노래와♥</b>
   </font>
   <br />
   <br />
@@ -208,31 +207,8 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }}>
         <font style={{ backgroundColor: "#faf0e6" }} color="#ff1493">
           <font size={4}>
-            <img
-              style={{
-                margin: "1px 4px",
-                width: 16,
-                height: 16,
-                verticalAlign: "middle"
-              }}
-              id="image_0.8717692810144132"
-              border={0}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/71.gif"
-            />
             <font style={{ backgroundColor: "#ffffff" }}>
               <font color="#002060">조재현 상무와 함께할 가족 구합니다</font>
-              <img
-                style={{
-                  margin: "1px 4px",
-                  width: 16,
-                  height: 16,
-                  verticalAlign: "middle"
-                }}
-                border={0}
-                alt
-                src="http://www.foxalba.com/cheditor/icons/em/71.gif"
-              />
             </font>
           </font>
         </font>
@@ -265,7 +241,7 @@ class Pro17Page extends Component {
             size={5}
             face="Comic Sans MS"
           >
-            더킹 /제니스/폭스/ 나인 경험자환영 !
+            게으르고 나태한 백조분들 환영
           </font>
         </strong>
       </div>
@@ -339,7 +315,7 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <b>
           <font color="#ff0000" size={5}>
-            <font face="Comic Sans MS">강남지역에서 </font>
+            <font face="Comic Sans MS">선릉에서 </font>
           </font>
         </b>
       </div>
@@ -357,10 +333,10 @@ class Pro17Page extends Component {
         <b>
           <font size={5}>
             <font color="#ff0000" face="Comic Sans MS">
-              1등영업상무&nbsp;
+              1등실장&nbsp;
             </font>
             <font color="#c00000" size={6} face="Comic Sans MS">
-              조재현
+              민병규
             </font>
             <font color="#ff0000" face="Comic Sans MS">
               <font color="#548dd4"> </font>입니다.{" "}
@@ -402,28 +378,7 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <br />
         <font color="#9400d3" size={5} face="Comic Sans MS">
-          <strong>
-            <img
-              style={{
-                margin: "1px 4px",
-                width: 16,
-                height: 16,
-                verticalAlign: "middle"
-              }}
-              border={0}
-              alt
-              src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-            />금액<img
-              style={{
-                margin: "1px 4px",
-                width: 16,
-                height: 16,
-                verticalAlign: "middle"
-              }}
-              border={0}
-              alt
-              src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-            />(페이)
+          <strong>금액(페이)
           </strong>
         </font>
       </div>
@@ -474,7 +429,7 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <font size={4}>
           <font color="#ff0000" face="Comic Sans MS">
-            <strong>한 테이블에 9.5만원</strong>
+            <strong>한 테이블에 3.5~5만원</strong>
           </font>
         </font>
       </div>
@@ -486,7 +441,6 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <strong>
           <font size={4} face="Comic Sans MS">
-            금,토 주말 공휴일 10~11만원
           </font>
         </strong>
       </div>
@@ -511,27 +465,7 @@ class Pro17Page extends Component {
             fontSize: "x-large"
           }}
         >
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />수금은<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />
+          수금은
         </strong>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -553,7 +487,7 @@ class Pro17Page extends Component {
         <font size={3}>
           <b>
             <font color="#002060" face="Comic Sans MS">
-              그날 본 페이는 바로 드려요
+              그날 번 페이는 바로 드려요
             </font>
           </b>
         </font>
@@ -583,28 +517,7 @@ class Pro17Page extends Component {
             color: "#9400d3",
             fontSize: "x-large"
           }}
-        >
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />지역은<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />
+        >지역은
         </strong>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -626,27 +539,7 @@ class Pro17Page extends Component {
             fontSize: "x-large"
           }}
         >
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />대상은<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />
+          대상은
         </strong>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -740,27 +633,7 @@ class Pro17Page extends Component {
             fontSize: "x-large"
           }}
         >
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />근무타임<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />
+          근무타임
         </strong>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -849,27 +722,7 @@ class Pro17Page extends Component {
             fontSize: "x-large"
           }}
         >
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />장점<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />
+          장점
         </strong>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -1003,27 +856,7 @@ class Pro17Page extends Component {
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
         <font size={6} face="궁서">
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.foxalba.com/cheditor/icons/em/71.gif"
-          />그리고 최대 장점!!<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.foxalba.com/cheditor/icons/em/71.gif"
-          />
+          그리고 최대 장점!!
         </font>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -1043,7 +876,7 @@ class Pro17Page extends Component {
             <br />매출이높다는건 오셔서 판단해보시는게 좋을듯해요!
           </div>
           <div style={{ textAlign: "center" }} className="바탕글" align="left">
-            <br />조재현 테이블 초이스만봐도
+            <br />저희 테이블 초이스만봐도
           </div>
           <div style={{ textAlign: "center" }} className="바탕글" align="left">
             &nbsp;
@@ -1082,28 +915,7 @@ class Pro17Page extends Component {
             color: "#9400d3",
             fontSize: "x-large"
           }}
-        >
-          <img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />마치며<img
-            style={{
-              margin: "1px 4px",
-              width: 16,
-              height: 16,
-              verticalAlign: "middle"
-            }}
-            border={0}
-            alt
-            src="http://www.albagirls.net/_helpers/_editor/cheditor/icons/em/71.gif"
-          />
+        >마치며
         </strong>
       </div>
       <div style={{ textAlign: "center" }} className="바탕글">
@@ -1252,7 +1064,7 @@ class Pro17Page extends Component {
           <strong>
             <font color="#000000">
               <font size={6}>☎</font>
-              <font size={6}> 010-4044-1470</font>
+              <font size={6}> 010-5279-3901</font>
             </font>
           </strong>
         </font>
@@ -1265,7 +1077,7 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <strong>
           <font color="#000000" size={5} face="Comic Sans MS">
-            카톡ID : Hongs33
+            카톡ID : 카톡아이디
           </font>
         </strong>
       </div>
@@ -1283,27 +1095,7 @@ class Pro17Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <strong>
           <font color="#000000" size={7}>
-            <img
-              style={{
-                margin: "1px 4px",
-                width: 16,
-                height: 16,
-                verticalAlign: "middle"
-              }}
-              border={0}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/71.gif"
-            />조재현<img
-              style={{
-                margin: "1px 4px",
-                width: 16,
-                height: 16,
-                verticalAlign: "middle"
-              }}
-              border={0}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/71.gif"
-            />
+            노래와 민병규
           </font>
         </strong>
       </div>

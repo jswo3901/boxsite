@@ -17,15 +17,15 @@ class Pro4Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.28 17:32</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">레드링</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>외모안봄/갯수폭발</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro4Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -82,7 +81,7 @@ class Pro4Page extends Component {
                           <th>경험유무</th>
                           <td>
                             <span>
-                              유사직종 경험 상관X
+                              경험 상관X
                             </span> 
                             <span>(초보자도 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro4Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                              [시급] 40,000원
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro4Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 논현동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro4Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              집살 때 까지
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro4Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              24시간
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro4Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              레드링
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro4Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              금성환
                             </span>
                             <span></span>
                           </td>
@@ -224,50 +223,9 @@ class Pro4Page extends Component {
     <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
       <span style={{ boxSizing: "border-box", fontSize: "14pt" }}>
         <span style={{ boxSizing: "border-box", fontSize: "14pt" }}>
-          <img
-            title="1970ed2234e680165bbe2a54cebbba2b_1435638551_8621.gif"
-            style={{
-              boxSizing: "border-box",
-              maxWidth: "100%",
-              borderTop: 0,
-              height: "auto",
-              borderRight: 0,
-              width: "auto",
-              verticalAlign: "middle",
-              borderBottom: 0,
-              paddingBottom: 0,
-              paddingTop: 0,
-              paddingLeft: 0,
-              margin: 0,
-              borderLeft: 0,
-              paddingRight: 0
-            }}
-            alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-            src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638551_8621.gif"
-          />
         </span>
         <span style={{ boxSizing: "border-box", fontSize: "18pt" }}>
-          대구 &nbsp;BAR 101 바텐더 모집합니다.<img
-            title="1970ed2234e680165bbe2a54cebbba2b_1435638551_8621.gif"
-            style={{
-              borderLeftWidth: 0,
-              boxSizing: "border-box",
-              maxWidth: "100%",
-              height: "auto",
-              borderRightWidth: 0,
-              width: "auto",
-              verticalAlign: "middle",
-              borderBottomWidth: 0,
-              paddingBottom: 0,
-              paddingTop: 0,
-              paddingLeft: 0,
-              margin: 0,
-              paddingRight: 0,
-              borderTopWidth: 0
-            }}
-            alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-            src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638551_8621.gif"
-          />
+          논현 &nbsp;Redring에서 언냐들 모집합니다.
         </span>
       </span>
     </strong>
@@ -284,7 +242,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -295,7 +253,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    &nbsp; 101 에서 가족처럼 함께 근무할
+    &nbsp; 레드링 에서 가족처럼 함께 근무할
   </p>
   <p
     align="center"
@@ -309,7 +267,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -334,7 +292,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -359,7 +317,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -384,7 +342,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -409,7 +367,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -424,7 +382,7 @@ class Pro4Page extends Component {
       <span style={{ boxSizing: "border-box", color: "rgb(0,0,0)" }}>
         <u style={{ boxSizing: "border-box" }}>
           <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
-            ★ BAR 101 는 이렇게 다릅니다! ★
+            ★ 레드링은 이렇게 다릅니다! ★
           </strong>
         </u>
       </span>
@@ -487,7 +445,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -512,7 +470,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -537,7 +495,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -587,7 +545,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -622,7 +580,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -647,7 +605,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -672,7 +630,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -697,7 +655,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -747,7 +705,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -766,7 +724,7 @@ class Pro4Page extends Component {
       }}
     >
       <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
-        3. 고급스럽고 차분한 느낌을 강조한 바이기에,
+        3. 고급스럽고 차분한 느낌을 강조한 룸이기에,
       </strong>
     </span>
   </p>
@@ -782,7 +740,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -809,7 +767,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -834,7 +792,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -895,27 +853,6 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    <img
-      title="1970ed2234e680165bbe2a54cebbba2b_1435638551_4812.gif"
-      style={{
-        boxSizing: "border-box",
-        maxWidth: "100%",
-        borderTop: 0,
-        height: "auto",
-        borderRight: 0,
-        width: "auto",
-        verticalAlign: "middle",
-        borderBottom: 0,
-        paddingBottom: 0,
-        paddingTop: 0,
-        paddingLeft: 0,
-        margin: 0,
-        borderLeft: 0,
-        paddingRight: 0
-      }}
-      alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-      src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638551_4812.gif"
-    />
   </p>
   <p
     align="center"
@@ -940,27 +877,6 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    <img
-      title="1970ed2234e680165bbe2a54cebbba2b_1435638551_0811.gif"
-      style={{
-        boxSizing: "border-box",
-        maxWidth: "100%",
-        borderTop: 0,
-        height: "auto",
-        borderRight: 0,
-        width: "auto",
-        verticalAlign: "middle",
-        borderBottom: 0,
-        paddingBottom: 0,
-        paddingTop: 0,
-        paddingLeft: 0,
-        margin: 0,
-        borderLeft: 0,
-        paddingRight: 0
-      }}
-      alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-      src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638551_0811.gif"
-    />
   </p>
   <p
     align="center"
@@ -1036,17 +952,6 @@ class Pro4Page extends Component {
     }}
   >
     <br style={{ boxSizing: "border-box" }} />
-    <span
-      style={{
-        boxSizing: "border-box",
-        fontSize: "18pt",
-        color: "rgb(239,0,124)"
-      }}
-    >
-      <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
-        *** 여성 바텐더 (알바) 모집 ***
-      </strong>
-    </span>
   </p>
   <p
     align="center"
@@ -1098,7 +1003,7 @@ class Pro4Page extends Component {
   >
     <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
       <span style={{ boxSizing: "border-box", fontSize: "12pt" }}>
-        &nbsp;★ 시급은 25,000 ~ 35,000 입니다 ★
+        &nbsp;★ 시급은 45,000 ~ 50,000 입니다 ★
       </span>
     </strong>
   </p>
@@ -1154,7 +1059,7 @@ class Pro4Page extends Component {
       <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
         &nbsp;<span style={{ boxSizing: "border-box", fontSize: "12pt" }}>
           ★<span className="Apple-converted-space">&nbsp;</span>
-        </span>근무시간 : 오후 8시 ~ 새벽 2시<span className="Apple-converted-space">
+        </span>근무시간 : 오후 5시 ~ 새벽 5시<span className="Apple-converted-space">
           &nbsp;
         </span>
       </strong>
@@ -1216,7 +1121,7 @@ class Pro4Page extends Component {
     <span style={{ boxSizing: "border-box", fontSize: "12pt" }}>
       <span style={{ boxSizing: "border-box", fontSize: "12pt" }}>
         <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
-          월 ~ 토요일
+          (월 ~ 토요일)
         </strong>
       </span>
     </span>
@@ -1258,7 +1163,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1269,7 +1174,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    시간,요일은 최소 1시간 이상 ~&nbsp; 6시간까지 협의 가능합니다.
+    
   </p>
   <p
     align="center"
@@ -1308,7 +1213,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1360,7 +1265,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1385,7 +1290,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1410,7 +1315,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1460,7 +1365,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1471,7 +1376,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    혹시 이시급보다 높게 받는다면 애기하세요 ! 거기보다 더 지급해드립니다!
+    혹시 이 시급보다 높게 받는다면 애기하세요 ! 거기보다 더 지급해드립니다!
   </p>
   <p
     align="center"
@@ -1510,7 +1415,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1562,7 +1467,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1612,7 +1517,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1662,7 +1567,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1687,7 +1592,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1738,7 +1643,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -1775,27 +1680,7 @@ class Pro4Page extends Component {
     }}
   >
     <br style={{ boxSizing: "border-box" }} />
-    <img
-      title="1970ed2234e680165bbe2a54cebbba2b_1435638550_7036.gif"
-      style={{
-        boxSizing: "border-box",
-        maxWidth: "100%",
-        borderTop: 0,
-        height: "auto",
-        borderRight: 0,
-        width: "auto",
-        verticalAlign: "middle",
-        borderBottom: 0,
-        paddingBottom: 0,
-        paddingTop: 0,
-        paddingLeft: 0,
-        margin: 0,
-        borderLeft: 0,
-        paddingRight: 0
-      }}
-      alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-      src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638550_7036.gif"
-    />&nbsp;
+    &nbsp;
   </p>
   <p
     align="center"
@@ -1820,27 +1705,6 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    <img
-      title="1970ed2234e680165bbe2a54cebbba2b_1435638551_0811.gif"
-      style={{
-        boxSizing: "border-box",
-        maxWidth: "100%",
-        borderTop: 0,
-        height: "auto",
-        borderRight: 0,
-        width: "auto",
-        verticalAlign: "middle",
-        borderBottom: 0,
-        paddingBottom: 0,
-        paddingTop: 0,
-        paddingLeft: 0,
-        margin: 0,
-        borderLeft: 0,
-        paddingRight: 0
-      }}
-      alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-      src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638551_0811.gif"
-    />
   </p>
   <p
     align="center"
@@ -1866,11 +1730,6 @@ class Pro4Page extends Component {
     }}
   >
     <br style={{ boxSizing: "border-box" }} />
-    <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
-      <span style={{ boxSizing: "border-box", fontSize: "18pt" }}>
-        *** 웨이터 모집 ***
-      </span>
-    </strong>
   </p>
   <p
     align="center"
@@ -1920,7 +1779,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    월급 1,200,000~ + 팁
+    
   </p>
   <p
     align="center"
@@ -1970,7 +1829,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    기본급 120만원 보장하며, 기타 팁 수입도 있습니다.
+    
   </p>
   <p
     align="center"
@@ -1995,7 +1854,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    본인의 성실함 여부에 따라 많은 수익을 올릴 수 있습니다.
+    
   </p>
   <p
     align="center"
@@ -2020,7 +1879,7 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    웨이터 경력이 있고, 성실하고 친절하고 부지런한 분만 지원 바랍니다!
+    
   </p>
   <p
     align="center"
@@ -2070,27 +1929,6 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    <img
-      title="1970ed2234e680165bbe2a54cebbba2b_1435638550_2396.gif"
-      style={{
-        boxSizing: "border-box",
-        maxWidth: "100%",
-        borderTop: 0,
-        height: "auto",
-        borderRight: 0,
-        width: "auto",
-        verticalAlign: "middle",
-        borderBottom: 0,
-        paddingBottom: 0,
-        paddingTop: 0,
-        paddingLeft: 0,
-        margin: 0,
-        borderLeft: 0,
-        paddingRight: 0
-      }}
-      alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-      src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638550_2396.gif"
-    />
   </p>
   <p
     align="center"
@@ -2159,7 +1997,7 @@ class Pro4Page extends Component {
       paddingBottom: 0,
       textAlign: "center",
       paddingTop: 0,
-      font: "12px/1.5 dotum, sans-serif",
+      font: "15px/1.5 dotum, sans-serif",
       paddingLeft: 0,
       margin: 0,
       widows: 1,
@@ -2171,7 +2009,7 @@ class Pro4Page extends Component {
     }}
   >
     <span style={{ boxSizing: "border-box" }}>
-      주소 : 대구광역시 달서구 감삼동&nbsp; 죽전이마트 근처(감삼동 487-2번지)
+      주소 : 논현동 2번출구/ 강남역 1번출구 도보5분
     </span>
   </p>
   <p
@@ -2339,34 +2177,11 @@ class Pro4Page extends Component {
       WebkitTextStrokeWidth: 0
     }}
   >
-    <span style={{ boxSizing: "border-box", fontSize: "14pt" }}>
-      <img
-        title="1970ed2234e680165bbe2a54cebbba2b_1435638741_7988.gif"
-        style={{
-          boxSizing: "border-box",
-          maxWidth: "100%",
-          borderTop: 0,
-          height: "auto",
-          borderRight: 0,
-          width: "auto",
-          verticalAlign: "middle",
-          borderBottom: 0,
-          paddingBottom: 0,
-          paddingTop: 0,
-          paddingLeft: 0,
-          margin: 0,
-          borderLeft: 0,
-          paddingRight: 0
-        }}
-        alt="1970ed2234e680165bbe2a54cebbba2b_1435638"
-        src="http://bar101.net/data/editor/1506/1970ed2234e680165bbe2a54cebbba2b_1435638741_7988.gif"
-      />&nbsp;
-    </span>
   </p>
   <p
     align="center"
   >
-    김동석 실장 (전화 부재시 문자를 남겨주세요)
+    전화 부재시 문자를 남겨주세요
   </p>
   <p
     align="center"

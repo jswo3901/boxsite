@@ -23,9 +23,9 @@ class Pro5Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">역삼 위트</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>역삼1등◆훈남실장◆</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro5Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              없음
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro5Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro5Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro5Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro5Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              24시
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro5Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              역삼 위트
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro5Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              훈남실장
                             </span>
                             <span></span>
                           </td>
@@ -213,7 +212,7 @@ class Pro5Page extends Component {
     }}
   >
     <u style={{ color: "rgb(255, 0, 0)", fontSize: "xx-large" }}>
-      리젠시&nbsp;
+      위트&nbsp;
     </u>
   </p>
   <h1
@@ -276,16 +275,7 @@ class Pro5Page extends Component {
       }}
     >
       <strong>
-        <font color="#2843c8">
-          <img
-            name="그림1"
-            width={19}
-            height={19}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/120.gif"
-            border={0}
-          />&nbsp;
+        <font color="#2843c8">&nbsp;
         </font>
       </strong>
       <strong>
@@ -293,15 +283,7 @@ class Pro5Page extends Component {
           <font face="arial black">
             <font size={5}>
               <u>안녕하세요</u>{" "}
-              <img
-                name="그림2"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/120.gif"
-                border={0}
-              />
+              
             </font>
           </font>
         </font>
@@ -324,12 +306,12 @@ class Pro5Page extends Component {
     >
       <strong>
         <font size={4} style={{ fontSize: "15pt" }}>
-          <span lang="ko-KR">장안동에서30</span>
+          <span lang="ko-KR">역삼동에서 </span>
         </font>
       </strong>
       <strong>
         <font size={4} style={{ fontSize: "15pt" }}>
-          <span lang="ko-KR">년이상경력차인정상무예요</span>
+          <span lang="ko-KR">3년경력 20대 초보 훈남실장이에요</span>
         </font>
       </strong>
       <font face="Times New Roman, serif">
@@ -374,17 +356,6 @@ class Pro5Page extends Component {
         paddingRight: "0cm"
       }}
     >
-      <img
-        name="그림3"
-        width={36}
-        height={36}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/116.gif"
-        border={0}
-        vspace={1}
-        hspace={4}
-      />
       <font color="#000000">
         <font color="#ffffff">
           <font color="#ffffff">
@@ -403,7 +374,7 @@ class Pro5Page extends Component {
                             backgroundColor: "rgb(0,176,240)"
                           }}
                         >
-                          010-7221-6633
+                          010-5279-3901
                         </font>
                       </strong>
                     </font>
@@ -430,17 +401,6 @@ class Pro5Page extends Component {
         paddingRight: "0cm"
       }}
     >
-      <img
-        name="그림3"
-        width={36}
-        height={36}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/116.gif"
-        border={0}
-        vspace={1}
-        hspace={4}
-      />
       <font color="#000000">
         <font color="#ffffff">
           <strong>&nbsp;</strong>
@@ -452,7 +412,7 @@ class Pro5Page extends Component {
                   size={4}
                   style={{ fontSize: "15pt", backgroundColor: "rgb(255,0,0)" }}
                 >
-                  010-7221-6633
+                  010-5279-3901
                 </font>
               </strong>
             </font>
@@ -475,17 +435,6 @@ class Pro5Page extends Component {
         paddingRight: "0cm"
       }}
     >
-      <img
-        name="그림3"
-        width={36}
-        height={36}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/116.gif"
-        border={0}
-        vspace={1}
-        hspace={4}
-      />
       <strong>
         &nbsp;<font style={{ backgroundColor: "rgb(255,255,0)" }}>
           <font face="Times New Roman, serif">
@@ -494,7 +443,7 @@ class Pro5Page extends Component {
               size={4}
               style={{ fontSize: "15pt", backgroundColor: "rgb(0,0,0)" }}
             >
-              010-7221-6633
+              010-5279-3901
             </font>
           </font>
         </font>
@@ -517,45 +466,13 @@ class Pro5Page extends Component {
     >
       <strong>
         <font size={3}>카톡아이디:</font>
-        <img
-          name="그림4"
-          width={36}
-          height={36}
-          align="bottom"
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/109.gif"
-          border={0}
-          vspace={1}
-          hspace={4}
-        />
         <font face="Times New Roman">
           <font color="#c9279f" size={4}>
             {" "}
-            <img
-              style={{
-                height: 16,
-                width: 16,
-                verticalAlign: "middle",
-                margin: "1px 4px"
-              }}
-              alt
-              src="http://foxalba.com/cheditor/icons/em/71.gif"
-              border={0}
-            />
           </font>
           <font color="#ff0000" size={5}>
             <u>
-              wjd002891<img
-                style={{
-                  height: 16,
-                  width: 16,
-                  verticalAlign: "middle",
-                  margin: "1px 4px"
-                }}
-                alt
-                src="http://foxalba.com/cheditor/icons/em/71.gif"
-                border={0}
-              />
+              카톡아이디
             </u>
           </font>
         </font>
@@ -596,13 +513,13 @@ class Pro5Page extends Component {
       <strong>
         <font face="arial black">
           <font size={4}>
-            <span lang="ko-KR">장안동 리젠시 </span>
+            <span lang="ko-KR">역삼동 위트 </span>
           </font>
         </font>
       </strong>
       <strong>
         <font face="arial black">
-          <font size={4}>룸싸롱 입니다</font>
+          <font size={4}>퍼블릭 룸 입니다</font>
         </font>
       </strong>
       <font face="Times New Roman, serif">
@@ -636,13 +553,13 @@ class Pro5Page extends Component {
       <strong>
         <font face="arial black">
           <font size={4}>
-            <span lang="ko-KR">리젠시</span>
+            <span lang="ko-KR">위트</span>
           </font>
         </font>
       </strong>
       <strong>
         <font face="arial black">
-          <font size={4}>룸싸롱은 강북에서도&nbsp;손꼽히는 </font>
+          <font size={4}>업소는 강남에서도&nbsp;손꼽히는 </font>
         </font>
       </strong>
     </p>
@@ -668,7 +585,7 @@ class Pro5Page extends Component {
       </strong>
       <strong>
         <font face="arial black">
-          <font size={4}>룸싸롱입니다</font>
+          <font size={4}>룸이에요 ㅎㅎ</font>
         </font>
       </strong>
       <font face="Times New Roman, serif">
@@ -732,15 +649,6 @@ class Pro5Page extends Component {
         <strong>
           <font face="arial black">
             <font size={4}>
-              .<img
-                name="그림5"
-                width={22}
-                height={18}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/106.gif"
-                border={0}
-              />
             </font>
           </font>
         </strong>
@@ -763,7 +671,7 @@ class Pro5Page extends Component {
     >
       <strong>
         <font face="arial black">
-          <font size={4}>한마디로 서울 강북에서 제일 장사 잘되는 곳입니다</font>
+          <font size={4}>역삼동 근방에서 제일 장사 잘되는 가게에요</font>
         </font>
       </strong>
       <font face="Times New Roman, serif">
@@ -866,7 +774,7 @@ class Pro5Page extends Component {
     >
       <strong>
         <font face="arial black">
-          <font size={4}>&nbsp;기다리는 실정입니다.</font>
+          <font size={4}>&nbsp;기다리는 상황이에요ㅠㅠ(얼른와줘잉!!)</font>
         </font>
       </strong>
     </p>
@@ -887,7 +795,7 @@ class Pro5Page extends Component {
     >
       <strong>
         <font face="arial black">
-          <font size={4}>진짜 돈벌수 있으니 연락주세요.</font>
+          <font size={4}> 돈 많이 벌 수 있으니 연락주세요.</font>
         </font>
       </strong>&nbsp;&nbsp;
     </p>
@@ -909,7 +817,7 @@ class Pro5Page extends Component {
       <font size={4}>
         <strong>
           <font face="Arial Black">
-            가끔 이쁜 언냐들 많지 않냐고 묻는경우가 많은데
+            가끔 이쁜 누나들 많지 않냐고 묻는경우가 많은데
           </font>
         </strong>
       </font>
@@ -931,7 +839,7 @@ class Pro5Page extends Component {
     >
       <font size={4}>
         <strong>
-          <font face="Arial Black">묻는 언니들 아</font>
+          <font face="Arial Black">묻는 언니들 아~</font>
         </strong>
         <font face="Times New Roman, serif">
           <strong>
@@ -987,12 +895,12 @@ class Pro5Page extends Component {
     >
       <strong>
         <font face="Arial Black" size={4}>
-          하니깐 와서{" "}
+          하니까 와서{" "}
         </font>
       </strong>
       <strong>
         <font face="Arial Black" size={4}>
-          정착하는 언냐들
+          정착하는 누나들
         </font>
       </strong>
     </p>
@@ -1027,7 +935,7 @@ class Pro5Page extends Component {
     >
       <font size={4}>
         <strong>
-          <font face="Arial Black">주저마시고 한번 와보십시요</font>
+          <font face="Arial Black">주저마시고 한번 와보세요</font>
         </strong>
         <font face="Times New Roman, serif">
           <strong>
@@ -1130,15 +1038,7 @@ class Pro5Page extends Component {
             그만큼 자신있습니다
           </font>
           <font style={{ fontSize: "13pt" }}>
-            !!<img
-              name="그림6"
-              align="bottom"
-              id="image_0.6651018943851653"
-              style={{ height: 22, width: 31 }}
-              alt
-              src="http://www.cocoalba.kr/wys2/editor/images/smiley/msn/regular_smile.gif"
-              border={0}
-            />
+            !!
           </font>
         </font>
       </strong>
@@ -1166,27 +1066,6 @@ class Pro5Page extends Component {
     >
       <strong>
         <font color="#2843c8">
-          &nbsp;<img
-            name="그림34"
-            width={27}
-            height={19}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/43_1.gif"
-            border={0}
-          />&nbsp;<img
-            name="그림7"
-            width={27}
-            height={19}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/43_1.gif"
-            border={0}
-          />
-        </font>
-      </strong>
-      <strong>
-        <font color="#2843c8">
           <font face="arial black">
             <font size={5}>
               <font color="#ffffff">
@@ -1204,23 +1083,6 @@ class Pro5Page extends Component {
                   </font>
                 </font>&nbsp;
               </font>
-              <img
-                name="그림8"
-                width={27}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/43_1.gif"
-                border={0}
-              />&nbsp;<img
-                name="그림33"
-                width={27}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/43_1.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -1279,7 +1141,7 @@ class Pro5Page extends Component {
       <font face="Times New Roman, serif">
         <strong>
           <font face="arial black">
-            <font size={4}>~ 40</font>
+            <font size={4}>~ 30</font>
           </font>
         </strong>
       </font>
@@ -1358,7 +1220,7 @@ class Pro5Page extends Component {
     >
       <strong>
         <font face="arial black">
-          <font size={4}>&nbsp;가르켜드립니다</font>
+          <font size={4}>&nbsp;알려드릴게요</font>
         </font>
       </strong>
       <font face="Times New Roman, serif">
@@ -1559,24 +1421,6 @@ class Pro5Page extends Component {
     >
       <strong>
         <font color="#2843c8">
-          <img
-            name="그림31"
-            width={15}
-            height={15}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/61.gif"
-            border={0}
-          />{" "}
-          <img
-            name="그림32"
-            width={15}
-            height={15}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/61.gif"
-            border={0}
-          />
         </font>
       </strong>
       <strong>
@@ -1591,24 +1435,6 @@ class Pro5Page extends Component {
                 <font color="#ff0000">는</font> <font color="#002060">환</font>
                 <font color="#7f7f7f">경</font>
               </font>{" "}
-              <img
-                name="그림10"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/61.gif"
-                border={0}
-              />{" "}
-              <img
-                name="그림9"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/61.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -1697,7 +1523,7 @@ class Pro5Page extends Component {
     >
       <strong>
         <font face="Arial Black">
-          <font size={4}>이름있는룸싸롱이다보니 손님층이</font>
+          <font size={4}>이름있는 룸이다보니 손님층이</font>
         </font>
       </strong>
     </p>
@@ -1780,25 +1606,6 @@ class Pro5Page extends Component {
         </font>
         <strong>
           <font color="#2843c8">
-            <font size={2} style={{ fontSize: "10pt" }}>
-              <img
-                name="그림11"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/119.gif"
-                border={0}
-              />&nbsp;<img
-                name="그림35"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/119.gif"
-                border={0}
-              />&nbsp;
-            </font>
           </font>
         </strong>
       </font>
@@ -1810,15 +1617,6 @@ class Pro5Page extends Component {
                 <font color="#ffffff">의</font>{" "}
                 <font style={{ backgroundColor: "rgb(255,0,0)" }}>상</font>
               </font>{" "}
-              <img
-                name="그림12"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/119.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -1827,15 +1625,6 @@ class Pro5Page extends Component {
         <font color="#2843c8">
           <font face="arial black">
             <font size={5}>
-              <img
-                name="그림36"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/119.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -2004,24 +1793,6 @@ class Pro5Page extends Component {
     >
       <strong>
         <font color="#2843c8">
-          <img
-            name="그림39"
-            width={15}
-            height={15}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/56.gif"
-            border={0}
-          />{" "}
-          <img
-            name="그림38"
-            width={15}
-            height={15}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/56.gif"
-            border={0}
-          />
         </font>
       </strong>
       <strong>
@@ -2034,24 +1805,6 @@ class Pro5Page extends Component {
               <font style={{ backgroundColor: "rgb(0,112,192)" }}>
                 <font color="#ffffff">시</font> <font color="#ff0000">간</font>
               </font>{" "}
-              <img
-                name="그림16"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/56.gif"
-                border={0}
-              />{" "}
-              <img
-                name="그림37"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/56.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -2233,33 +1986,6 @@ class Pro5Page extends Component {
     >
       <strong>
         <font color="#e90419">
-          <img
-            name="그림17"
-            width={19}
-            height={19}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/101.gif"
-            border={0}
-          />
-          <img
-            name="그림18"
-            width={19}
-            height={19}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/101.gif"
-            border={0}
-          />
-          <img
-            name="그림19"
-            width={19}
-            height={19}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/101.gif"
-            border={0}
-          />
         </font>
       </strong>
       <strong>
@@ -2269,33 +1995,6 @@ class Pro5Page extends Component {
               <font style={{ backgroundColor: "rgb(0,0,0)" }}>
                 페<font color="#00b0f0"> 이</font>
               </font>
-              <img
-                name="그림20"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/101.gif"
-                border={0}
-              />
-              <img
-                name="그림21"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/101.gif"
-                border={0}
-              />
-              <img
-                name="그림22"
-                width={19}
-                height={19}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/101.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -2606,15 +2305,7 @@ class Pro5Page extends Component {
         <strong>
           <font color="#973101">
             <font size={2} style={{ fontSize: "10pt" }}>
-              &nbsp;<img
-                name="그림23"
-                width={50}
-                height={50}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/04.gif"
-                border={0}
-              />
+              &nbsp;
             </font>
           </font>
         </strong>
@@ -2637,15 +2328,7 @@ class Pro5Page extends Component {
           <font color="#973101">
             <font face="arial black">
               <font size={5}>
-                !!!<img
-                  name="그림24"
-                  width={50}
-                  height={50}
-                  align="bottom"
-                  alt
-                  src="http://www.catalba.com/Editor/img/emotions/04.gif"
-                  border={0}
-                />
+                !!!
               </font>
             </font>
           </font>
@@ -2704,7 +2387,7 @@ class Pro5Page extends Component {
       <font face="Times New Roman, serif">
         <strong>
           <font face="arial black">
-            <font size={4}>~ 장안동에선</font>
+            <font size={4}>~ 역삼동에서</font>
           </font>
         </strong>
       </font>
@@ -2912,15 +2595,6 @@ class Pro5Page extends Component {
       }}
     >
       <strong>
-        <img
-          name="그림25"
-          width={78}
-          height={65}
-          align="bottom"
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/128.gif"
-          border={0}
-        />
       </strong>&nbsp;
     </p>
     <p
@@ -3170,38 +2844,11 @@ class Pro5Page extends Component {
       }}
     >
       <font style={{ backgroundColor: "rgb(255,255,255)" }}>
-        <img
-          name="그림28"
-          width={15}
-          height={15}
-          align="bottom"
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/104.gif"
-          border={0}
-        />
-        <img
-          name="그림30"
-          width={15}
-          height={15}
-          align="bottom"
-          alt
-          src="http://www.catalba.com/Editor/img/emotions/104.gif"
-          border={0}
-        />
       </font>
       <font color="#2843c8">
         <font size={5}>
           <span lang="ko-KR">
             <font style={{ backgroundColor: "rgb(255,255,255)" }}>
-              <img
-                name="그림40"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
             </font>
           </span>
         </font>
@@ -3209,35 +2856,8 @@ class Pro5Page extends Component {
           <font size={5}>
             <strong>
               <font style={{ backgroundColor: "rgb(192,0,0)" }}>
-                010 - 7221-6633
+                010-5279-3901
               </font>
-              <img
-                name="그림27"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
-              <img
-                name="그림15"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
-              <img
-                name="그림26"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
             </strong>
           </font>
         </font>
@@ -3258,33 +2878,6 @@ class Pro5Page extends Component {
         paddingRight: "0cm"
       }}
     >
-      <img
-        name="그림28"
-        width={15}
-        height={15}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/Editor/img/emotions/104.gif"
-        border={0}
-      />
-      <img
-        name="그림30"
-        width={15}
-        height={15}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/Editor/img/emotions/104.gif"
-        border={0}
-      />
-      <img
-        name="그림40"
-        width={15}
-        height={15}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/Editor/img/emotions/104.gif"
-        border={0}
-      />
       <strong>
         <font color="#2843c8">
           <font face="Times New Roman, serif">
@@ -3293,35 +2886,8 @@ class Pro5Page extends Component {
                 color="#ff0000"
                 style={{ backgroundColor: "rgb(0,176,80)" }}
               >
-                010 - 7221-6633
+                010-5279-3901
               </font>
-              <img
-                name="그림27"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
-              <img
-                name="그림15"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
-              <img
-                name="그림26"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -3342,33 +2908,6 @@ class Pro5Page extends Component {
         paddingRight: "0cm"
       }}
     >
-      <img
-        name="그림28"
-        width={15}
-        height={15}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/Editor/img/emotions/104.gif"
-        border={0}
-      />
-      <img
-        name="그림30"
-        width={15}
-        height={15}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/Editor/img/emotions/104.gif"
-        border={0}
-      />
-      <img
-        name="그림40"
-        width={15}
-        height={15}
-        align="bottom"
-        alt
-        src="http://www.catalba.com/Editor/img/emotions/104.gif"
-        border={0}
-      />
       <strong>
         <font color="#2843c8">
           <font face="Times New Roman, serif">
@@ -3377,35 +2916,8 @@ class Pro5Page extends Component {
                 color="#00b0f0"
                 style={{ backgroundColor: "rgb(112,48,160)" }}
               >
-                010 - 7221-6633
+                010-5279-3901
               </font>
-              <img
-                name="그림27"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
-              <img
-                name="그림15"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
-              <img
-                name="그림26"
-                width={15}
-                height={15}
-                align="bottom"
-                alt
-                src="http://www.catalba.com/Editor/img/emotions/104.gif"
-                border={0}
-              />
             </font>
           </font>
         </font>
@@ -3428,7 +2940,7 @@ class Pro5Page extends Component {
     >
       <strong>
         <font size={5} style={{ backgroundColor: "rgb(255,192,0)" }}>
-          송파or강남or초보자대환영
+          초보자대환영
         </font>
       </strong>
     </p>
@@ -3449,15 +2961,6 @@ class Pro5Page extends Component {
     >
       <strong>
         <font color="#2843c8">
-          <img
-            name="그림29"
-            width={50}
-            height={49}
-            align="bottom"
-            alt
-            src="http://www.catalba.com/Editor/img/emotions/93.gif"
-            border={0}
-          />
         </font>
         <font color="#c9279f">
           <span style={{ background: "rgb(255,255,255)" }}>
@@ -3472,7 +2975,7 @@ class Pro5Page extends Component {
               <strong>:</strong>
               <strong>
                 <font size={4}> </font>
-                <font size={5}>wjd002891</font>
+                <font size={5}>카톡아이디</font>
               </strong>
             </span>
           </font>
@@ -3480,8 +2983,7 @@ class Pro5Page extends Component {
       </font>
     </p>
   </h1>
-  {/* search서울 동대문구 룸살롱[클럽] search */}
-</div>;
+</div>
 
               </div>
               

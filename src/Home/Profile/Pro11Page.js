@@ -17,15 +17,15 @@ class Pro11Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.26 10:13</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">퍼블릭 디오픈</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>강남1번 디오픈</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro11Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro11Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro11Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro11Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 서초구
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro11Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                             18:00 ~ 09:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro11Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              강남역 디오픈 
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro11Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              차민수
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro11Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>구구단</b>
+    <b>디오픈</b>
   </font>
   <br />
   <br />
@@ -207,8 +206,7 @@ class Pro11Page extends Component {
     <p style={{ margin: 0 }}>
       <strong>
         <span style={{ fontSize: "24pt" }}>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 구구단 쩜오
-          텐프로
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 디오픈 쩜오 퍼블릭
         </span>
       </strong>
     </p>
@@ -257,12 +255,7 @@ class Pro11Page extends Component {
         &nbsp;&nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/images/anigif/g172.gif"
-        />
+        &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <strong>
@@ -272,7 +265,7 @@ class Pro11Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;<strong>
           <font color="#6d00ca" size={6}>
-            김실장 010-4602-3020
+            차민수 010-5279-3901
           </font>
         </strong>
       </div>
@@ -286,7 +279,7 @@ class Pro11Page extends Component {
           <div align="center">
             &nbsp;<span style={{ color: "#2b285f" }}>
               <strong>
-                카톡id :<font color="#ff0000"> ehdaod13</font>
+                카톡id :<font color="#ff0000"> 카톡아이디</font>
               </strong>
             </span>
           </div>
@@ -296,21 +289,10 @@ class Pro11Page extends Component {
         &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/184.gif"
-        />
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>자격조건</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/184.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <font color="#ff0000" size={2}>
@@ -345,21 +327,9 @@ class Pro11Page extends Component {
         &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/304.gif"
-        />
         <font color="#000000" size={4}>
           <strong>급여</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/304.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -371,7 +341,7 @@ class Pro11Page extends Component {
           <strong>면접후 협의</strong>
           <font color="#000000">&nbsp; </font>
         </font>
-        <strong>(당일지급)</strong>
+        <strong>(못믿을까봐 그냥 안적겠음)</strong>
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -388,21 +358,9 @@ class Pro11Page extends Component {
         &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/382.gif"
-        />
         <font color="#000000" size={4}>
           <strong>출퇴근</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/382.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -431,21 +389,10 @@ class Pro11Page extends Component {
         &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/174.gif"
-        />
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>복장</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/174.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -463,21 +410,10 @@ class Pro11Page extends Component {
       <p style={{ margin: 0 }} />
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
       <p style={{ margin: 0 }}>
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/338.gif"
-        />
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>기타</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/338.gif"
-        />
       </p>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -502,21 +438,10 @@ class Pro11Page extends Component {
         &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/319.gif"
-        />
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>마지막으로</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/319.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -558,7 +483,7 @@ class Pro11Page extends Component {
               >
                 <strong>
                   <font color="#6d00ca" size={6}>
-                    김실장 010-4602-3020
+                    차민수 010-5279-3901
                   </font>
                 </strong>
               </div>
@@ -575,7 +500,7 @@ class Pro11Page extends Component {
                   <div align="center">
                     &nbsp;<span style={{ color: "#2b285f" }}>
                       <strong>
-                        카톡id :<font color="#ff0000"> ehdaod13 </font>
+                        카톡id :<font color="#ff0000"> 카톡아이디 </font>
                       </strong>
                     </span>
                   </div>
@@ -590,17 +515,11 @@ class Pro11Page extends Component {
         </font>
         <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
       </font>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
-      <img
-        style={{ verticalAlign: "middle", margin: "1px 4px" }}
-        border={0}
-        alt
-        src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/190.gif"
-      />{" "}
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />{" "}
     </div>
   </font>
   <br />
-</div>;
+</div>
 
               </div>
               

@@ -17,15 +17,15 @@ class Pro13Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.27 08:30</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">퍼블릭 골드</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>술안먹고 짧은테이블</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro13Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              100명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro13Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro13Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro13Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro13Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              골드
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro13Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              석프로
                             </span>
                             <span></span>
                           </td>
@@ -217,7 +216,7 @@ class Pro13Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        연락처 010.4979.6082
+        연락처 010.5279.3901
       </font>
     </strong>
   </div>
@@ -230,7 +229,7 @@ class Pro13Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        카카오톡 1day100
+        카카오톡 카톡아이디
       </font>
     </strong>
   </p>
@@ -1096,11 +1095,10 @@ class Pro13Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        연락처 010.4979.6082<br />카카오톡 1day100
+        연락처 010.5279.3901<br />카카오톡 카톡아이디
       </font>
     </strong>
   </div>
-  {/* search서울 강남구 텐프로/쩜오 search */}
 </div>;
 
               </div>

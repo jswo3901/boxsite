@@ -23,9 +23,9 @@ class Pro14Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">프로스티</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>프로스티 손님많아요</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro14Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              23명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro14Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [시급]110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro14Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro14Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro14Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro14Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              프로스티
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro14Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              오상식
                             </span>
                             <span></span>
                           </td>
@@ -198,7 +197,7 @@ class Pro14Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>강남 명품관</b>
+    <b>강남 프로스티</b>
   </font>
   <br />
   <br />
@@ -213,27 +212,7 @@ class Pro14Page extends Component {
     </div>
     <div style={{ textAlign: "center" }}>
       <font color="#ff0000" size={5}>
-        <img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />명품관 김실장입니다<img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />
+      프로스티 오상식입니다
       </font>
     </div>
     <div style={{ textAlign: "center" }}>
@@ -271,7 +250,7 @@ class Pro14Page extends Component {
     </div>
     <div style={{ textAlign: "center" }}>
       <font color="#0070c0" size={4}>
-        김실장 한번만 믿어주세요
+        오상식이 한번만 믿어주세요
       </font>
     </div>
     <div style={{ textAlign: "center" }}>
@@ -483,7 +462,7 @@ class Pro14Page extends Component {
     </div>
     <div style={{ textAlign: "center" }}>
       <font color="#17365d" size={4}>
-        김 실 장
+        오 상 식
       </font>
     </div>
     <div style={{ textAlign: "center" }}>
@@ -499,7 +478,7 @@ class Pro14Page extends Component {
     <div style={{ textAlign: "center" }}>
       <font size={4}>
         <font color="#17365d" size={4}>
-          starnet83
+          카톡아이디
         </font>
       </font>
     </div>
@@ -509,7 +488,7 @@ class Pro14Page extends Component {
       </font>
     </div>
     <div style={{ textAlign: "center" }}>
-      <font size={4}>010-7931-5454</font>
+      <font size={4}>010-5279-3901</font>
     </div>
     <div style={{ textAlign: "center" }}>
       <font size={4}>이번호로 연락주세요</font>
@@ -543,7 +522,7 @@ class Pro14Page extends Component {
     </div>
   </font>
   <br />
-</div>;
+</div>
 
               </div>
               

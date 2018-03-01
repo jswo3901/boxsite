@@ -17,7 +17,7 @@ class Pro12Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.25 10:46</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
@@ -25,7 +25,7 @@ class Pro12Page extends Component {
                 <div className="company">
                   <span className="companyName">퍼블릭 노원</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>논현동 쎄븐입니다</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro12Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              20명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro12Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro12Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro12Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 논현동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro12Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro12Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro12Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              신논현 쎄븐
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro12Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              김영석
                             </span>
                             <span></span>
                           </td>
@@ -194,7 +193,7 @@ class Pro12Page extends Component {
             <div className="tabItem_workDetail">
               <h2>상세모집요강</h2>
               <div className="iframeCover">
-              <div align="center">
+              <div align="center" style={{"lineHeight":"200%"}}>
   <br />
   <br />
   <font color="red" size={6}>
@@ -214,7 +213,7 @@ class Pro12Page extends Component {
         <font face="굴림">
           <strong>
             <font color="#7030a0" size={6}>
-              나두식
+              김영석
             </font>
           </strong>상무 인사드립니다~!!
         </font>
@@ -222,7 +221,7 @@ class Pro12Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7030a0" face="굴림" size={6}>
-        <strong>010- 3892- 1280</strong>
+        <strong>010- 5279- 3901</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -551,19 +550,19 @@ class Pro12Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7030a0" face="굴림" size={6}>
-        <strong>나두식</strong>
+        <strong>김영석</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7030a0" face="굴림" size={6}>
-        <strong>010- 3892-1280</strong>
+        <strong>010-5279-3901</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font face="굴림">
         <strong>
           <font color="#7030a0" size={6}>
-            na1281
+            카톡아이디
           </font>
         </strong>&nbsp;
       </font>
@@ -620,7 +619,7 @@ class Pro12Page extends Component {
     <p style={{ margin: 0 }}>&nbsp;</p>
   </font>
   <br />
-</div>;
+</div>
 
               </div>
               

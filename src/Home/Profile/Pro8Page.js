@@ -23,9 +23,9 @@ class Pro8Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">케이크</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>24시 연중무휴 </h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro8Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro8Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro8Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro8Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~11:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro8Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              케이크
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro8Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              서브룩
                             </span>
                             <span></span>
                           </td>
@@ -204,58 +203,15 @@ class Pro8Page extends Component {
       <strong>
         <font color="#0070c0">GM</font>{" "}
       </strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />&nbsp;<font color="#c00000">
-        <strong>010 8640 0849 </strong>
-        <img
-          style={{
-            height: 16,
-            width: 16,
-            verticalAlign: "middle",
-            margin: "1px 4px"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />
-        <img
-          style={{
-            height: 16,
-            width: 16,
-            verticalAlign: "middle",
-            margin: "1px 4px"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />
+      &nbsp;<font color="#c00000">
+        <strong>010 5279 3901 </strong>
       </font>{" "}
     </p>
     <p align="center" style={{ margin: 0, lineHeight: 2 }}>
       <font color="#c00000">
         <strong>
           <font color="#00b0f0" size={6}>
-            카카오톡 ( coup2 )
+            카카오톡 : 카톡아이디  
           </font>
         </strong>
       </font>
@@ -275,17 +231,6 @@ class Pro8Page extends Component {
       </strong>
       <font color="#7030a0">
         <strong>▶ </strong>
-        <img
-          style={{
-            height: 16,
-            width: 16,
-            verticalAlign: "middle",
-            margin: "1px 4px"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />
       </font>
       <strong>&nbsp;평균 7~9시 사이 출퇴근 </strong>
     </font>
@@ -293,17 +238,6 @@ class Pro8Page extends Component {
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
       <strong>다 시켜드립니다.</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -324,17 +258,6 @@ class Pro8Page extends Component {
           ▶{" "}
           <font size={5}>
             <font color="#ffc000">
-              <img
-                style={{
-                  height: 16,
-                  width: 16,
-                  verticalAlign: "middle",
-                  margin: "1px 4px"
-                }}
-                alt
-                src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-                border={0}
-              />
             </font>
             <strong>&nbsp;</strong>
           </font>
@@ -383,17 +306,6 @@ class Pro8Page extends Component {
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
       <strong>어느정도의 정성만.^^</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -407,29 +319,8 @@ class Pro8Page extends Component {
     <br />
     <font size={5}>
       <strong>
-        <font color="#00b0f0">갯수강요</font> ▶&nbsp;<img
-          style={{
-            height: 16,
-            width: 16,
-            verticalAlign: "middle",
-            margin: "1px 4px"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/80.gif"
-          border={0}
-        />{" "}
+        <font color="#00b0f0">갯수강요</font> ▶&nbsp;{" "}
         Don"t touch{" "}
-        <img
-          style={{
-            height: 16,
-            width: 16,
-            verticalAlign: "middle",
-            margin: "1px 4px"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/80.gif"
-          border={0}
-        />
       </strong>
     </font>
   </p>
@@ -459,29 +350,7 @@ class Pro8Page extends Component {
         </font>{" "}
         ▶ 무조건{" "}
       </strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>100%</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong> 당일!!!!!</strong>
     </font>
   </p>
@@ -502,29 +371,7 @@ class Pro8Page extends Component {
       <strong>
         <font color="#974806">자격 </font>▶{" "}
       </strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>20~29까지 환영합니다.</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
@@ -535,17 +382,6 @@ class Pro8Page extends Component {
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
       <strong>^^*</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -558,34 +394,12 @@ class Pro8Page extends Component {
       <strong>
         <font color="#00b050">위치</font> ▶{" "}
       </strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
-      <strong>저희는 부천시 원미구 중동에</strong>
+      <strong>저희는 강남구 역삼동에</strong>
     </font>
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
       <strong>&nbsp;위치해 있어요~</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -606,64 +420,20 @@ class Pro8Page extends Component {
           <font color="#0070c0">GM</font>
           <font color="#000000">
             {" "}
-            <img
-              style={{
-                height: 16,
-                width: 16,
-                verticalAlign: "middle",
-                margin: "1px 4px"
-              }}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-              border={0}
-            />
-            <img
-              style={{
-                height: 16,
-                width: 16,
-                verticalAlign: "middle",
-                margin: "1px 4px"
-              }}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-              border={0}
-            />
           </font>
         </strong>
         <font color="#000000">&nbsp;</font>
         <strong>
-          <font color="#c00000">010 8640 0849 </font>
+          <font color="#c00000">010 5279 3901 </font>
         </strong>
         <font color="#c00000">
-          <img
-            style={{
-              height: 16,
-              width: 16,
-              verticalAlign: "middle",
-              margin: "1px 4px"
-            }}
-            alt
-            src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-            border={0}
-          />
-          <img
-            style={{
-              height: 16,
-              width: 16,
-              verticalAlign: "middle",
-              margin: "1px 4px"
-            }}
-            alt
-            src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-            border={0}
-          />
         </font>
       </p>
       <p align="center" style={{ margin: 0, lineHeight: 2 }}>
         <font color="#c00000">
           <strong>
             <font color="#00b0f0" size={6}>
-              카카오톡 ( coup2 )
+              카카오톡 : 카톡아이디
             </font>
           </strong>
         </font>
@@ -687,29 +457,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>편한 언니들이랑 일도 편하게~ </strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -719,29 +467,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>할 수 있게 도와드리겠습니다.</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -751,29 +477,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>갯수 걱정NoNo</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -783,29 +487,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>제가 발로 뛰어 갯수</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong> </strong>
     </font>
   </p>
@@ -818,29 +500,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>열심히 채우도록 노력하겠습니다.</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -850,34 +510,12 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>보통 저녁8시 부터 ~ 오후늦게까지 일하고 </strong>
     </font>
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
       <strong>늦게까지 일하고싶은</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong> </strong>
     </font>
   </p>
@@ -890,29 +528,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>언니들 ★☆ 대 환 영 ☆★</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -922,29 +538,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>여기만큼 편한곳이 없다는걸</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -954,29 +548,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>느끼게 해드릴게요 !</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong> </strong>
     </font>
   </p>
@@ -989,29 +561,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>제가 말이 너무 많았네요..</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -1022,29 +572,7 @@ class Pro8Page extends Component {
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
       <strong>&nbsp;</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>궁금하신게 있으시면 언제든 문의주세요 ^^</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -1054,29 +582,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>천사같은 마음으로 친절하게</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0 }}>
@@ -1086,29 +592,7 @@ class Pro8Page extends Component {
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
     <font size={5}>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <strong>설명해드리겠습니다.</strong>
-      <img
-        style={{
-          height: 16,
-          width: 16,
-          verticalAlign: "middle",
-          margin: "1px 4px"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
     </font>
   </p>
   <p align="center" style={{ margin: 0, lineHeight: 2 }}>
@@ -1129,57 +613,13 @@ class Pro8Page extends Component {
             <font color="#0070c0">GM</font>
             <font color="#000000">
               {" "}
-              <img
-                style={{
-                  height: 16,
-                  width: 16,
-                  verticalAlign: "middle",
-                  margin: "1px 4px"
-                }}
-                alt
-                src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-                border={0}
-              />
-              <img
-                style={{
-                  height: 16,
-                  width: 16,
-                  verticalAlign: "middle",
-                  margin: "1px 4px"
-                }}
-                alt
-                src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-                border={0}
-              />
             </font>
           </strong>
           <font color="#000000">&nbsp;</font>
           <strong>
-            <font color="#c00000">010 8640 0849 </font>
+            <font color="#c00000">010 5279 3901 </font>
           </strong>
           <font color="#c00000">
-            <img
-              style={{
-                height: 16,
-                width: 16,
-                verticalAlign: "middle",
-                margin: "1px 4px"
-              }}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-              border={0}
-            />
-            <img
-              style={{
-                height: 16,
-                width: 16,
-                verticalAlign: "middle",
-                margin: "1px 4px"
-              }}
-              alt
-              src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-              border={0}
-            />
           </font>
         </font>
       </font>
@@ -1191,7 +631,7 @@ class Pro8Page extends Component {
         <font color="#c00000">
           <strong>
             <font color="#00b0f0" size={6}>
-              카카오톡 ( coup2 )
+              카카오톡 : 카톡아이디
             </font>
           </strong>
         </font>
