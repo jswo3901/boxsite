@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Pro1Page.css'
 //http://divtable.com/generator/
-import pro1 from './pro1.gif'
+import pro4 from '../BoxLogo/4.png'
 import room from './room.jpg'
 import ad from './ad.jpg'
 import bar from './bar.jpg'
@@ -28,11 +28,11 @@ class Pro4Page extends Component {
                 <h1>외모안봄/갯수폭발</h1>
                 <div className="companyLogo">
                   <div className="logo">
-                    <img src={pro1} alt="Smiley face"/>
+                    <img src={pro4} alt="Smiley face"/>
                   </div>
                 </div>
               </div>
-              <div className="thumbnailContainer">
+              {/* <div className="thumbnailContainer">
                 <div className="viewThumbnail">
                   <div className="thumbnailImage">
                     <img src={room} alt="Smiley face"/>
@@ -41,7 +41,7 @@ class Pro4Page extends Component {
                 <div className="viewWorkInfo">
 
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="conditionInfo verticalLine">

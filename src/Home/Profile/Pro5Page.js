@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Pro1Page.css'
 //http://divtable.com/generator/
-import pro1 from './pro1.gif'
+import pro5 from '../BoxLogo/5.png'
 import room from './room.jpg'
 import ad from './ad.jpg'
 import bar from './bar.jpg'
@@ -28,11 +28,11 @@ class Pro5Page extends Component {
                 <h1>역삼1등◆훈남실장◆</h1>
                 <div className="companyLogo">
                   <div className="logo">
-                    <img src={pro1} alt="Smiley face"/>
+                    <img src={pro5} alt="Smiley face"/>
                   </div>
                 </div>
               </div>
-              <div className="thumbnailContainer">
+              {/* <div className="thumbnailContainer">
                 <div className="viewThumbnail">
                   <div className="thumbnailImage">
                     <img src={room} alt="Smiley face"/>
@@ -41,7 +41,7 @@ class Pro5Page extends Component {
                 <div className="viewWorkInfo">
 
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="conditionInfo verticalLine">
@@ -1716,15 +1716,7 @@ class Pro5Page extends Component {
         <font face="arial black">
           <font size={4}>
             자기 스타일에 잘 맞게 입으시면{" "}
-            <img
-              name="그림13"
-              width={22}
-              height={18}
-              align="bottom"
-              alt
-              src="http://www.catalba.com/Editor/img/emotions/45.gif"
-              border={0}
-            />
+            
           </font>
         </font>
       </strong>
@@ -1747,15 +1739,7 @@ class Pro5Page extends Component {
       <strong>
         <font face="arial black">
           <font size={4}>
-            초이스가 더 잘된다는건 비밀<img
-              name="그림14"
-              width={19}
-              height={19}
-              align="bottom"
-              alt
-              src="http://www.cocoalba.kr/wys2/editor/images/smiley/msn/wink_smile.gif"
-              border={0}
-            />
+            초이스가 더 잘된다는건 비밀
           </font>
         </font>
       </strong>

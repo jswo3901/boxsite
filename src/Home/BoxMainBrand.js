@@ -47,8 +47,8 @@ import logo33 from './BoxLogo/33.jpg'
 import logo34 from './BoxLogo/34.jpg'
 import logo35 from './BoxLogo/35.jpg'
 import logo36 from './BoxLogo/36.jpg'
-import logo37 from './BoxLogo/37.jpg'
-import logo38 from './BoxLogo/38.png'
+import logo37 from './BoxLogo/37.png'
+import logo38 from './BoxLogo/38.jpg'
 import logo39 from './BoxLogo/39.jpg'
 import logo40 from './BoxLogo/40.jpg'
 import logo41 from './BoxLogo/41.jpg'
@@ -56,7 +56,6 @@ import logo42 from './BoxLogo/42.jpg'
 import logo43 from './BoxLogo/43.jpg'
 import logo44 from './BoxLogo/44.jpg'
 import logo45 from './BoxLogo/45.jpg'
-import logo46 from './BoxLogo/46.jpg'
 
 
 class BoxMainBrand extends Component {
@@ -1074,7 +1073,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro45">
             <div className="img_1">
-              <img src={logo46} alt="Smiley face" />
+              <img src={logo45} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">

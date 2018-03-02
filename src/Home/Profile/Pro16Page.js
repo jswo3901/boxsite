@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Pro1Page.css'
 //http://divtable.com/generator/
-import pro1 from './pro1.gif'
+import pro16 from '../BoxLogo/16.jpg'
 import room from './room.jpg'
 import ad from './ad.jpg'
 import bar from './bar.jpg'
@@ -28,11 +28,11 @@ class Pro16Page extends Component {
                 <h1>★셔츠퍼블릭★티씨11만</h1>
                 <div className="companyLogo">
                   <div className="logo">
-                    <img src={pro1} alt="Smiley face"/>
+                    <img src={pro16} alt="Smiley face"/>
                   </div>
                 </div>
               </div>
-              <div className="thumbnailContainer">
+              {/* <div className="thumbnailContainer">
                 <div className="viewThumbnail">
                   <div className="thumbnailImage">
                     <img src={room} alt="Smiley face"/>
@@ -41,7 +41,7 @@ class Pro16Page extends Component {
                 <div className="viewWorkInfo">
 
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="conditionInfo verticalLine">
@@ -1075,20 +1075,7 @@ class Pro16Page extends Component {
                 <font face="맑은 고딕" />
               </font>
             </span>
-          </font>&nbsp;<img
-            align="top"
-            id="image_0.8345955377221905"
-            style={{
-              border: "0px solid currentColor",
-              width: 99,
-              height: 114,
-              maxWidth: "100%",
-              borderImage: "none"
-            }}
-            alt
-            src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2016/errerer1475893423.gif"
-            data-cke-saved-src="/img_up/shop_pds/horsehp1/2016/errerer1475893423.gif"
-          />
+          </font>&nbsp;
         </div>
         <div
           align="center"
@@ -1124,7 +1111,7 @@ class Pro16Page extends Component {
                     width={59}
                     height={59}
                     alt="일산90.gif"
-                    src="http://www.albagirls.net/data/tmp/1705/itrnraoXKew9Bs4CpNUS1AA.gif"
+                    src="http://www.girls.net/data/tmp/1705/itrnraoXKew9Bs4CpNUS1AA.gif"
                   />출 퇴 근
                 </font>
               </font>
@@ -1167,12 +1154,7 @@ class Pro16Page extends Component {
         >
           <font size={4}>
             <font color="#c71585" face="맑은 고딕">
-              하고 싶을때까지 맘 편히 정해서 하세요~<img
-                style={{ borderWidth: 0 }}
-                alt
-                src="http://bestalba.com/data/cheditor5/1401/em23_efZ2Wf2i.gif"
-                border={0}
-              />
+              하고 싶을때까지 맘 편히 정해서 하세요~
               <br />나오구싶을때부터 가구싶을때까지~~<br />
             </font>
             <font color="#c71585" face="맑은 고딕">
