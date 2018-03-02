@@ -6,6 +6,8 @@ import {
   Link
 } from 'react-router-dom'
 import Home from './Home'
+import HomeBrand from './Home/HomeBrand'
+import HomeText from './Home/HomeText'
 import Pro1Page from './Home/Profile/Pro1Page'
 import Pro2Page from './Home/Profile/Pro2Page'
 import Pro3Page from './Home/Profile/Pro3Page'
@@ -62,6 +64,8 @@ class App extends Component {
         <Router>
           <div id="main">
             <Route exact path="/" component={Home}/>
+            <Route path="/HomeBrand" component={HomeBrand} />
+            <Route path="/HomeText" component={HomeText} />
             <Route path="/pro1" component={Pro1Page}/>
             <Route path="/pro2" component={Pro2Page}/>
             <Route path="/pro3" component={Pro3Page}/>

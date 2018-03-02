@@ -9,7 +9,7 @@ import last_ad from './lastAdd.jpg'
 import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
 
-class Pro38Page extends Component {
+class Pro16Page extends Component {
   render() {
     return (
       <div>
@@ -17,15 +17,15 @@ class Pro38Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.25 10:06</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">선릉 레드라벨</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>(수요비옆)선수손님多</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro38Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro38Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro38Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro38Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 역삼동 선릉역
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro38Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro38Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00 ~ 10:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro38Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              레드라벨
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro38Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              탁실장
                             </span>
                             <span></span>
                           </td>
@@ -198,21 +197,13 @@ class Pro38Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>♥송파№잠실1등♥</b>
+    <b>♥강남 선릉1등♥</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
     <div align="center">
-      <img
-        style={{ borderWidth: 0 }}
-        alt
-        src="http://bestalba.com/data/cheditor5/1401/1363608793_RhrLtWaz7.gif"
-        border={0}
-        vspace={5}
-        hspace={5}
-      />
       <font style={{ fontSize: "16pt" }}>
         <font style={{ fontSize: "14pt" }}>
           <font style={{ fontSize: "9pt" }}>
@@ -256,12 +247,7 @@ class Pro38Page extends Component {
                           style={{ backgroundColor: "#f08080" }}
                         >
                           <strong>
-                            송파에서 일 많기로 소문나고<img
-                              style={{ borderWidth: 0 }}
-                              alt
-                              src="http://bestalba.com/data/cheditor5/1401/em23_efZ2Wf2i.gif"
-                              border={0}
-                            />
+                            강남에서 일 많기로 소문나고
                             <br />맘편히 즐겁게 일할 수 있는곳!!!
                           </strong>
                         </font>
@@ -273,12 +259,6 @@ class Pro38Page extends Component {
                       >
                         <strong>
                           {" "}
-                          <img
-                            style={{ borderWidth: 0 }}
-                            alt
-                            src="http://bestalba.com/data/cheditor5/1401/em23_efZ2Wf2i.gif"
-                            border={0}
-                          />
                         </strong>
                       </font>
                     </font>
@@ -328,19 +308,7 @@ class Pro38Page extends Component {
                             <span style={{ lineHeight: "1.5" }} />
                           </span>
                         </font>
-                      </strong>
-                      <img
-                        title="♨송파1등♨√Top"
-                        className="vb"
-                        style={{
-                          width: 236,
-                          height: 120,
-                          maxHeight: 100,
-                          maxWidth: 200
-                        }}
-                        alt="♨송파1등♨√Top"
-                        src="http://rubyalba.com/data/alba/1708/2049844546_b3zIEcjq_ED81ACEAB8B0EBB380ED9998_1490780721548.gif"
-                      />{" "}
+                      </strong>{" "}
                     </p>
                     <p align="center" style={{ margin: 0 }}>
                       &nbsp;
@@ -349,7 +317,7 @@ class Pro38Page extends Component {
                   <p align="center" style={{ margin: 0 }}>
                     <font color="#4b0082" face="맑은 고딕" size={4} />
                     <font color="#4b0082" face="맑은 고딕" size={4}>
-                      송파,잠실&nbsp;최고의 번화가에 위치한
+                      선릉&nbsp;최고의 번화가에 위치한
                     </font>
                   </p>
                 </div>
@@ -374,7 +342,7 @@ class Pro38Page extends Component {
                   }}
                 >
                   <font color="#ff0000" face="맑은 고딕" size={6}>
-                    <strong>*퍼스트*</strong>
+                    <strong>*레드라벨*</strong>
                   </font>
                 </div>
                 <div
@@ -401,7 +369,7 @@ class Pro38Page extends Component {
                     size={6}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    ☎010&nbsp;8675
+                    ☎010&nbsp;5279
                   </font>
                   <font
                     color="#0070c0"
@@ -409,7 +377,7 @@ class Pro38Page extends Component {
                     size={6}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    &nbsp;7881☎
+                    &nbsp;3901☎
                   </font>
                 </div>
                 <div
@@ -426,7 +394,7 @@ class Pro38Page extends Component {
                     size={2}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    카톡:su8323
+                    카톡:카톡아이디
                   </font>
                 </div>
                 <div
@@ -443,12 +411,6 @@ class Pro38Page extends Component {
                   <font color="#3399ff">
                     <font size={4}>
                       <font face="맑은 고딕">
-                        <img
-                          style={{ borderWidth: 0 }}
-                          alt
-                          src="http://bestalba.com/data/cheditor5/1401/em23_efZ2Wf2i.gif"
-                          border={0}
-                        />
                         <br />
                       </font>
                       <font color="#000000">
@@ -456,12 +418,6 @@ class Pro38Page extends Component {
                           <font color="#4b0082">
                             일하실 공주님들을 모십니다.
                           </font>
-                          <img
-                            style={{ borderWidth: 0 }}
-                            alt
-                            src="http://bestalba.com/data/cheditor5/1401/em23_efZ2Wf2i.gif"
-                            border={0}
-                          />
                         </font>
                       </font>
                     </font>
@@ -497,13 +453,7 @@ class Pro38Page extends Component {
                     backgroundColor: "#fffafa"
                   }}
                 >
-                  <font color="#c02d9f" face="맑은 고딕">
-                    <img
-                      width={59}
-                      height={59}
-                      alt="일산90.gif"
-                      src="http://www.albagirls.net/data/tmp/1705/itrnraoXKew9Bs4CpNUS1AA.gif"
-                    />자격요건{" "}
+                  <font color="#c02d9f" face="맑은 고딕">자격요건{" "}
                   </font>
                 </div>
               </font>
@@ -682,13 +632,7 @@ class Pro38Page extends Component {
                                 <font color="#c02d9f" face="맑은 고딕" />&nbsp;
                               </div>
                               <div align="center" style={{ fontSize: 18 }}>
-                                <font color="#c02d9f" face="맑은 고딕">
-                                  <img
-                                    width={59}
-                                    height={59}
-                                    alt="일산90.gif"
-                                    src="http://www.albagirls.net/data/tmp/1705/itrnraoXKew9Bs4CpNUS1AA.gif"
-                                  />페 이{" "}
+                                <font color="#c02d9f" face="맑은 고딕">페 이{" "}
                                 </font>
                               </div>
                               <div align="center" style={{ fontSize: 18 }}>
@@ -701,12 +645,12 @@ class Pro38Page extends Component {
                                     style={{ fontSize: "large" }}
                                   >
                                     &nbsp;
-                                  </font>1시간 40분이면 끝
+                                  </font>1시간 20분이면 끝
                                 </font>
                               </div>
                               <div align="center" style={{ fontSize: 18 }}>
                                 <font color="#c02d9f" face="맑은 고딕">
-                                  TC - 9만원
+                                  TC - 11만원
                                 </font>
                               </div>
                               <div align="center" style={{ fontSize: 18 }}>
@@ -969,7 +913,7 @@ class Pro38Page extends Component {
                             size={6}
                             style={{ backgroundColor: "#ffff00" }}
                           >
-                            ☎010&nbsp;8675 7881☎
+                            ☎010&nbsp;5279 3901☎
                           </font>
                         </div>
                         <div
@@ -986,7 +930,7 @@ class Pro38Page extends Component {
                             size={2}
                             style={{ backgroundColor: "#ffff00" }}
                           >
-                            카톡:su8323
+                            카톡:카톡아이디
                           </font>
                         </div>
                       </font>
@@ -1131,20 +1075,7 @@ class Pro38Page extends Component {
                 <font face="맑은 고딕" />
               </font>
             </span>
-          </font>&nbsp;<img
-            align="top"
-            id="image_0.8345955377221905"
-            style={{
-              border: "0px solid currentColor",
-              width: 99,
-              height: 114,
-              maxWidth: "100%",
-              borderImage: "none"
-            }}
-            alt
-            src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2016/errerer1475893423.gif"
-            data-cke-saved-src="/img_up/shop_pds/horsehp1/2016/errerer1475893423.gif"
-          />
+          </font>&nbsp;
         </div>
         <div
           align="center"
@@ -1176,12 +1107,7 @@ class Pro38Page extends Component {
                 style={{ backgroundColor: "#fffff0" }}
               >
                 <font face="맑은 고딕">
-                  <img
-                    width={59}
-                    height={59}
-                    alt="일산90.gif"
-                    src="http://www.albagirls.net/data/tmp/1705/itrnraoXKew9Bs4CpNUS1AA.gif"
-                  />출 퇴 근
+                  출 퇴 근
                 </font>
               </font>
             </span>
@@ -1223,12 +1149,7 @@ class Pro38Page extends Component {
         >
           <font size={4}>
             <font color="#c71585" face="맑은 고딕">
-              하고 싶을때까지 맘 편히 정해서 하세요~<img
-                style={{ borderWidth: 0 }}
-                alt
-                src="http://bestalba.com/data/cheditor5/1401/em23_efZ2Wf2i.gif"
-                border={0}
-              />
+              하고 싶을때까지 맘 편히 정해서 하세요~
               <br />나오구싶을때부터 가구싶을때까지~~<br />
             </font>
             <font color="#c71585" face="맑은 고딕">
@@ -1314,13 +1235,7 @@ class Pro38Page extends Component {
         <div align="center" className="바탕글" style={{ color: "#222222" }}>
           <strong>
             <font face="맑은 고딕">
-              <font color="#da70d6" size={6}>
-                <img
-                  width={59}
-                  height={59}
-                  alt="일산90.gif"
-                  src="http://www.albagirls.net/data/tmp/1705/itrnraoXKew9Bs4CpNUS1AA.gif"
-                />복장
+              <font color="#da70d6" size={6}>복장
               </font>&nbsp;
             </font>
           </strong>
@@ -1408,16 +1323,6 @@ class Pro38Page extends Component {
           <font style={{ fontSize: "14pt" }}>
             <font color="#db7093" size={4}>
               <font face="맑은 고딕">
-                <img
-                  title
-                  align="top"
-                  id="image_0.9893824593005329"
-                  style={{ width: 173, height: 161, maxWidth: "100%" }}
-                  alt
-                  src="http://www.badalba.com/img_up/shop_pds/horsehp1/2017/11499122551.gif"
-                  border={0}
-                  data-cke-saved-src="/img_up/shop_pds/horsehp1/2017/11499122551.gif"
-                />
               </font>
             </font>
           </font>
@@ -1459,7 +1364,7 @@ class Pro38Page extends Component {
                       size={6}
                       style={{ backgroundColor: "#ffff00" }}
                     >
-                      ☎010&nbsp;8675 7881☎
+                      ☎010&nbsp;5279 3901☎
                     </font>
                   </div>
                   <div
@@ -1476,7 +1381,7 @@ class Pro38Page extends Component {
                       size={2}
                       style={{ backgroundColor: "#ffff00" }}
                     >
-                      카톡:su8323
+                      카톡:카톡아이디
                     </font>
                   </div>
                   <br />
@@ -1506,4 +1411,4 @@ class Pro38Page extends Component {
   }
 }
 
-export default Pro38Page
+export default Pro16Page

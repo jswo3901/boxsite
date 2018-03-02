@@ -15,37 +15,43 @@ import boxInfo from './boxInfo.jpg'
 import Global from './Global'
 import MainTop from './MainTop'
 import BoxMain from './BoxMain'
+import BoxMainBrand from './BoxMainBrand'
+import MainTopBrand from './MainTopBrand'
 import TextMain from './TextMain'
-
-
-//사이드배너
+import TextMainBrand from './TextMainBrand'
 import Side_1 from './side_1.gif'
 import Side_2 from './side_2.gif'
 import Side_3 from './side_3.gif'
 import Side_4 from './side_4.gif'
-const Home = () => {
+const HomeText = () => {
     return (
       <div>
         
         <Global />
-        <MainTop />
-        <div className="left_banner">
+        <MainTopBrand />
+        <div style={{"marginTop":"-200px"}}>
+        <div className="left_banner" style={{"visibility":"hidden"}}>
           <img src={Side_1} alt="Smiley face" />
         </div>
-        <div clasName="left_banner">
+        <div clasName="left_banner" style={{"visibility":"hidden"}}>
            <img src={Side_2} alt="Smiley face" />
          </div>
-        <BoxMain />
-        
         <TextMain />
+        <TextMainBrand />
+        <TextMainBrand />
+        <TextMainBrand />
+        </div>
+        
         <div className="left_banner">
           <img src={Side_3} alt="Smiley face" />
         </div>
         <div clasName="left_banner">
            <img src={Side_4} alt="Smiley face" />
          </div>
+        
+
+        
       </div>
     )
 }
-export default Home
-
+export default HomeText

@@ -17,15 +17,15 @@ class Pro42Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.25 03:46</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">신사 테리</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>신사 테리에서 대한민국 영미님들을 모십니다.</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro42Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              항상
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro42Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro42Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              가라오케
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro42Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 신사동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro42Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro42Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00 ~ 08:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro42Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              신사동 테리
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro42Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              준하실장
                             </span>
                             <span></span>
                           </td>
@@ -198,41 +197,13 @@ class Pro42Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>♥♥벅시♥♥</b>
+    <b>♥♥테리♥♥</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
     <p align="center" style={{ margin: 0 }}>
-      <font size={6}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
-      <font size={6}>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />{" "}
-        벅&nbsp;시&nbsp;<img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />&nbsp;
-      </font>
-      <font size={6}>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={6}>
@@ -240,16 +211,16 @@ class Pro42Page extends Component {
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={6}>&nbsp;김사랑 상무</font>
+      <font size={6}>&nbsp;준하실장</font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={6}>
         <br />
       </font>
     </p>
-    <p align="center" style={{ margin: 0 }}>
+    <p align="center" style={{ margin: 0, "fontSize":"15px", "lineHeight":"200%" }}>
       <font size={6}>
-        <font color="#ff0000">0 1 0 - 4 6 6 4 - 0 0 8 0</font>
+        <font color="#ff0000">010-5279-3901</font>
         <br />
         <br />
         <br />
@@ -258,77 +229,17 @@ class Pro42Page extends Component {
       몸진상에 열받아서 끝나고 또 술먹고<br />매일 반복되는 일상이 지겹지않나요?<br />
       <br />언니들 나랑 같이 가요<br />
       <br />이 업계에서 졸업은 최단기로 돈은 최고로 벌어갈수있게 해줄게요<br />내
-      손잡고 나 믿고 우리 지금부터라도 다시 열심히 해봅시다&nbsp;<br />김사랑상무
+      손잡고 나 믿고 우리 지금부터라도 다시 열심히 해봅시다&nbsp;<br />준하실장
       한번만 믿어주세요
     </p>
-    <p align="center" style={{ margin: 0 }}>
+    <p align="center" style={{ margin: 0 , "fontSize":"15px", "lineHeight":"200%"}}>
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />김사랑상무<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+      준하실장
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />전화 0 1 0- 4 6 6 4 - 0 0 8 0{" "}
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />{" "}
+      전화 010-5279-3901{" "}
+      {" "}
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />카톡 bk8989<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+      카톡 카톡아이디
       <br />
       <br __jindo__id="e113604278184328851289" />
       <br />
@@ -337,72 +248,12 @@ class Pro42Page extends Component {
       <font color="#ff0000">TC 10만원</font> 이라는 고급진 페이<br />( +Plus
       출근률 좋은언니들 만근비 내지갑에서 빼줍니다.)<br />
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />김사랑상무<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+      -준하실장-
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />전화 0 1 0- 4 6 6 4 - 0 0 8 0{" "}
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />{" "}
+      전화 010-5279-3901{" "}
+      {" "}
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />카톡 bk8989<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+      카톡 카톡아이디
     </p>
     <p align="center" style={{ margin: 0 }}>
       <br />
@@ -411,13 +262,13 @@ class Pro42Page extends Component {
       <br />
       <br />
     </p>
-    <p align="center" style={{ margin: 0 }}>
+    <p align="center" style={{ margin: 0,"fontSize":"15px", "lineHeight":"200%" }}>
       2. 언니들이 강남 이라 걱정하는 외모!!
     </p>
     <p align="center" style={{ margin: 0 }}>
       <br />
     </p>
-    <p align="center" style={{ margin: 0 }}>
+    <p align="center" style={{ margin: 0,"fontSize":"15px", "lineHeight":"200%" }}>
       <font color="#ff0000">절대 걱정할실 필요가 없습니다.</font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -425,7 +276,7 @@ class Pro42Page extends Component {
         <br />
       </font>
     </p>
-    <p align="center" style={{ margin: 0 }}>
+    <p align="center" style={{ margin: 0,"fontSize":"15px", "lineHeight":"200%" }}>
       <font color="#0070c0">밝은 성격만 갖추면 완전 OK !!</font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -443,73 +294,8 @@ class Pro42Page extends Component {
         <br />
       </font>
     </p>
-    <p align="center" style={{ margin: 0 }}>
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />김사랑상무<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+    <p align="center" style={{ margin: 0,"fontSize":"15px", "lineHeight":"200%" }}>
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />전화 0 1 0- 4 6 6 4 - 0 0 8 0{" "}
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />{" "}
-      <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />카톡 bk8989<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <br />
       <br />
       <br />3. 이 타임에 언니들 우리가게 자랑좀 하자면<br />룸 80개 대형업소에
@@ -522,72 +308,8 @@ class Pro42Page extends Component {
       가게는 저희 가게 밖에없을걸요??<br />직접 와서 보세요! 입이 떡 벌어집니다<br />
       <br />
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />김사랑상무<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />전화 0 1 0- 4 6 6 4 - 0 0 8 0{" "}
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />{" "}
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />카톡 bk8989<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
       <br />
       <br />
       <br />4. 2017년 기준 1998=20살<br />언니들 미성년자는 안된다는거 알고
@@ -595,72 +317,10 @@ class Pro42Page extends Component {
       많아 이제 초이스가 안될거 같다는 언니들!<br />일단 와서 나랑 면접한번봐여<br />내가
       할수 있는데까지 밀어드릴게요<br />대학생,직장인,투잡 모두 환영합니다~<br />
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />김사랑상무<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />전화 0 1 0- 4 6 6 4 - 0 0 8 0{" "}
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />{" "}
       <br />
-      <img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />카톡 bk8989<img
-        style={{
-          margin: "1px 4px",
-          width: 16,
-          height: 16,
-          verticalAlign: "middle"
-        }}
-        alt
-        src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-        border={0}
-      />
+      
       <br />
       <br />
       <br />언니들 지금까지 긴 글 읽어줘서 너무 감사해요♡<br />난 이 넓은
@@ -673,28 +333,6 @@ class Pro42Page extends Component {
       <br />
       <font size={6}>&nbsp;&nbsp;</font>
       <font size={6}>
-        <img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />{" "}
-        벅&nbsp;시&nbsp;&nbsp;<img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -703,7 +341,7 @@ class Pro42Page extends Component {
       </font>{" "}
     </p>
     <p align="center" style={{ margin: 0 }}>
-      <font size={6}>김사랑 상무</font>
+      <font size={6}>준하실장</font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={6}>
@@ -712,7 +350,7 @@ class Pro42Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" size={6}>
-        0 1 0 - 4 6 6 4 - 0 0 8 0
+        010-5279-3901
       </font>
     </p>
   </font>

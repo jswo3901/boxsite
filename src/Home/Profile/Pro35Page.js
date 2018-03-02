@@ -17,15 +17,15 @@ class Pro35Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.27 08:30</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">역삼 프리마</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>프리마에서 일하실 덕선이를 찾습니다.</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro35Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              100명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro35Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro35Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro35Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro35Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro35Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              프리마 박보검
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro35Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              박보검실장
                             </span>
                             <span></span>
                           </td>
@@ -217,7 +216,7 @@ class Pro35Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        연락처 010.4979.6082
+        연락처 010.5279.3901
       </font>
     </strong>
   </div>
@@ -230,7 +229,7 @@ class Pro35Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        카카오톡 1day100
+        카카오톡 카톡아이디
       </font>
     </strong>
   </p>
@@ -322,7 +321,7 @@ class Pro35Page extends Component {
         size={4}
         style={{ backgroundColor: "rgb(0, 0, 0)" }}
       >
-        언니들 이직률 0등
+        언니들 실장 평판 1등
       </font>
     </b>
   </p>
@@ -362,7 +361,7 @@ class Pro35Page extends Component {
   >
     <font size={5}>
       <b>
-        강남 1등 가게 "<font color="#ff0000">강남넘버원"</font>&nbsp;입니다
+        강남 1등 가게 "<font color="#ff0000">강남 프리마"</font>&nbsp;입니다
       </b>
     </font>
   </p>
@@ -542,7 +541,7 @@ class Pro35Page extends Component {
     }}
   >
     <b>
-      <font size={4}>시간타임기준 최소 30~150만</font>
+      <font size={4}>시간타임기준 일당 최소 50~150만</font>
     </b>
   </p>
   <p
@@ -779,7 +778,7 @@ class Pro35Page extends Component {
     }}
   >
     <font size={3}>
-      <b>실장들이 껄떡되고 치근덕되는</b>
+      <b>실장들이 껄떡되고 치근덕대는</b>
       <b>&nbsp;그런 구질구질한 업소 아닙니다</b>
     </font>
   </p>
@@ -994,7 +993,7 @@ class Pro35Page extends Component {
     }}
   >
     <b>
-      <font size={4}>최고의 스텝진들이&nbsp;</font>
+      <font size={4}>최고의 스탭진들이&nbsp;</font>
     </b>
   </p>
   <p
@@ -1096,12 +1095,11 @@ class Pro35Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        연락처 010.4979.6082<br />카카오톡 1day100
+        연락처 010.5279.3901<br />카카오톡 카톡아이디
       </font>
     </strong>
   </div>
-  {/* search서울 강남구 텐프로/쩜오 search */}
-</div>;
+</div>
 
               </div>
               

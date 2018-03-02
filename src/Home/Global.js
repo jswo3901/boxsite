@@ -20,19 +20,13 @@ class Global extends Component {
                 <div id="HeaderMenu">
                     <ul className="headerMenu">
                     <li className="job">
-                        <Link to="/">구인정보</Link>
+                        <Link to="/">HOME</Link>
                     </li>
                     <li className="brand">
-                        <Link to="/">브랜드 알바</Link>
+                        <Link to="/HomeBrand">브랜드 채용</Link>
                     </li>
                     <li className="genius">
-                        <Link to="/">맞춤 알바</Link>
-                    </li>
-                    <li className="resume">
-                        <Link to="/">인재정보</Link>
-                    </li>
-                    <li className="story">
-                        <Link to="/">커뮤니티</Link>
+                        <Link to="/HomeText">일반 채용</Link>
                     </li>
                     <li className="person">
                         <Link to="/">개인서비스</Link>

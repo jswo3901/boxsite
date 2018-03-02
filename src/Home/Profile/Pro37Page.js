@@ -17,15 +17,15 @@ class Pro37Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.21 18:30</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">논현 M</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>차량지원,콜비지원!! 논현M으로 오세요~~~~</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro37Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro37Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [시급]110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro37Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -118,7 +117,7 @@ class Pro37Page extends Component {
                           <th>근무지 위치</th>
                           <td>
                             <span>
-                              강남구 역삼동
+                              강남구 논현동
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro37Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro37Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~13:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro37Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              M
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro37Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              성신일
                             </span>
                             <span></span>
                           </td>
@@ -198,45 +197,17 @@ class Pro37Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>홍대신촌No1</b>
+    <b>강남 No.1 셔츠룸</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
-    <p style={{ margin: 0, textAlign: "center", fontSize: "10pt" }}>
-      <strong>
-        <img
-          align="top"
-          id="image_0.5803925757542968"
-          style={{
-            borderWidth: 0,
-            borderStyle: "solid",
-            width: 25,
-            height: 26,
-            maxWidth: "100%"
-          }}
-          alt
-          src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-          data-cke-saved-src="/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-        />&nbsp; TOP890511<br />
-      </strong>
-    </p>
     <strong />
     <li>
       <font size={5}>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000">
-            <img
-              title
-              align="top"
-              id="image_0.8410829278822037"
-              style={{ width: 116, height: 122, maxWidth: "100%" }}
-              alt
-              src="http://www.badalba.com/img_up/shop_pds/horsehp1/2017/91499123178.gif"
-              border={0}
-              data-cke-saved-src="/img_up/shop_pds/horsehp1/2017/91499123178.gif"
-            />
           </font>
           <font color="#000000">
             <br />
@@ -251,37 +222,9 @@ class Pro37Page extends Component {
               <font color="#974806">
                 <font color="#ff0000" style={{ backgroundColor: "#ffffff" }}>
                   <font style={{ backgroundColor: "#ffffff" }}>
-                    <font style={{ backgroundColor: "#ffffff" }}>
-                      <img
-                        align="top"
-                        id="image_0.07390367032529965"
-                        style={{
-                          borderWidth: 0,
-                          borderStyle: "solid",
-                          width: 24,
-                          height: 18,
-                          maxWidth: "100%"
-                        }}
-                        alt
-                        src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2016/136_aura7471463929089.gif"
-                        data-cke-saved-src="/img_up/shop_pds/horsehp1/2016/136_aura7471463929089.gif"
-                      />&nbsp;<strong>
+                    <font style={{ backgroundColor: "#ffffff" }}>&nbsp;<strong>
                         <font size={6}>초저녁일 늦일 독점!!</font>{" "}
                       </strong>
-                      <img
-                        align="top"
-                        id="image_0.07390367032529965"
-                        style={{
-                          borderWidth: 0,
-                          borderStyle: "solid",
-                          width: 24,
-                          height: 18,
-                          maxWidth: "100%"
-                        }}
-                        alt
-                        src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2016/136_aura7471463929089.gif"
-                        data-cke-saved-src="/img_up/shop_pds/horsehp1/2016/136_aura7471463929089.gif"
-                      />
                     </font>
                   </font>
                 </font>
@@ -295,40 +238,14 @@ class Pro37Page extends Component {
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
-          <strong>
-            <img
-              align="top"
-              id="image_0.5803925757542968"
-              style={{
-                borderWidth: 0,
-                borderStyle: "solid",
-                width: 25,
-                height: 26,
-                maxWidth: "100%"
-              }}
-              alt
-              src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-              data-cke-saved-src="/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-            />&nbsp; TOP890511<br />
-          </strong>
+          
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
           <strong>
-            ★★홍대/신촌{" "}
-            <img
-              style={{
-                margin: "1px 4px",
-                width: 42,
-                height: 31,
-                verticalAlign: "middle"
-              }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/107.gif"
-              border={0}
-            />{" "}
-            베스트에서 같이 일하실<br />20대~40대 언니들 모십니다.~~!!★★
+            ★★강남구 논현동{" "}
+            이븐에서 같이 일하실<br />20대~30대 언니들 모십니다.~~!!★★
           </strong>
         </font>
       </p>
@@ -340,48 +257,14 @@ class Pro37Page extends Component {
       <font size={5}>
         <div align="center">
           <strong>
-            <img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/images/anigif/g192.gif"
-              border={0}
-            />
           </strong>
         </div>
         <div align="center">
-          <strong>
-            &nbsp;<img
-              align="top"
-              id="image_0.5803925757542968"
-              style={{
-                borderWidth: 0,
-                borderStyle: "solid",
-                width: 25,
-                height: 26,
-                maxWidth: "100%"
-              }}
-              alt
-              src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-              data-cke-saved-src="/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-            />&nbsp; TOP890511
-          </strong>
         </div>
         <div align="center">
           <font size={6}>
             <strong>
-              <img
-                style={{ margin: "1px 4px", verticalAlign: "middle" }}
-                alt
-                src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/456.gif"
-                border={0}
-              />
               <font color="#000000">자격조건</font>
-              <img
-                style={{ margin: "1px 4px", verticalAlign: "middle" }}
-                alt
-                src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/456.gif"
-                border={0}
-              />
             </strong>
           </font>
         </div>
@@ -413,18 +296,6 @@ class Pro37Page extends Component {
       <p style={{ margin: 0 }}>
         <font size={3}>
           <strong>
-            <img
-              id="image_0.16165021926776646"
-              style={{
-                borderWidth: 0,
-                borderImage: "none",
-                width: 483,
-                height: 20
-              }}
-              alt="1_(320).gif"
-              src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-              data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-            />
           </strong>
         </font>
       </p>
@@ -440,28 +311,7 @@ class Pro37Page extends Component {
             <font color="#000000">
               <strong>
                 <font size={3}>
-                  <img
-                    style={{
-                      margin: "1px 4px",
-                      width: 27,
-                      height: 24,
-                      verticalAlign: "middle"
-                    }}
-                    alt
-                    src="http://www.cherryalba.com/gnuboard4/cheditor5/icons/em/55.gif"
-                    border={0}
-                  />
-                </font>급여<img
-                  style={{
-                    margin: "1px 4px",
-                    width: 29,
-                    height: 22,
-                    verticalAlign: "middle"
-                  }}
-                  alt
-                  src="http://www.cherryalba.com/gnuboard4/cheditor5/icons/em/55.gif"
-                  border={0}
-                />
+                </font>급여
               </strong>
             </font>
           </font>
@@ -490,18 +340,6 @@ class Pro37Page extends Component {
         </p>
         <p style={{ margin: 0 }}>
           <strong>
-            <img
-              id="image_0.16165021926776646"
-              style={{
-                borderWidth: 0,
-                borderImage: "none",
-                width: 483,
-                height: 20
-              }}
-              alt="1_(320).gif"
-              src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-              data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-            />
           </strong>
         </p>
         <p style={{ margin: 0 }}>
@@ -517,19 +355,7 @@ class Pro37Page extends Component {
         <font size={6}>
           <strong>
             <font size={3}>
-              <img
-                style={{ margin: "1px 4px", verticalAlign: "middle" }}
-                alt
-                src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/198.gif"
-                border={0}
-              />
             </font>근무시간{" "}
-            <img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/198.gif"
-              border={0}
-            />
           </strong>
         </font>
       </p>
@@ -549,18 +375,6 @@ class Pro37Page extends Component {
       <font size={5}>
         <p style={{ margin: 0 }}>
           <strong>
-            <img
-              id="image_0.16165021926776646"
-              style={{
-                borderWidth: 0,
-                borderImage: "none",
-                width: 483,
-                height: 20
-              }}
-              alt="1_(320).gif"
-              src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-              data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-            />
             <br />
           </strong>
         </p>
@@ -575,18 +389,7 @@ class Pro37Page extends Component {
         <font size={6}>
           <strong>
             <font size={3}>
-              <img
-                style={{ margin: "1px 4px", verticalAlign: "middle" }}
-                alt
-                src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/330.gif"
-                border={0}
-              />
-            </font>출근 시켜드려요<img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/330.gif"
-              border={0}
-            />
+            </font>출근 시켜드려요
           </strong>
         </font>
       </p>
@@ -611,18 +414,6 @@ class Pro37Page extends Component {
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
           <strong>
-            <img
-              id="image_0.16165021926776646"
-              style={{
-                borderWidth: 0,
-                borderImage: "none",
-                width: 483,
-                height: 20
-              }}
-              alt="1_(320).gif"
-              src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-              data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-            />
           </strong>
         </font>
       </p>
@@ -636,19 +427,7 @@ class Pro37Page extends Component {
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={6}>
-          <strong>
-            <img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/282.gif"
-              border={0}
-            />&nbsp;외모{" "}
-            <img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/282.gif"
-              border={0}
-            />
+          <strong>&nbsp;외모{" "}
           </strong>
         </font>
       </p>
@@ -682,18 +461,6 @@ class Pro37Page extends Component {
       </p>
       <p align="center" style={{ margin: 0 }}>
         <strong>
-          <img
-            id="image_0.16165021926776646"
-            style={{
-              borderWidth: 0,
-              borderImage: "none",
-              width: 483,
-              height: 20
-            }}
-            alt="1_(320).gif"
-            src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-            data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-          />
         </strong>
       </p>
       <p style={{ margin: 0 }}>
@@ -704,19 +471,7 @@ class Pro37Page extends Component {
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={6}>
-          <strong>
-            <img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/224.gif"
-              border={0}
-            />복장{" "}
-            <img
-              style={{ margin: "1px 4px", verticalAlign: "middle" }}
-              alt
-              src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/224.gif"
-              border={0}
-            />
+          <strong>복장{" "}
           </strong>
         </font>
       </p>
@@ -724,22 +479,6 @@ class Pro37Page extends Component {
     <li>
       <p align="center" style={{ margin: 0 }}>
         <font size={6}>
-          <strong>
-            &nbsp;<img
-              align="top"
-              id="image_0.5803925757542968"
-              style={{
-                borderWidth: 0,
-                borderStyle: "solid",
-                width: 25,
-                height: 26,
-                maxWidth: "100%"
-              }}
-              alt
-              src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-              data-cke-saved-src="/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-            />&nbsp; TOP890511
-          </strong>
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
@@ -764,18 +503,6 @@ class Pro37Page extends Component {
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
           <strong>
-            <img
-              id="image_0.16165021926776646"
-              style={{
-                borderWidth: 0,
-                borderImage: "none",
-                width: 483,
-                height: 20
-              }}
-              alt="1_(320).gif"
-              src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-              data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_yy1LpjbkDyJNR6fo5Zs82pL.gif"
-            />
             <br />
           </strong>
         </font>
@@ -789,18 +516,7 @@ class Pro37Page extends Component {
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
           <strong>
-            <font size={6}>
-              <img
-                style={{ margin: "1px 4px", verticalAlign: "middle" }}
-                alt
-                src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/133.gif"
-                border={0}
-              />이런일이 처음이시라구요!?!?<img
-                style={{ margin: "1px 4px", verticalAlign: "middle" }}
-                alt
-                src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/133.gif"
-                border={0}
-              />
+            <font size={6}>이런일이 처음이시라구요!?!?
             </font>
             <br />일단 한번 나와보세요~{" "}
           </strong>
@@ -843,55 +559,22 @@ class Pro37Page extends Component {
     <li>
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
-          <strong>
-            &nbsp;<img
-              align="top"
-              id="image_0.5803925757542968"
-              style={{
-                borderWidth: 0,
-                borderStyle: "solid",
-                width: 25,
-                height: 26,
-                maxWidth: "100%"
-              }}
-              alt
-              src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-              data-cke-saved-src="/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-            />&nbsp; TOP890511
-          </strong>
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
           <strong>
-            <img src="http://catalba.com/images/anigif/g154.gif" />
             <br />
           </strong>
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
-          <strong>010.8200.8380</strong>
+          <strong>010 5279 3901</strong>
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
         <strong>
-          <font size={5}>
-            <img
-              align="top"
-              id="image_0.5803925757542968"
-              style={{
-                borderWidth: 0,
-                borderStyle: "solid",
-                width: 25,
-                height: 26,
-                maxWidth: "100%"
-              }}
-              alt
-              src="http://www.ooalba.com/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-              data-cke-saved-src="/img_up/shop_pds/horsehp1/2015/78hf1451565047.gif"
-            />&nbsp; TOP890511
-          </font>
         </strong>
       </p>
     </li>
@@ -912,16 +595,6 @@ class Pro37Page extends Component {
       <span style={{ fontSize: 24 }}>
         <font color="#ffe4b5">
           <strong>
-            <img
-              width={400}
-              height={40}
-              id="image_0.4898629567840266"
-              style={{ borderWidth: 0, borderImage: "none" }}
-              alt="1_(291).gif"
-              src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_Vh3w8P3ipPvKVX43.gif"
-              border={0}
-              data-cke-saved-src="http://www.catalba.com/gnuboard4/data/cheditor4/1310/dc1b33a0393ee43d9a853fbd08b189f1_Vh3w8P3ipPvKVX43.gif"
-            />
           </strong>
         </font>
       </span>

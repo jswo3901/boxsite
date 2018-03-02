@@ -9,7 +9,7 @@ import textInfo from './textInfo.jpg'
 import fastIcon from './fast.gif'
 import newIcon from './new.gif'
 
-class TextMain extends Component {
+class TextMainBrand extends Component {
     render() {
         return (
             <div className="text_main">
@@ -17,10 +17,6 @@ class TextMain extends Component {
             <div>
             
             <h4> &nbsp;</h4>
-              <h3 className="textInfo">
-              
-                ◎일반 채용정보
-              </h3>
             </div>
                 <div className="text-left-main">
                     <div className="text-left-loca">
@@ -272,11 +268,12 @@ class TextMain extends Component {
                     </div>
                     <div className="text-left-content">
                     <a>언능와여...</a>
-                    </div>
+                    </div> 
+                    
                 </div>
             </div>
         )
     }
 }
 
-export default TextMain;
+export default TextMainBrand;

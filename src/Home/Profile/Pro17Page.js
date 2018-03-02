@@ -208,7 +208,7 @@ class Pro17Page extends Component {
         <font style={{ backgroundColor: "#faf0e6" }} color="#ff1493">
           <font size={4}>
             <font style={{ backgroundColor: "#ffffff" }}>
-              <font color="#002060">조재현 상무와 함께할 가족 구합니다</font>
+              <font color="#002060">민병규 상무와 함께할 가족 구합니다</font>
             </font>
           </font>
         </font>

@@ -17,15 +17,15 @@ class Pro36Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.26 10:13</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">블랙티</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>BlackTea/하루80만</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro36Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro36Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro36Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro36Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro36Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                             18:00 ~ 13:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro36Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              강남역 블랙티 
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro36Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              이시원실장
                             </span>
                             <span></span>
                           </td>
@@ -194,356 +193,327 @@ class Pro36Page extends Component {
             <div className="tabItem_workDetail">
               <h2>상세모집요강</h2>
               <div className="iframeCover">
-              <div align="center" style={{"lineHeight":"26px"}}>
+              <div align="center">
   <br />
   <br />
   <font color="red" size={6}>
-    <b>강남 명품관</b>
+    <b>블랙티</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
-    <div style={{ textAlign: "center" }}>
-      <font face="batang">
-        <span style={{ fontSize: 24 }}>
-          <b>안녕하세요&nbsp;</b>
-        </span>
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#ff0000" size={5}>
-        <img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />명품관 김실장입니다<img
-          style={{
-            margin: "1px 4px",
-            width: 16,
-            height: 16,
-            verticalAlign: "middle"
-          }}
-          alt
-          src="http://www.foxalba.com/cheditor/icons/em/78.gif"
-          border={0}
-        />
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>항상 고생하시는 우리 이쁜 언니들</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>죽어라 일하는데 돈은 안되고</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>술진상 몸진상에 열받아서 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>끝나고 또 술먹고</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>매일 반복되는 일상이 지겹지 않나요?</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>언니들 나랑 같이 가요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>이 업계에서 졸업은 최단기로&nbsp;돈은 최고로 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>벌어갈수 있게 해줄게요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>내손잡고 나 믿고 우리 지금부터라도 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>다시 열심히 해봅시다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#0070c0" size={4}>
-        김실장 한번만 믿어주세요
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#7030a0" size={4}>
-        1.평균 2시간씩 지루하게 일하는
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#7030a0" size={4}>
-        가게들과는 달리 1시간이라는{" "}
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#7030a0" size={4}>
-        깔끔함에 TC10만원이라는 고급진 페이
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#7030a0" size={4}>
-        (+PLUS출근율 좋은 언니들
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#7030a0" size={4}>
-        만근비 내지갑에서 빼줍니다)
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>2.언니들이 강남이라 걱정하는 외모!!!!!!</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>내얼굴이 오징어 쭈꾸미 해삼 말마질이다!!!</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
-        !!!!!!!!!!!!!!!!괜찮아요 언니 진심으로!!!!!!!!!!!!!!!!!!!!!!
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>나도 어디빻아논 얼굴이었는데</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>돈 오질라게 벌어서 당당히 졸업했습니다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>우리가게는 mind와 자기 소신만 있다면</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>그 어떤 언니들보다 ACE로 손님들께</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>예쁨받는 곳입니다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>거짓하나 안 보태고</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>평균방5방 갯수는 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>보장할께요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>부지런떨어서 8시전까지만와도</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>8~10방 나옵니다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>3.이타임에 언니들</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>우리가게 자랑좀 하자면</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>룸80개 대형업소에 연중무휴</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>언니들이 없어서 못받습니다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>그이유가 멀까요????</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>가게측에서 언니들을 배려하는</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>센스들에 의해서 언니들의 컨디션을 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>최상으로 올려주기 때문이죠</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>언니들이 편안하게 쉴수 있는</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>넓은 대기실과</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>밥,간식등 먹고싶은거 언제든 먹을수 있는</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>맛있는 매점 가게안에 개인사물함/헤어</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>메이크업/홀복렌탈이 상주해 있습니다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>이런 가게는 저희 가게 밖에 없을껄요??</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>직접와서 보세요!!!</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>입이 벌어집니다</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
-        <br />
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#ff0000" size={4}>
-        4.2017년 기준1998=20살
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#ff0000" size={4}>
-        언니들 미성년자는 안된다는거{" "}
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#ff0000" size={4}>
-        알고있죠??
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>저희 가게는 20살부터</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>나이제한없이 받고 있어요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>나이가 많아 이제 초이스가 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>안될거 같다는 언니들</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>일단 와서 나랑 면접한번봐여 내가 할수 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>있는데까지 밀어드릴께요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>대학생, 직장인,투잡 모두 환영해요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>언니들 지금까지 긴글 읽어줘서 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>너무 감사해요~^^</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>난 이 넓은 강남바닥에서 우리 같이 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>욕심과 성실과 끈기라면</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>못해낼꺼 없다고 생각해요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>한때 언니들과 같은 아가씨였던 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>마음으로&nbsp; 돌아가서 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>언니들의 힘든일들 </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>더 귀기울여 들을게요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>저랑 함께 가요 언니들~</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
-        <br />
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>친절상담</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
-        <br />
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#17365d" size={4}>
-        김 실 장
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
-        <br />
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font color="#17365d" size={4}>
-        카카오
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
-        <font color="#17365d" size={4}>
-          starnet83
+    <div style={{ fontSize: "11pt" }} align="center">
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <strong>
+          <span style={{ fontSize: "24pt" }} />
+        </strong>&nbsp;
+      </div>
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
+        &nbsp;<b>
+          <font color="#ff0000">
+            손님은 많은데 언니들이 너무너무 부족해요ㅠ.ㅠ
+          </font>
+        </b>
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <b>
+          <font color="#ff0000" />
+        </b>&nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <b>
+          <font color="#ff0000" />
+        </b>&nbsp;<b>
+          <font color="#ff0000">
+            저희 꼬옥~ 지킬 수 있는 부분만 말씀 드리겠습니다.
+          </font>
+        </b>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <b>
+          <font color="#ff0000" />
+        </b>&nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <b>
+          <font color="#ff0000" />
+        </b>&nbsp;<b>
+          <font color="#ff0000">
+            저희 업소는 이지역에서 손님이 가장 많고 유명한 가게에요^^
+          </font>
+        </b>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;&nbsp;
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <strong>
+          <font color="#6d00ca" size={6} />
+        </strong>&nbsp;
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;<strong>
+          <font color="#6d00ca" size={6}>
+            이시원 010-5279-3901
+          </font>
+        </strong>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <font color="#6d00ca" size={6}>
+          <div align="center">
+            <span style={{ color: "#2b285f" }}>
+              <strong />
+            </span>&nbsp;
+          </div>
+          <div align="center">
+            &nbsp;<span style={{ color: "#2b285f" }}>
+              <strong>
+                카톡id :<font color="#ff0000"> 카톡아이디</font>
+              </strong>
+            </span>
+          </div>
         </font>
-      </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
+        &nbsp;
         <br />
+        <font color="#000000" size={6}>
+          <strong>*자격조건*</strong>
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <font color="#ff0000" size={2}>
+          <b />
+        </font>&nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <font color="#ff0000" size={2}>
+          <b />
+        </font>&nbsp;<font color="#ff0000" size={4}>
+          <b>20세 이상 ~ 35세 이하 여성</b>
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <font color="#ff0000" />&nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <font color="#ff0000" />&nbsp;<font color="#ff0000">
+          초보,알바,대딩,직장인, 모두모두 환영합니다.
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <font color="#ff0000" />&nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <font color="#ff0000" />&nbsp;<font color="#ff0000">
+          성실하구 돈욕심만 있다면 누구든 환영합니다
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
+        <font color="#000000" size={4}>
+          <strong>급여</strong>
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <font color="red" size={4}>
+          <b />
+        </font>&nbsp;<font color="red" size={4}>
+          <strong>[TC]110,000</strong>
+          <font color="#000000">&nbsp; </font>
+        </font>
+        <strong>(1타임 대략 1시간20분정도 생각하시면 됩니다.)</strong>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <p style={{ margin: 0, fontSize: "14pt" }}>
+        스케줄에 맞춰 출퇴근 자유롭게 하면서 원하시는{" "}
+      </p>&nbsp;
+      <p style={{ margin: 0 }} />
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;금액에 맞게끔 일을 만들어드립니다.^^
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
+        <font color="#000000" size={4}>
+          <strong>출퇴근</strong>
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;&nbsp;출근은{" "}
+        <font color="#ff0000">
+          오후 7시에서 8시&nbsp;퇴근은 졸리면 가는거죠 뭐..
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;아무때나 본인이 편한시간에 나오고 들어가시면 됩니다~
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <span style={{ color: "#ff0000" }} />&nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        <span style={{ color: "#ff0000" }}>
+          (절대시간때문에 스트레스받지마세요ㅎㅎ;)
+        </span>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;
+        <font color="#000000" size={4}>
+          <strong>복장</strong>
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        언니들의 사이즈에 맞게끔 자유복장
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;자신의 매력을 한껏 발휘할 수 있는 스타일이면 ok!
+      </div>
+      <p style={{ margin: 0 }}>&nbsp;</p>
+      <p style={{ margin: 0 }} />
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
+      <p style={{ margin: 0 }}>
+        &nbsp;
+        <font color="#000000" size={4}>
+          <strong>기타</strong>
+        </font>
+      </p>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;술 전혀못마시고 춤,노래 못해도 일하실마음만 있으면 돼요
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;&nbsp;&nbsp;사회생활의 시작이 참 중요하듯 언니들도들도 시작이
+        중요해용
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;처음이어도 어색하지않게 돈 많이벌수있도록 도와드릴께요~꼭이요^^ㅋ
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;
+        <font color="#000000" size={4}>
+          <strong>마지막으로</strong>
+        </font>
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;손님이없어서 대기실에 앉아있는 스트레스 싹 덜어드릴께요
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;어차피 해야 할거라면 젊은시절 헛되이 시간보내지 않고,
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        &nbsp;
+      </div>
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;&nbsp;때가 되면 다털고 일어나실 수 있길 바랍니다..^^
+      </div>
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+        <font color="#000000" size={6}>
+          <font color="#6d00ca" size={6}>
+            <strong>
+              <font color="#6d00ca" size={6} />
+            </strong>
+          </font>
+        </font>&nbsp;
+      </div>
+      <font color="#000000" size={6}>
+        <font color="#6d00ca" size={6}>
+          <font size={6}>
+            <div
+              style={{ fontSize: "11pt", textAlign: "center" }}
+              align="center"
+            >
+              <div
+                style={{ fontSize: "11pt", textAlign: "center" }}
+                align="center"
+              ><br /><br />
+                <strong>
+                  <font color="#6d00ca" size={6}>
+                    이시원 010-5279-3901
+                  </font>
+                </strong>
+              </div>
+              <div
+                style={{ fontSize: "11pt", textAlign: "center" }}
+                align="center"
+              >
+                <font color="#6d00ca" size={6}>
+                  <div align="center">
+                    <span style={{ color: "#2b285f" }}>
+                      <strong />
+                    </span>&nbsp;
+                  </div>
+                  <div align="center">
+                    &nbsp;<span style={{ color: "#2b285f" }}>
+                      <strong>
+                        카톡id :<font color="#ff0000"> 카톡아이디 </font>
+                      </strong>
+                    </span>
+                  </div>
+                </font>
+              </div>
+            </div>
+          </font>
+          <div
+            style={{ fontSize: "11pt", textAlign: "center" }}
+            align="center"
+          />
+        </font>
+        <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
       </font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>010-7931-5454</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <font size={4}>이번호로 연락주세요</font>
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
-    </div>
-    <div style={{ textAlign: "center" }}>
-      <br />
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />{" "}
     </div>
   </font>
   <br />
-</div>;
+</div>
 
               </div>
               

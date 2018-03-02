@@ -17,15 +17,15 @@ class Pro40Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.27 14:18</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">레이저</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>1시간30분 10만 퍼블릭 끝판왕</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro40Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro40Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 100,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro40Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro40Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro40Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~12:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro40Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              Laser
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro40Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              김사장
                             </span>
                             <span></span>
                           </td>
@@ -194,11 +193,11 @@ class Pro40Page extends Component {
             <div className="tabItem_workDetail">
               <h2>상세모집요강</h2>
               <div className="iframeCover">
-              <div align="center" style={{"lineHeight":"26px"}}>
+              <div align="center" style={{"lineHeight":"26px", "fontSize":"15px"}}>
   <br />
   <br />
   <font color="red" size={6}>
-    <b>엣지</b>
+    <b>레이저</b>
   </font>
   <br />
   <br />
@@ -212,15 +211,15 @@ class Pro40Page extends Component {
       인사할게요&nbsp;
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      저는 <font size={3}>엣지</font> 에서&nbsp;<font color="#ff0000" size={5}>
+      저는 <font size={3}>레이저</font> 에서&nbsp;<font color="#ff0000" size={5}>
         <b>포근한 오빠</b>
       </font>같은&nbsp;
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={4}>
-        강.전.무
+        김사장
       </font>
-      <span style={{ fontSize: "9pt" }}>&nbsp;라고 해요 ^^&nbsp;&nbsp;</span>
+      <span style={{ fontSize: "5pt" }}>&nbsp;이라고 해요 ^^&nbsp;&nbsp;</span>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <br />
@@ -266,7 +265,7 @@ class Pro40Page extends Component {
       </font>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      강전무 저 제이름 강민제 석자 걸고 당일 지급 해드립니다&nbsp;
+      정프로 제이름 석자 걸고 당일 지급 해드립니다&nbsp;
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <br />
@@ -280,7 +279,7 @@ class Pro40Page extends Component {
       </font>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      나머지는 강전무가 처리할게요
+      나머지는 저 전프로가 처리할게요
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       중간중간 필요한 것이 있다면 바로 바로 해결해드릴게요
@@ -301,7 +300,7 @@ class Pro40Page extends Component {
       <br />
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      3.무엇보다도 강남 1등 업소&nbsp;엣지<font color="#ff0000">
+      3.무엇보다도 강남 1등 업소&nbsp;스프링<font color="#ff0000">
         <b>
           &nbsp;<font size={4}>총전무</font>
         </b>
@@ -316,7 +315,7 @@ class Pro40Page extends Component {
       첫 출근시 편한 분위기를 느끼며
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      왜 엣지가 강남1등인지 아실수 있으실 겁니다
+      왜 스프링이 강남1등인지 아실수 있으실 겁니다
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       간부들.영업진.아가씨 들 전부다 텃세없고 오시면 너무나도 적극적으로&nbsp;
@@ -340,10 +339,10 @@ class Pro40Page extends Component {
       경험은 있지만 이직이 두려우신 분
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      <span style={{ fontSize: "9pt" }}>대학생</span>
+      <span style={{ fontSize: "15pt" }}>대학생</span>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      <span style={{ fontSize: "9pt" }}>직장인</span>
+      <span style={{ fontSize: "15pt" }}>직장인</span>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <span style={{ fontSize: "9pt" }}>
@@ -351,7 +350,7 @@ class Pro40Page extends Component {
       </span>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      <span style={{ fontSize: "9pt" }}>
+      <span style={{ fontSize: "15pt" }}>
         문의만 주셔도 저는 너무나도 감사드리며 면접 오실경우&nbsp;
       </span>
     </div>
@@ -372,7 +371,7 @@ class Pro40Page extends Component {
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font size={2}>5분 대기조</font>
       <font color="#ff0000" size={4}>
-        &nbsp;<b>강.전.무</b>
+        &nbsp;<b>김사장</b>
       </font>
       <b>&nbsp;</b>입니다!
     </div>
@@ -448,7 +447,7 @@ class Pro40Page extends Component {
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={5}>
-        ♥강 전 무♥
+        ♥김사장♥
       </font>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
@@ -458,12 +457,12 @@ class Pro40Page extends Component {
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={5}>
-        010-2094-2581
+        010-5279-3901
       </font>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={5}>
-        카톡/라인 : kkang2581
+        카톡/라인 : 카톡아이디
       </font>
     </div>
   </font>

@@ -17,15 +17,15 @@ class Pro33Page extends Component {
         <MainTop_ver2 />
       <div className="allcontent">
         <div className="viewContent">
-          <div className="registerInfo">2018.02.20 10:46</div>
+          <div className="registerInfo">2018.02.26 10:13</div>
           <div className="viewTypeFullWidth">
 
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">블랙티</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>안녕하세요?블랙팁니다</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,15 @@ class Pro33Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              무제한
                             </span>
-                            <span>(마감 7일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +99,7 @@ class Pro33Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                            [TC] 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +108,7 @@ class Pro33Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +126,7 @@ class Pro33Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +135,7 @@ class Pro33Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                             18:00 ~ 13:00
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +158,7 @@ class Pro33Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              강남역 블랙티 
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +167,7 @@ class Pro33Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              수용
                             </span>
                             <span></span>
                           </td>
@@ -198,39 +197,31 @@ class Pro33Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>구구단</b>
+    <b>블랙티</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
-    <p style={{ margin: 0 }}>
-      <strong>
-        <span style={{ fontSize: "24pt" }}>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 구구단 쩜오
-          텐프로
-        </span>
-      </strong>
-    </p>
     <div style={{ fontSize: "11pt" }} align="center">
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <strong>
           <span style={{ fontSize: "24pt" }} />
         </strong>&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
         &nbsp;<b>
           <font color="#ff0000">
             손님은 많은데 언니들이 너무너무 부족해요ㅠ.ㅠ
           </font>
         </b>
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <b>
           <font color="#ff0000" />
         </b>&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <b>
           <font color="#ff0000" />
         </b>&nbsp;<b>
@@ -244,7 +235,7 @@ class Pro33Page extends Component {
           <font color="#ff0000" />
         </b>&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <b>
           <font color="#ff0000" />
         </b>&nbsp;<b>
@@ -257,12 +248,7 @@ class Pro33Page extends Component {
         &nbsp;&nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/images/anigif/g172.gif"
-        />
+        &nbsp;
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <strong>
@@ -272,7 +258,7 @@ class Pro33Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;<strong>
           <font color="#6d00ca" size={6}>
-            김실장 010-4602-3020
+            수드래곤 010-5279-3901
           </font>
         </strong>
       </div>
@@ -286,7 +272,7 @@ class Pro33Page extends Component {
           <div align="center">
             &nbsp;<span style={{ color: "#2b285f" }}>
               <strong>
-                카톡id :<font color="#ff0000"> ehdaod13</font>
+                카톡id :<font color="#ff0000"> 카톡아이디</font>
               </strong>
             </span>
           </div>
@@ -295,39 +281,29 @@ class Pro33Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/184.gif"
-        />
-        <font color="#000000" size={4}>
-          <strong>자격조건</strong>
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
+        &nbsp;
+        <br />
+        <font color="#000000" size={6}>
+          <strong>*자격조건*</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/184.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <font color="#ff0000" size={2}>
           <b />
         </font>&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <font color="#ff0000" size={2}>
           <b />
-        </font>&nbsp;<font color="#ff0000" size={2}>
+        </font>&nbsp;<font color="#ff0000" size={4}>
           <b>20세 이상 ~ 35세 이하 여성</b>
         </font>
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <font color="#ff0000" />&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <font color="#ff0000" />&nbsp;<font color="#ff0000">
           초보,알바,대딩,직장인, 모두모두 환영합니다.
         </font>
@@ -335,7 +311,7 @@ class Pro33Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <font color="#ff0000" />&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <font color="#ff0000" />&nbsp;<font color="#ff0000">
           성실하구 돈욕심만 있다면 누구든 환영합니다
         </font>
@@ -344,22 +320,10 @@ class Pro33Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/304.gif"
-        />
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
         <font color="#000000" size={4}>
           <strong>급여</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/304.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
@@ -371,169 +335,124 @@ class Pro33Page extends Component {
           <strong>면접후 협의</strong>
           <font color="#000000">&nbsp; </font>
         </font>
-        <strong>(당일지급)</strong>
+        <strong>(못믿을까봐 그냥 안적겠음)</strong>
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <p style={{ margin: 0 }}>
+      <p style={{ margin: 0, fontSize: "14pt" }}>
         스케줄에 맞춰 출퇴근 자유롭게 하면서 원하시는{" "}
       </p>&nbsp;
       <p style={{ margin: 0 }} />
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;금액에 맞게끔 일을 만들어드립니다.^^
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/382.gif"
-        />
+      <div style={{ fontSize: "15pt", textAlign: "center" }} align="center">
         <font color="#000000" size={4}>
           <strong>출퇴근</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/382.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;&nbsp;보통출근은{" "}
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;&nbsp;출근은{" "}
         <font color="#ff0000">
-          오후 7시에서 8시&nbsp;퇴근은 융통성발휘할께요^^
+          오후 7시에서 8시&nbsp;퇴근은 졸리면 가는거죠 뭐..
         </font>
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;출근은시간협의후 아무때나 본인이 편한시간에 나오시면 됩니다~
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;아무때나 본인이 편한시간에 나오고 들어가시면 됩니다~
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         <span style={{ color: "#ff0000" }} />&nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         <span style={{ color: "#ff0000" }}>
-          (절대시간땜시 스트레스받지마삼^^)
+          (절대시간때문에 스트레스받지마세요ㅎㅎ;)
         </span>
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/174.gif"
-        />
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>복장</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/174.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         언니들의 사이즈에 맞게끔 자유복장
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;자신의 매력을 한껏 발휘할 수 있는 스타일이면 ok!
       </div>
       <p style={{ margin: 0 }}>&nbsp;</p>
       <p style={{ margin: 0 }} />
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
       <p style={{ margin: 0 }}>
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/338.gif"
-        />
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>기타</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/338.gif"
-        />
       </p>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;술 전혀못마시고 춤,노래 못해도 일하실마음만 있으면 돼요
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;&nbsp;&nbsp;사회생활의 시작이 참 중요하듯 언니들도들도 시작이
         중요해용
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;처음이어도 어색하지않게 돈 많이벌수있도록 도와드릴께요~꼭이요^^ㅋ
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
-        &nbsp;<img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/319.gif"
-        />
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
+        &nbsp;
         <font color="#000000" size={4}>
           <strong>마지막으로</strong>
         </font>
-        <img
-          style={{ verticalAlign: "middle", margin: "1px 4px" }}
-          border={0}
-          alt
-          src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/319.gif"
-        />
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;손님이없어서 대기실에 앉아있는 스트레스 싹 덜어드릴께요
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;어차피 해야 할거라면 젊은시절 헛되이 시간보내지 않고,
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;
       </div>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
+      <div style={{ fontSize: "14pt", textAlign: "center" }} align="center">
         &nbsp;&nbsp;때가 되면 다털고 일어나실 수 있길 바랍니다..^^
       </div>
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
@@ -555,10 +474,10 @@ class Pro33Page extends Component {
               <div
                 style={{ fontSize: "11pt", textAlign: "center" }}
                 align="center"
-              >
+              ><br /><br />
                 <strong>
                   <font color="#6d00ca" size={6}>
-                    김실장 010-4602-3020
+                    수드래곤 010-5279-3901
                   </font>
                 </strong>
               </div>
@@ -575,7 +494,7 @@ class Pro33Page extends Component {
                   <div align="center">
                     &nbsp;<span style={{ color: "#2b285f" }}>
                       <strong>
-                        카톡id :<font color="#ff0000"> ehdaod13 </font>
+                        카톡id :<font color="#ff0000"> 카톡아이디 </font>
                       </strong>
                     </span>
                   </div>
@@ -590,17 +509,11 @@ class Pro33Page extends Component {
         </font>
         <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
       </font>
-      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />
-      <img
-        style={{ verticalAlign: "middle", margin: "1px 4px" }}
-        border={0}
-        alt
-        src="http://www.catalba.com/gnuboard4/cheditor5/icons/em/190.gif"
-      />{" "}
+      <div style={{ fontSize: "11pt", textAlign: "center" }} align="center" />{" "}
     </div>
   </font>
   <br />
-</div>;
+</div>
 
               </div>
               

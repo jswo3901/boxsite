@@ -23,9 +23,9 @@ class Pro45Page extends Component {
             <div className="companyInfo infoBox">
               <div className="recruitInfo">
                 <div className="company">
-                  <span className="companyName">퍼블릭 노원</span>
+                  <span className="companyName">역삼 디오픈</span>
                 </div>
-                <h1>[꿀단기/3개월] 갤럭시S9 사전예약관련 상담원 </h1>
+                <h1>하루최소 5개보장합니다</h1>
                 <div className="companyLogo">
                   <div className="logo">
                     <img src={pro1} alt="Smiley face"/>
@@ -55,16 +55,16 @@ class Pro45Page extends Component {
                           <th>마감일</th>
                           <td>
                             <span>
-                              2018.02.27
+                              00
                             </span>
-                            <span>(마감 7일전)</span>
+                            <span>(마감 0일전)</span>
                           </td>
                         </tr>
                         <tr>
                           <th>모집인원</th>
                           <td>
                             <span>
-                              3명
+                              00명
                             </span>
                             <span>(친구 동반지원 가능)</span>
                           </td>
@@ -100,7 +100,7 @@ class Pro45Page extends Component {
                           <th>급여</th>
                           <td>
                             <span>
-                              월급 1,900,000원
+                              TC 110,000원
                             </span>
                             <span></span>
                           </td>
@@ -109,7 +109,7 @@ class Pro45Page extends Component {
                           <th>업종</th>
                           <td>
                             <span>
-                              노래주점
+                              룸
                             </span>
                             <span></span>
                           </td>
@@ -127,7 +127,7 @@ class Pro45Page extends Component {
                           <th>근무기간</th>
                           <td>
                             <span>
-                              1~3개월
+                              무제한
                             </span>
                             <span></span>
                           </td>
@@ -136,7 +136,7 @@ class Pro45Page extends Component {
                           <th>근무시간</th>
                           <td>
                             <span>
-                              09:00~18:00
+                              18:00~12:00(출퇴근 자유)
                             </span>
                             <span></span>
                           </td>
@@ -159,7 +159,7 @@ class Pro45Page extends Component {
                           <th>닉네임</th>
                           <td>
                             <span>
-                              ☆영천스타☆
+                              디오픈
                             </span>
                             <span></span>
                           </td>
@@ -168,7 +168,7 @@ class Pro45Page extends Component {
                           <th>담당자</th>
                           <td>
                             <span>
-                              노주상
+                              진화실장
                             </span>
                             <span></span>
                           </td>
@@ -198,24 +198,19 @@ class Pro45Page extends Component {
   <br />
   <br />
   <font color="red" size={6}>
-    <b>♥♥식스 Six♥♥</b>
+    <b>디오픈</b>
   </font>
   <br />
   <br />
   <br />
   <font color="#525252">
     <h1 align="center">
-      <br />◈◈◈ SIX ◈◈◈<br />
+      <br />◈◈◈ Dopen ◈◈◈<br />
       <br />
     </h1>
     <h3 align="center">
       <font size={3} style={{ backgroundColor: "#fffff0" }}>
-        안녕하세요 Six 김이사에요.<img
-          style={{ verticalAlign: "middle" }}
-          alt
-          src="http://www.foxalba.com/Artyboard/Editor//icons/em/2.gif"
-          border={0}
-        />
+        안녕하세요 됴픈 진화에요.
       </font>
     </h3>
     <font size={3} />
@@ -232,12 +227,7 @@ class Pro45Page extends Component {
       <br />
       <font size={3}>
         손님은 엄청 많은데 언니들이 모자라요..{" "}
-        <img
-          style={{ verticalAlign: "middle" }}
-          alt
-          src="http://www.foxalba.com/Artyboard/Editor//icons/em/11.gif"
-          border={0}
-        />
+        
       </font>
     </h3>
     <font size={3} />
@@ -267,7 +257,7 @@ class Pro45Page extends Component {
     <font size={3} />
     <h3 align="center">
       <br />
-      <font size={3}>강남구 삼성동 포스코 4거리쪽이에요~</font>
+      <font size={3}>강남역 도보 2분거리</font>
     </h3>
     <font size={3} />
     <h3 align="center">
@@ -278,6 +268,7 @@ class Pro45Page extends Component {
         <br />
         <font style={{ backgroundColor: "#00ff7f" }}>
           자유롭게 출퇴근 하세요.{" "}
+          시설은 강남 최고라 자부합니다. 구글에 치시면 나와요^^
         </font>
       </font>
     </h3>
@@ -399,24 +390,24 @@ class Pro45Page extends Component {
     </h3>
     <font size={3} />
     <h3 align="center">
-      <font size={3}>평일TC 1시간 5분 </font>
+      <font size={3}>평일TC 1시간 15분 </font>
       <font size={3}>
         <font color="#ff0000">
-          9만5천원<br />
+          10만원<br />
         </font>
         <br />
       </font>
       <font color="#ff0000" style={{ backgroundColor: "#fffff0" }}>
         <br />
         <font size={3}>
-          <font color="#000000">토요일,일요일TC 1시간 5분</font>&nbsp;10만원<br />
+          <font color="#000000">토요일,일요일TC 1시간 15분</font>&nbsp;11만원<br />
           <br />
         </font>
       </font>
     </h3>
     <h3 align="center">
       <font size={3}>
-        기본적으로 누구나 <font color="#ff0000">4개이상!</font>
+        기본적으로 누구나 <font color="#ff0000">5개이상!</font>
       </font>
     </h3>
     <font size={3} />
@@ -521,7 +512,7 @@ class Pro45Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={4}>
-        <strong>벅시,더킹,나인,제니스,XO 경험자들 환영합니다</strong>
+        <strong>동종업종 경험자들 갯수때문에 고민이신 분들 환영합니다</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -533,7 +524,7 @@ class Pro45Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font size={4}>
-        <strong>물론 초보자도 환영합니다^^</strong>
+        <strong>초보자도 환영합니다^^</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -549,28 +540,22 @@ class Pro45Page extends Component {
       </font>
     </p>
     <h3 align="center">
-      <img
-        style={{ verticalAlign: "middle" }}
-        alt
-        src="http://www.foxalba.com/Artyboard/Editor//icons/em/29.gif"
-        border={0}
-      />김이사<br />
+      진화실장<br />
     </h3>
     <h3 align="center">
       <font style={{ backgroundColor: "#ffff00" }}>
-        카톡ID : k9672406<br />
+        카톡ID : 카톡아이디<br />
       </font>&nbsp;&nbsp;&nbsp;&nbsp;{" "}
     </h3>
     <h3 align="center">
       <font color="#ff0000" style={{ fontSize: "18pt" }}>
-        010-3122-8398
+        010-5279-3901
       </font>
     </h3>
     <h1 align="center">&nbsp;</h1>
   </font>
   <br />
 </div>
-
               </div>
               
 
