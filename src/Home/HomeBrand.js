@@ -8,9 +8,8 @@ import {
 import './index.css'
 
 import fox_logo from './fox_logo.jpg'
-import fox_logo2 from './fox_logo2.jpg'
 
-import boxInfo from './boxInfo.jpg'
+
 
 import Global from './Global'
 import MainTop from './MainTop'
@@ -40,10 +39,10 @@ const HomeBrand = () => {
         </div>
         
         <div className="left_banner">
-          <img src={Side_3} alt="Smiley face" />
+          <Link to="/pro33"><img src={Side_3} alt="Smiley face" /></Link>
         </div>
         <div clasName="left_banner">
-           <img src={Side_4} alt="Smiley face" />
+          <Link to="/pro15"><img src={Side_4} alt="Smiley face" /></Link>
          </div>
         
 

@@ -7,7 +7,6 @@ import {
 import './index.css'
 
 
-import boxInfo from './boxInfo.jpg'
 import logo1 from './BoxLogo/1.jpg'
 import logo2 from './BoxLogo/2.jpg'
 import logo3 from './BoxLogo/3.png'

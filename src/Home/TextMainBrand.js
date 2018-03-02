@@ -5,7 +5,6 @@ import {
   Link
 } from 'react-router-dom'
 import './index.css'
-import textInfo from './textInfo.jpg'
 import fastIcon from './fast.gif'
 import newIcon from './new.gif'
 

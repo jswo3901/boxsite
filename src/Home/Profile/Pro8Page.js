@@ -638,8 +638,7 @@ class Pro8Page extends Component {
       </font>
     </font>
   </p>
-  {/* search경기 부천시 노래주점 search */}
-</div>;
+</div>
 
               </div>
               

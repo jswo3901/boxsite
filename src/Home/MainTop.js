@@ -17,10 +17,10 @@ class MainTop extends Component {
             <div id="MainTop">
               <div className="mainTop1">
                 <div id="TopBanner">
-                  <img src={main_top} />
+                  <Link to="/pro36"><img src={main_top} /></Link>
                 </div>
                 <div id="TopPr">
-                  <img src={TopPr} />
+                  <Link to="/pro31"><img src={TopPr} /></Link>
                 </div>
               </div>
               <div className="mainTop2">
@@ -30,7 +30,7 @@ class MainTop extends Component {
                             오늘의 추천 알바
                         </p>
                         <p className="menu">
-                          <img src={Middle_Bottom_1} />
+                          <Link to="/pro32"><img src={Middle_Bottom_1} /></Link>
                         </p>
                     </li>
                     <li className="list02">
@@ -38,7 +38,7 @@ class MainTop extends Component {
                             당일 알바
                         </p>
                         <p className="menu">
-                          <img src={Middle_Bottom_2} />
+                          <Link to="/pro19"><img src={Middle_Bottom_2} /></Link>
                         </p>
                     </li>
                     <li className="list03">
@@ -46,13 +46,13 @@ class MainTop extends Component {
                             인기 알바
                         </p>
                         <p className="menu">
-                          <img src={Middle_Bottom_3} />
+                          <Link to="/pro26"><img src={Middle_Bottom_3} /></Link>
                         </p>
                     </li>
                     
                 </ul>
                 <div id="PrimaryMenu2">
-                  <img src={MiddlePr} />
+                  <Link to="/pro45"><img src={MiddlePr} /></Link>
                 </div>
 
                 <div id="PrimaryLoginMenu3">

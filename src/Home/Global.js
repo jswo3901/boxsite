@@ -7,7 +7,6 @@ import {
 } from 'react-router-dom'
 
 import fox_logo from './fox_logo.jpg'
-import fox_logo2 from './fox_logo2.jpg'
 
 class Global extends Component {
   render() {

@@ -56,7 +56,6 @@ import Pro45Page from './Home/Profile/Pro45Page'
 
 
 import fox_logo from './Home/fox_logo.jpg'
-import fox_logo2 from './Home/fox_logo2.jpg'
 class App extends Component {
   render() {
     return (

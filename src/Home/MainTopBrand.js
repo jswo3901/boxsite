@@ -17,10 +17,10 @@ class MainTopBrand extends Component {
             <div id="MainTop">
               <div className="mainTop1">
                 <div id="TopBanner">
-                  <img src={main_top} />
+                  <Link to="/pro36"><img src={main_top} /></Link>
                 </div>
                 <div id="TopPr">
-                  <img src={TopPr} />
+                 <Link to="/pro31"><img src={TopPr} /></Link>
                 </div>
               </div>
             </div>
