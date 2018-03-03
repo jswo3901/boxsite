@@ -591,7 +591,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro24">
             <div className="img_1">
-              <img src={logo25} alt="Smiley face" />
+              <img src={logo24} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -614,7 +614,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro25">
             <div className="img_1">
-              <img src={logo26} alt="Smiley face" />
+              <img src={logo25} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -636,7 +636,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro26">
             <div className="img_1">
-              <img src={logo27} alt="Smiley face"/>
+              <img src={logo26} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -659,7 +659,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro27">
             <div className="img_1">
-              <img src={logo28} alt="Smiley face" />
+              <img src={logo27} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -682,7 +682,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro28">
             <div className="img_1">
-              <img src={logo29} alt="Smiley face" />
+              <img src={logo28} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -705,7 +705,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro29">
             <div className="img_1">
-              <img src={logo30} alt="Smiley face" />
+              <img src={logo29} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -728,7 +728,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro30">
             <div className="img_1">
-              <img src={logo31} alt="Smiley face" />
+              <img src={logo30} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -751,7 +751,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro31">
             <div className="img_1">
-              <img src={logo32} alt="Smiley face"/>
+              <img src={logo31} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -774,7 +774,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro32">
             <div className="img_1">
-              <img src={logo33} alt="Smiley face" />
+              <img src={logo32} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -797,7 +797,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro33">
             <div className="img_1">
-              <img src={logo34} alt="Smiley face" />
+              <img src={logo33} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -820,7 +820,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro34">
             <div className="img_1">
-              <img src={logo35} alt="Smiley face" />
+              <img src={logo34} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -843,7 +843,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro35">
             <div className="img_1">
-              <img src={logo36} alt="Smiley face" />
+              <img src={logo35} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -866,7 +866,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro36">
             <div className="img_1">
-              <img src={logo37} alt="Smiley face"/>
+              <img src={logo36} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -889,7 +889,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro37">
             <div className="img_1">
-              <img src={logo38} alt="Smiley face" />
+              <img src={logo37} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -912,7 +912,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro38">
             <div className="img_1">
-              <img src={logo39} alt="Smiley face" />
+              <img src={logo38} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -935,7 +935,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro39">
             <div className="img_1">
-              <img src={logo40} alt="Smiley face" />
+              <img src={logo39} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -958,7 +958,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro40">
             <div className="img_1">
-              <img src={logo41} alt="Smiley face" />
+              <img src={logo40} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -980,7 +980,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro41">
             <div className="img_1">
-              <img src={logo42} alt="Smiley face"/>
+              <img src={logo41} alt="Smiley face"/>
             </div>
           </Link>
           <div className="boxfont_1">
@@ -1003,7 +1003,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro42">
             <div className="img_1">
-              <img src={logo43} alt="Smiley face" />
+              <img src={logo42} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -1026,7 +1026,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro43">
             <div className="img_1">
-              <img src={logo44} alt="Smiley face" />
+              <img src={logo43} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
@@ -1049,7 +1049,7 @@ class BoxMainBrand extends Component {
         <div className="box_1">
           <Link to="/pro44">
             <div className="img_1">
-              <img src={logo45} alt="Smiley face" />
+              <img src={logo44} alt="Smiley face" />
             </div>
           </Link>
           <div className="boxfont_1">
