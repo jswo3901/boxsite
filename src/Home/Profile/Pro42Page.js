@@ -363,7 +363,7 @@ class Pro42Page extends Component {
             </div>
           </div>
           <div className="lastAd">
-            <img src={last_ad} alt="smiley" />
+            {/* <img src={last_ad} alt="smiley" /> */}
           </div>
         </div>
       </div>
