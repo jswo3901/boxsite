@@ -178,7 +178,7 @@ class Pro2Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                              010-9468-0175
                             </span>
                             <span></span>
                           </td>
@@ -358,7 +358,7 @@ class Pro2Page extends Component {
   </p>
   <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
     <font color="#ff0000" size={6}>
-           윤실장 010.5279.3901{" "}
+           윤실장 010-9468-0175{" "}
     </font>
   </p>
   <p style={{ textAlign: "left" }}>

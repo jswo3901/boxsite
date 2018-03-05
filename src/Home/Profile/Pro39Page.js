@@ -176,7 +176,7 @@ class Pro39Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -1064,7 +1064,7 @@ class Pro39Page extends Component {
           <strong>
             <font color="#000000">
               <font size={6}>☎</font>
-              <font size={6}> 010-5279-3901</font>
+              <font size={6}> 010-5656-7796</font>
             </font>
           </strong>
         </font>
@@ -1077,7 +1077,7 @@ class Pro39Page extends Component {
       <div style={{ textAlign: "center" }} className="바탕글">
         <strong>
           <font color="#000000" size={5} face="Comic Sans MS">
-            카톡ID : 카톡아이디
+            
           </font>
         </strong>
       </div>

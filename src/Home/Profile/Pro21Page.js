@@ -176,7 +176,7 @@ class Pro21Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -313,13 +313,10 @@ class Pro21Page extends Component {
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           민아언니{" "}
-            010-5279-3901
+          010-7523-7669
         </font>
       </b>
       <br />
-      <b style={{ fontSize: "9pt" }}>
-        <font size={3}>카카오톡 카톡아이디</font>
-      </b>
     </blockquote>
     <blockquote
       style={{
@@ -336,16 +333,13 @@ class Pro21Page extends Component {
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           정진팀장{" "}
-            010-5279-3901
+          010-6833-3612
         </font>
       </b>
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           <br />
         </font>
-      </b>
-      <b>
-        <font size={3}>카카오톡 카톡아이디</font>
       </b>
     </blockquote>
     <blockquote
@@ -421,12 +415,12 @@ class Pro21Page extends Component {
         <font size={5}>
           <b>
             정진팀장{" "}
-              010-5279-3901
+            010-7523-7669
           </b>
           <b>
             <br />
           </b>
-          <b>카카오톡 카톡아이디</b>
+          
         </font>
       </div>
     </blockquote>

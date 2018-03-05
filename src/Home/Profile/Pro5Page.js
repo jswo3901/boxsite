@@ -176,7 +176,7 @@ class Pro5Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-6833-3612
                             </span>
                             <span></span>
                           </td>
@@ -374,7 +374,7 @@ class Pro5Page extends Component {
                             backgroundColor: "rgb(0,176,240)"
                           }}
                         >
-                          010-5279-3901
+                          010-6833-3612
                         </font>
                       </strong>
                     </font>
@@ -412,7 +412,7 @@ class Pro5Page extends Component {
                   size={4}
                   style={{ fontSize: "15pt", backgroundColor: "rgb(255,0,0)" }}
                 >
-                  010-5279-3901
+                  010-6833-3612
                 </font>
               </strong>
             </font>
@@ -443,7 +443,7 @@ class Pro5Page extends Component {
               size={4}
               style={{ fontSize: "15pt", backgroundColor: "rgb(0,0,0)" }}
             >
-              010-5279-3901
+              010-6833-3612
             </font>
           </font>
         </font>
@@ -472,7 +472,7 @@ class Pro5Page extends Component {
           </font>
           <font color="#ff0000" size={5}>
             <u>
-              카톡아이디
+            trra10
             </u>
           </font>
         </font>
@@ -2840,7 +2840,7 @@ class Pro5Page extends Component {
           <font size={5}>
             <strong>
               <font style={{ backgroundColor: "rgb(192,0,0)" }}>
-                010-5279-3901
+              010-6833-3612
               </font>
             </strong>
           </font>
@@ -2870,7 +2870,7 @@ class Pro5Page extends Component {
                 color="#ff0000"
                 style={{ backgroundColor: "rgb(0,176,80)" }}
               >
-                010-5279-3901
+                010-6833-3612
               </font>
             </font>
           </font>
@@ -2900,7 +2900,7 @@ class Pro5Page extends Component {
                 color="#00b0f0"
                 style={{ backgroundColor: "rgb(112,48,160)" }}
               >
-                010-5279-3901
+                010-6833-3612
               </font>
             </font>
           </font>
@@ -2948,7 +2948,7 @@ class Pro5Page extends Component {
         </font>
         <font color="#c9279f">
           <span style={{ background: "rgb(255,255,255)" }}>
-            <font size={5}>카톡아이디</font>
+            
           </span>
         </font>
       </strong>
@@ -2959,7 +2959,6 @@ class Pro5Page extends Component {
               <strong>:</strong>
               <strong>
                 <font size={4}> </font>
-                <font size={5}>카톡아이디</font>
               </strong>
             </span>
           </font>

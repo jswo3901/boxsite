@@ -176,7 +176,7 @@ class Pro25Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -1046,9 +1046,6 @@ class Pro25Page extends Component {
     }}
   >
     <strong>
-      <font color="#ff0000" size={7}>
-        카톡 : 카톡아이디
-      </font>
     </strong>
   </p>
   <p
@@ -1076,7 +1073,7 @@ class Pro25Page extends Component {
   >
     <strong>
       <font color="#ff0000" size={7}>
-        010 - 5279 - 3901
+      010-7523-7669
       </font>
     </strong>
   </p>

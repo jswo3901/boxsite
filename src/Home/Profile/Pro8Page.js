@@ -176,7 +176,7 @@ class Pro8Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -204,14 +204,14 @@ class Pro8Page extends Component {
         <font color="#0070c0">GM</font>{" "}
       </strong>
       &nbsp;<font color="#c00000">
-        <strong>010 5279 3901 </strong>
+        <strong>010-7523-7669 </strong>
       </font>{" "}
     </p>
     <p align="center" style={{ margin: 0, lineHeight: 2 }}>
       <font color="#c00000">
         <strong>
           <font color="#00b0f0" size={6}>
-            카카오톡 : 카톡아이디  
+              
           </font>
         </strong>
       </font>
@@ -424,7 +424,7 @@ class Pro8Page extends Component {
         </strong>
         <font color="#000000">&nbsp;</font>
         <strong>
-          <font color="#c00000">010 5279 3901 </font>
+          <font color="#c00000">010-7523-7669</font>
         </strong>
         <font color="#c00000">
         </font>
@@ -432,9 +432,7 @@ class Pro8Page extends Component {
       <p align="center" style={{ margin: 0, lineHeight: 2 }}>
         <font color="#c00000">
           <strong>
-            <font color="#00b0f0" size={6}>
-              카카오톡 : 카톡아이디
-            </font>
+            
           </strong>
         </font>
       </p>
@@ -617,7 +615,7 @@ class Pro8Page extends Component {
           </strong>
           <font color="#000000">&nbsp;</font>
           <strong>
-            <font color="#c00000">010 5279 3901 </font>
+            <font color="#c00000">010-7523-7669</font>
           </strong>
           <font color="#c00000">
           </font>
@@ -630,9 +628,7 @@ class Pro8Page extends Component {
       <font color="#ff0000">
         <font color="#c00000">
           <strong>
-            <font color="#00b0f0" size={6}>
-              카카오톡 : 카톡아이디
-            </font>
+
           </strong>
         </font>
       </font>

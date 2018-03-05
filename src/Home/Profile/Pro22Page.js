@@ -176,7 +176,7 @@ class Pro22Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-2112-3839
                             </span>
                             <span></span>
                           </td>
@@ -432,15 +432,12 @@ class Pro22Page extends Component {
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              :&nbsp;<strong>010 5279 3901</strong>{" "}
+              :&nbsp;<strong>010-2112-3839</strong>{" "}
             </span>
           </font>
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
-        <font color="#0000ff" style={{ fontSize: "16pt" }}>
-          &nbsp;카톡 ID : 카톡아이디
-        </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font color="#0000ff" />&nbsp;
@@ -726,15 +723,12 @@ class Pro22Page extends Component {
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              :&nbsp;<strong>010 5279 3901</strong>{" "}
+              :&nbsp;<strong>010-2112-3839</strong>{" "}
             </span>
           </font>
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
-        <font color="#0000ff" style={{ fontSize: "16pt" }}>
-          카톡 ID : 카톡아이디
-        </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font color="#0000ff">
@@ -1194,14 +1188,14 @@ class Pro22Page extends Component {
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              <font color="#ff0000"> </font>:&nbsp;010 5279 3901{" "}
+              <font color="#ff0000"> </font>:&nbsp;010-2112-3839{" "}
             </span>
           </font>
         </font>
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>
         <font color="#0000ff" style={{ fontSize: "16pt" }}>
-          <span style={{ color: "rgb(120, 32, 185)" }} />카톡 ID : 카톡아이디
+          
         </font>&nbsp;
       </p>
       <p align="center" style={{ margin: 0, textAlign: "center" }}>

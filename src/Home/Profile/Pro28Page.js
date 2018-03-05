@@ -176,7 +176,7 @@ class Pro28Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -482,7 +482,7 @@ class Pro28Page extends Component {
             color: "#000000"
           }}
         >
-          010 5279 3901 (야간)
+          010-5656-7796 
         </span>
       </span>
       <br />
@@ -493,7 +493,7 @@ class Pro28Page extends Component {
           color: "#000000"
         }}
       >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010 5279 3901 (주간)
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010-5656-7796
       </span>
     </strong>
   </p>

@@ -176,7 +176,7 @@ class Pro41Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-6833-3612
                             </span>
                             <span></span>
                           </td>
@@ -418,7 +418,7 @@ class Pro41Page extends Component {
       >
         <b>
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+            ☏ 010-6833-3612 ☏
           </font>
         </b>
       </p>
@@ -590,7 +590,7 @@ class Pro41Page extends Component {
       </p>
       <p align="center" style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}>
         <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-          ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+          ☏ 010-6833-3612 ☏
         </font>
       </p>
       <p
@@ -778,7 +778,7 @@ class Pro41Page extends Component {
       </p>
       <p align="center" style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}>
         <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-          ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+          ☏ 010-6833-3612 ☏
         </font>
       </p>
       <p
@@ -952,7 +952,7 @@ class Pro41Page extends Component {
       </p>
       <p align="center" style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}>
         <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-          ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+          ☏ 010-6833-3612 ☏
         </font>
       </p>
       <p
@@ -1130,7 +1130,7 @@ class Pro41Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+            ☏ 010-6833-3612 ☏
           </font>
         </p>
       </font>
@@ -1429,7 +1429,7 @@ class Pro41Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+            ☏ 010-6833-3612 ☏
           </font>
         </p>
       </font>
@@ -1757,7 +1757,7 @@ class Pro41Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+            ☏ 010-6833-3612 ☏
           </font>
         </p>
       </font>
@@ -1949,7 +1949,7 @@ class Pro41Page extends Component {
           style={{ margin: 0, lineHeight: "1.5", fontSize: 12 }}
         >
           <font color="#ff0000" size={4} style={{ backgroundColor: "#ffff00" }}>
-            ☏ 010-5279-3901 ☏ 카톡 : 카톡아이디
+            ☏ 010-6833-3612 ☏
           </font>
         </p>
       </font>

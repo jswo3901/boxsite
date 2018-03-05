@@ -176,7 +176,7 @@ class Pro18Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-2112-3839
                             </span>
                             <span></span>
                           </td>
@@ -457,12 +457,7 @@ class Pro18Page extends Component {
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={5}>
-        010-5279-3901
-      </font>
-    </div>
-    <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
-      <font color="#ff0000" size={5}>
-        카톡/라인 : 카톡아이디
+      010-2112-3839
       </font>
     </div>
   </font>

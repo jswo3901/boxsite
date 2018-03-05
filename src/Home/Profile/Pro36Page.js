@@ -176,7 +176,7 @@ class Pro36Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-6833-3612
                             </span>
                             <span></span>
                           </td>
@@ -258,7 +258,7 @@ class Pro36Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;<strong>
           <font color="#6d00ca" size={6}>
-            이시원 010-5279-3901
+            이시원 010-6833-3612
           </font>
         </strong>
       </div>
@@ -272,7 +272,7 @@ class Pro36Page extends Component {
           <div align="center">
             &nbsp;<span style={{ color: "#2b285f" }}>
               <strong>
-                카톡id :<font color="#ff0000"> 카톡아이디</font>
+                
               </strong>
             </span>
           </div>
@@ -477,7 +477,7 @@ class Pro36Page extends Component {
               ><br /><br />
                 <strong>
                   <font color="#6d00ca" size={6}>
-                    이시원 010-5279-3901
+                    이시원 010-6833-3612
                   </font>
                 </strong>
               </div>
@@ -494,7 +494,7 @@ class Pro36Page extends Component {
                   <div align="center">
                     &nbsp;<span style={{ color: "#2b285f" }}>
                       <strong>
-                        카톡id :<font color="#ff0000"> 카톡아이디 </font>
+                        
                       </strong>
                     </span>
                   </div>

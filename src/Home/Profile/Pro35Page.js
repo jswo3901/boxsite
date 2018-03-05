@@ -176,7 +176,7 @@ class Pro35Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -216,7 +216,7 @@ class Pro35Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        연락처 010.5279.3901
+        연락처 010-7523-7669
       </font>
     </strong>
   </div>
@@ -229,7 +229,7 @@ class Pro35Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        카카오톡 카톡아이디
+        
       </font>
     </strong>
   </p>
@@ -1095,7 +1095,7 @@ class Pro35Page extends Component {
         size={5}
         style={{ backgroundColor: "rgb(255, 255, 0)" }}
       >
-        연락처 010.5279.3901<br />카카오톡 카톡아이디
+        연락처 010-7523-7669<br />
       </font>
     </strong>
   </div>

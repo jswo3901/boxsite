@@ -176,7 +176,7 @@ class Pro15Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -570,7 +570,7 @@ class Pro15Page extends Component {
       </p>
       <p align="center" style={{ margin: 0 }}>
         <font size={5}>
-          <strong>010.5279.3901</strong>
+          <strong>010-5656-7796</strong>
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>

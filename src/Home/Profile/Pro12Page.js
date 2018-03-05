@@ -176,7 +176,7 @@ class Pro12Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-6833-3612
                             </span>
                             <span></span>
                           </td>
@@ -221,7 +221,7 @@ class Pro12Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7030a0" face="굴림" size={6}>
-        <strong>010- 5279- 3901</strong>
+        <strong>010-6833-3612</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -555,14 +555,14 @@ class Pro12Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#7030a0" face="굴림" size={6}>
-        <strong>010-5279-3901</strong>
+        <strong>010-6833-3612</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font face="굴림">
         <strong>
           <font color="#7030a0" size={6}>
-            카톡아이디
+            
           </font>
         </strong>&nbsp;
       </font>

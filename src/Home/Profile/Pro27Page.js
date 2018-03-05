@@ -176,7 +176,7 @@ class Pro27Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-2112-3839
                             </span>
                             <span></span>
                           </td>
@@ -374,7 +374,7 @@ class Pro27Page extends Component {
                             backgroundColor: "rgb(0,176,240)"
                           }}
                         >
-                          010-5279-3901
+                          010-2112-3839
                         </font>
                       </strong>
                     </font>
@@ -412,7 +412,7 @@ class Pro27Page extends Component {
                   size={4}
                   style={{ fontSize: "15pt", backgroundColor: "rgb(255,0,0)" }}
                 >
-                  010-5279-3901
+                  010-2112-3839
                 </font>
               </strong>
             </font>
@@ -443,7 +443,7 @@ class Pro27Page extends Component {
               size={4}
               style={{ fontSize: "15pt", backgroundColor: "rgb(0,0,0)" }}
             >
-              010-5279-3901
+              010-2112-3839
             </font>
           </font>
         </font>
@@ -472,7 +472,7 @@ class Pro27Page extends Component {
           </font>
           <font color="#ff0000" size={5}>
             <u>
-              카톡아이디
+            jastenatiau
             </u>
           </font>
         </font>
@@ -2840,7 +2840,7 @@ class Pro27Page extends Component {
           <font size={5}>
             <strong>
               <font style={{ backgroundColor: "rgb(192,0,0)" }}>
-                010-5279-3901
+              010-2112-3839
               </font>
             </strong>
           </font>
@@ -2870,7 +2870,7 @@ class Pro27Page extends Component {
                 color="#ff0000"
                 style={{ backgroundColor: "rgb(0,176,80)" }}
               >
-                010-5279-3901
+                010-2112-3839
               </font>
             </font>
           </font>
@@ -2900,7 +2900,7 @@ class Pro27Page extends Component {
                 color="#00b0f0"
                 style={{ backgroundColor: "rgb(112,48,160)" }}
               >
-                010-5279-3901
+                010-2112-3839
               </font>
             </font>
           </font>
@@ -2959,7 +2959,7 @@ class Pro27Page extends Component {
               <strong>:</strong>
               <strong>
                 <font size={4}> </font>
-                <font size={5}>카톡아이디</font>
+                <font size={5}>jastenatiau</font>
               </strong>
             </span>
           </font>

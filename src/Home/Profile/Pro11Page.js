@@ -176,7 +176,7 @@ class Pro11Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -265,7 +265,7 @@ class Pro11Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;<strong>
           <font color="#6d00ca" size={6}>
-            차민수 010-5279-3901
+            차민수 010-7523-7669
           </font>
         </strong>
       </div>
@@ -278,9 +278,6 @@ class Pro11Page extends Component {
           </div>
           <div align="center">
             &nbsp;<span style={{ color: "#2b285f" }}>
-              <strong>
-                카톡id :<font color="#ff0000"> 카톡아이디</font>
-              </strong>
             </span>
           </div>
         </font>
@@ -483,7 +480,7 @@ class Pro11Page extends Component {
               >
                 <strong>
                   <font color="#6d00ca" size={6}>
-                    차민수 010-5279-3901
+                    차민수 010-7523-7669
                   </font>
                 </strong>
               </div>
@@ -499,9 +496,6 @@ class Pro11Page extends Component {
                   </div>
                   <div align="center">
                     &nbsp;<span style={{ color: "#2b285f" }}>
-                      <strong>
-                        카톡id :<font color="#ff0000"> 카톡아이디 </font>
-                      </strong>
                     </span>
                   </div>
                 </font>

@@ -176,7 +176,7 @@ class Pro4Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -2088,7 +2088,7 @@ class Pro4Page extends Component {
     <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
       <span style={{ boxSizing: "border-box", fontSize: "12pt" }}>
         *** 문의 및 면접 접수번호 ***
-        <h3> 010 - 5279 - 3901</h3>
+        <h3> 010-7523-7669</h3>
       </span>
     </strong>
   </p>

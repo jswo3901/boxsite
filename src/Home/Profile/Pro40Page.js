@@ -176,7 +176,7 @@ class Pro40Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -457,12 +457,12 @@ class Pro40Page extends Component {
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={5}>
-        010-5279-3901
+      010-7523-7669
       </font>
     </div>
     <div style={{ textAlign: "center", backgroundColor: "#f6f6f6" }}>
       <font color="#ff0000" size={5}>
-        카톡/라인 : 카톡아이디
+        카톡/라인 : trra10
       </font>
     </div>
   </font>

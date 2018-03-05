@@ -176,7 +176,7 @@ class Pro20Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -220,7 +220,7 @@ class Pro20Page extends Component {
     </p>
     <p align="center" style={{ margin: 0, "fontSize":"15px", "lineHeight":"200%" }}>
       <font size={6}>
-        <font color="#ff0000">010-5279-3901</font>
+        <font color="#ff0000">010-5656-7796</font>
         <br />
         <br />
         <br />
@@ -236,10 +236,9 @@ class Pro20Page extends Component {
       <br />
       서민호 상무
       <br />
-      전화 010-5279-3901{" "}
+      전화 010-5656-7796{" "}
       {" "}
       <br />
-      카톡 카톡아이디
       <br />
       <br __jindo__id="e113604278184328851289" />
       <br />
@@ -250,10 +249,10 @@ class Pro20Page extends Component {
       <br />
       -서민호 상무-
       <br />
-      전화 010-5279-3901{" "}
+      전화 010-5656-7796{" "}
       {" "}
       <br />
-      카톡 카톡아이디
+      
     </p>
     <p align="center" style={{ margin: 0 }}>
       <br />
@@ -350,7 +349,7 @@ class Pro20Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" size={6}>
-        010-5279-3901
+      010-5656-7796
       </font>
     </p>
   </font>

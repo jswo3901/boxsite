@@ -176,7 +176,7 @@ class Pro24Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -356,7 +356,7 @@ class Pro24Page extends Component {
   </p>
   <p style={{ textAlign: "left", lineHeight: 2 }} align="left">
     <font color="#ff0000" size={6}>
-           석실장 010.5279.3901{" "}
+           석실장 010-5656-7796{" "}
     </font>
   </p>
   <p style={{ textAlign: "left" }}>

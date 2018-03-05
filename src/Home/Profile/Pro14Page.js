@@ -176,7 +176,7 @@ class Pro14Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-9468-0175
                             </span>
                             <span></span>
                           </td>
@@ -478,7 +478,7 @@ class Pro14Page extends Component {
     <div style={{ textAlign: "center" }}>
       <font size={4}>
         <font color="#17365d" size={4}>
-          카톡아이디
+        jastenatiau
         </font>
       </font>
     </div>
@@ -488,7 +488,7 @@ class Pro14Page extends Component {
       </font>
     </div>
     <div style={{ textAlign: "center" }}>
-      <font size={4}>010-5279-3901</font>
+      <font size={4}>010-9468-0175</font>
     </div>
     <div style={{ textAlign: "center" }}>
       <font size={4}>이번호로 연락주세요</font>

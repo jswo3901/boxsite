@@ -177,7 +177,7 @@ class Pro23Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-9468-0175
                             </span>
                             <span></span>
                           </td>
@@ -543,12 +543,12 @@ class Pro23Page extends Component {
     </h3>
     <h3 align="center">
       <font style={{ backgroundColor: "#ffff00" }}>
-        카톡ID : 카톡아이디<br />
+        
       </font>&nbsp;&nbsp;&nbsp;&nbsp;{" "}
     </h3>
     <h3 align="center">
       <font color="#ff0000" style={{ fontSize: "18pt" }}>
-        010-5279-3901
+      010-9468-0175
       </font>
     </h3>
     <h1 align="center">&nbsp;</h1>

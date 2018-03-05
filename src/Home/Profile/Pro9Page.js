@@ -176,7 +176,7 @@ class Pro9Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-2112-3839
                             </span>
                             <span></span>
                           </td>
@@ -529,11 +529,11 @@ class Pro9Page extends Component {
           {" "}
         </font>
         <font color="#000000" style={{}} size={5}>
-          010-5279-3901
+        010-2112-3839
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
-        <font size={5}>&nbsp;카톡 : 카톡아이디</font>
+        <font size={5}>&nbsp;카톡 : jastenatiau</font>
       </p>
     </font>
     <p align="center" style={{ margin: 0 }}>

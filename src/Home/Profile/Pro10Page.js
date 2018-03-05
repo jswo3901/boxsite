@@ -176,7 +176,7 @@ class Pro10Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-9468-0175
                             </span>
                             <span></span>
                           </td>
@@ -241,7 +241,7 @@ class Pro10Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#000000" size={3}>
-        <strong>☎ 010-5279-3901 ☎</strong>
+        <strong>☎ 010-9468-0175 ☎</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -251,7 +251,7 @@ class Pro10Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-        <strong>카톡ID 카톡아이디</strong>
+        <strong>카톡ID jastenatiau</strong>
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -465,7 +465,7 @@ class Pro10Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3}>
-            <strong>☎ 010-5279-3901 ☎</strong>
+            <strong>☎ 010-9468-0175 ☎</strong>
           </font>
         </p>
         <p align="center" style={{ margin: 0 }}>
@@ -475,7 +475,7 @@ class Pro10Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-            <strong>카톡ID 카톡아이디</strong>
+            <strong>카톡ID jastenatiau</strong>
           </font>
         </p>
       </font>
@@ -780,7 +780,7 @@ class Pro10Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3}>
-            <strong>☎ 010-5279-3901 ☎</strong>
+            <strong>☎ 010-9468-0175 ☎</strong>
           </font>
         </p>
         <p align="center" style={{ margin: 0 }}>
@@ -790,7 +790,7 @@ class Pro10Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-            <strong>카톡ID 카톡아이디</strong>
+            <strong>카톡ID jastenatiau</strong>
           </font>
         </p>
       </font>

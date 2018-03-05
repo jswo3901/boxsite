@@ -176,7 +176,7 @@ class Pro42Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-2112-3839
                             </span>
                             <span></span>
                           </td>
@@ -220,7 +220,7 @@ class Pro42Page extends Component {
     </p>
     <p align="center" style={{ margin: 0, "fontSize":"15px", "lineHeight":"200%" }}>
       <font size={6}>
-        <font color="#ff0000">010-5279-3901</font>
+        <font color="#ff0000">010-2112-3839</font>
         <br />
         <br />
         <br />
@@ -236,10 +236,10 @@ class Pro42Page extends Component {
       <br />
       준하실장
       <br />
-      전화 010-5279-3901{" "}
+      전화 010-2112-3839{" "}
       {" "}
       <br />
-      카톡 카톡아이디
+      카톡 jastenatiau
       <br />
       <br __jindo__id="e113604278184328851289" />
       <br />
@@ -250,10 +250,10 @@ class Pro42Page extends Component {
       <br />
       -준하실장-
       <br />
-      전화 010-5279-3901{" "}
+      전화 010-2112-3839{" "}
       {" "}
       <br />
-      카톡 카톡아이디
+      카톡 jastenatiau
     </p>
     <p align="center" style={{ margin: 0 }}>
       <br />
@@ -350,7 +350,7 @@ class Pro42Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#ff0000" size={6}>
-        010-5279-3901
+      010-2112-3839
       </font>
     </p>
   </font>

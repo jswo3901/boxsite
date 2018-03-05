@@ -176,7 +176,7 @@ class Pro43Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-9468-0175
                             </span>
                             <span></span>
                           </td>
@@ -313,12 +313,11 @@ class Pro43Page extends Component {
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           영화이사{" "}
-            010-5279-3901
+          010-9468-0175
         </font>
       </b>
       <br />
       <b style={{ fontSize: "9pt" }}>
-        <font size={3}>카카오톡 카톡아이디</font>
       </b>
     </blockquote>
     <blockquote
@@ -336,7 +335,7 @@ class Pro43Page extends Component {
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           민석대표{" "}
-            010-5279-3901
+          010-5656-7796
         </font>
       </b>
       <b style={{ fontSize: "9pt" }}>
@@ -345,7 +344,7 @@ class Pro43Page extends Component {
         </font>
       </b>
       <b>
-        <font size={3}>카카오톡 카톡아이디</font>
+        
       </b>
     </blockquote>
     <blockquote
@@ -421,12 +420,12 @@ class Pro43Page extends Component {
         <font size={5}>
           <b>
             민석대표{" "}
-              010-5279-3901
+            010-5656-7796
           </b>
           <b>
             <br />
           </b>
-          <b>카카오톡 카톡아이디</b>
+          
         </font>
       </div>
     </blockquote>

@@ -176,7 +176,7 @@ class Pro30Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-6833-3612
                             </span>
                             <span></span>
                           </td>
@@ -204,14 +204,13 @@ class Pro30Page extends Component {
         <font color="#0070c0"></font>{" "}
       </strong>
       &nbsp;<font color="#c00000">
-        <strong>010 5279 3901 </strong>
+        <strong>010-6833-3612 </strong>
       </font>{" "}
     </p>
     <p align="center" style={{ margin: 0, lineHeight: 2 }}>
       <font color="#c00000">
         <strong>
           <font color="#00b0f0" size={6}>
-            카카오톡 : 카톡아이디  
           </font>
         </strong>
       </font>
@@ -424,7 +423,7 @@ class Pro30Page extends Component {
         </strong>
         <font color="#000000">&nbsp;</font>
         <strong>
-          <font color="#c00000">010 5279 3901 </font>
+          <font color="#c00000">010-6833-3612</font>
         </strong>
         <font color="#c00000">
         </font>
@@ -433,7 +432,6 @@ class Pro30Page extends Component {
         <font color="#c00000">
           <strong>
             <font color="#00b0f0" size={6}>
-              카카오톡 : 카톡아이디
             </font>
           </strong>
         </font>
@@ -617,7 +615,7 @@ class Pro30Page extends Component {
           </strong>
           <font color="#000000">&nbsp;</font>
           <strong>
-            <font color="#c00000">010 5279 3901 </font>
+            <font color="#c00000">010-6833-3612</font>
           </strong>
           <font color="#c00000">
           </font>
@@ -631,7 +629,6 @@ class Pro30Page extends Component {
         <font color="#c00000">
           <strong>
             <font color="#00b0f0" size={6}>
-              카카오톡 : 카톡아이디
             </font>
           </strong>
         </font>

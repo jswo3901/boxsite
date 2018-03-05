@@ -176,7 +176,7 @@ class Pro3Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -1047,7 +1047,7 @@ class Pro3Page extends Component {
   >
     <strong>
       <font color="#ff0000" size={7}>
-        카톡 : 카톡아이디
+        카톡 : trra10
       </font>
     </strong>
   </p>
@@ -1076,7 +1076,7 @@ class Pro3Page extends Component {
   >
     <strong>
       <font color="#ff0000" size={7}>
-        010 - 5279 - 3901
+      010-5656-7796
       </font>
     </strong>
   </p>

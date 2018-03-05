@@ -176,7 +176,7 @@ class Pro16Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-7523-7669
                             </span>
                             <span></span>
                           </td>
@@ -369,7 +369,7 @@ class Pro16Page extends Component {
                     size={6}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    ☎010&nbsp;5279
+                    ☎010&nbsp;7523
                   </font>
                   <font
                     color="#0070c0"
@@ -377,7 +377,7 @@ class Pro16Page extends Component {
                     size={6}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    &nbsp;3901☎
+                    &nbsp;7669☎
                   </font>
                 </div>
                 <div
@@ -394,7 +394,7 @@ class Pro16Page extends Component {
                     size={2}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    카톡:카톡아이디
+                    카톡:trra10
                   </font>
                 </div>
                 <div
@@ -913,7 +913,7 @@ class Pro16Page extends Component {
                             size={6}
                             style={{ backgroundColor: "#ffff00" }}
                           >
-                            ☎010&nbsp;5279 3901☎
+                            ☎010&nbsp;7523 7669
                           </font>
                         </div>
                         <div
@@ -930,7 +930,7 @@ class Pro16Page extends Component {
                             size={2}
                             style={{ backgroundColor: "#ffff00" }}
                           >
-                            카톡:카톡아이디
+                            카톡:trra10
                           </font>
                         </div>
                       </font>
@@ -1369,7 +1369,7 @@ class Pro16Page extends Component {
                       size={6}
                       style={{ backgroundColor: "#ffff00" }}
                     >
-                      ☎010&nbsp;5279 3901☎
+                      ☎010&nbsp;7523 7669☎
                     </font>
                   </div>
                   <div
@@ -1386,7 +1386,7 @@ class Pro16Page extends Component {
                       size={2}
                       style={{ backgroundColor: "#ffff00" }}
                     >
-                      카톡:카톡아이디
+                      카톡:trra10
                     </font>
                   </div>
                   <br />

@@ -176,7 +176,7 @@ class Pro38Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-9468-0175
                             </span>
                             <span></span>
                           </td>
@@ -369,7 +369,7 @@ class Pro38Page extends Component {
                     size={6}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    ☎010&nbsp;5279
+                    ☎010&nbsp;9468
                   </font>
                   <font
                     color="#0070c0"
@@ -377,7 +377,7 @@ class Pro38Page extends Component {
                     size={6}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    &nbsp;3901☎
+                    &nbsp;0175☎
                   </font>
                 </div>
                 <div
@@ -394,7 +394,7 @@ class Pro38Page extends Component {
                     size={2}
                     style={{ backgroundColor: "#ffff00" }}
                   >
-                    카톡:카톡아이디
+                    
                   </font>
                 </div>
                 <div
@@ -913,7 +913,7 @@ class Pro38Page extends Component {
                             size={6}
                             style={{ backgroundColor: "#ffff00" }}
                           >
-                            ☎010&nbsp;5279 3901☎
+                            ☎010&nbsp;9468 0175☎
                           </font>
                         </div>
                         <div
@@ -930,7 +930,7 @@ class Pro38Page extends Component {
                             size={2}
                             style={{ backgroundColor: "#ffff00" }}
                           >
-                            카톡:카톡아이디
+                            
                           </font>
                         </div>
                       </font>
@@ -1364,7 +1364,7 @@ class Pro38Page extends Component {
                       size={6}
                       style={{ backgroundColor: "#ffff00" }}
                     >
-                      ☎010&nbsp;5279 3901☎
+                      ☎010&nbsp;9468 0175☎
                     </font>
                   </div>
                   <div
@@ -1381,7 +1381,7 @@ class Pro38Page extends Component {
                       size={2}
                       style={{ backgroundColor: "#ffff00" }}
                     >
-                      카톡:카톡아이디
+                      
                     </font>
                   </div>
                   <br />

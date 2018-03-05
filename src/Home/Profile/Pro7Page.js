@@ -176,7 +176,7 @@ class Pro7Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                              010-5279-3901
+                            010-5656-7796
                             </span>
                             <span></span>
                           </td>
@@ -205,7 +205,7 @@ class Pro7Page extends Component {
        성빈실장{" "}
       <span style={{ color: "rgb(255, 0, 0)" }}>
         <b>
-          <span style={{ fontSize: "15pt" }}>010-5279-3901</span>
+          <span style={{ fontSize: "15pt" }}>010-5656-7796</span>
         </b>
       </span>{" "}
       
@@ -342,7 +342,7 @@ class Pro7Page extends Component {
        성빈실장{" "}
       <span style={{ color: "rgb(255, 0, 0)" }}>
         <b>
-          <span style={{ fontSize: "15pt" }}>010-5279-3901</span>
+          <span style={{ fontSize: "15pt" }}>010-5656-7796</span>
         </b>
       </span>{" "}
       
@@ -441,7 +441,7 @@ class Pro7Page extends Component {
     <span style={{ fontSize: "9pt", color: "rgb(0, 0, 0)" }}>
       <span style={{ color: "rgb(255, 0, 0)" }}>
         <b>
-          <span style={{ fontSize: "9pt" }}>010-5279-3901</span>
+          <span style={{ fontSize: "9pt" }}>010-5656-7796</span>
         </b>
       </span>{" "}
       
@@ -552,7 +552,7 @@ class Pro7Page extends Component {
           color: "rgb(255, 0, 0)"
         }}
       >
-        010-5279-3901
+        010-5656-7796
       </span>
     </b>
     <b
@@ -574,7 +574,7 @@ class Pro7Page extends Component {
       }}
     >
       <b>
-        <span style={{ fontSize: "15pt" }}>&nbsp;카톡:카톡아이디</span>
+        
       </b>
     </span>
   </div>
