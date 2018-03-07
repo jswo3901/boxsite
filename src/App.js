@@ -5,6 +5,7 @@ import {
   Route,
   Link
 } from 'react-router-dom'
+//test
 import Home from './Home'
 import HomeBrand from './Home/HomeBrand'
 import HomeText from './Home/HomeText'
