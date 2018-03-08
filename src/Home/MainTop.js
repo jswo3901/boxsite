@@ -79,7 +79,8 @@ class MainTop extends Component {
 
                 <div id="PrimaryMenu4">
                   <a>공지사항!!</a>
-                  당분간 회원가입이 정지되었습니다. 
+                  당분간 회원가입이 정지되었습니다.
+                  사이트 관련 문의사항은 gnalba22@naver.com으로 문의바랍니다.
                 </div>
 
               </div>
