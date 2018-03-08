@@ -176,7 +176,7 @@ class Pro6Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                            010-2112-3839
+                            010-8678-4462
                             </span>
                             <span></span>
                           </td>
@@ -498,7 +498,7 @@ class Pro6Page extends Component {
           color: "#000000"
         }}
       >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010-2112-3839 (주간)
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;010-8678-4462 (주간)
       </span>
     </strong>
   </p>

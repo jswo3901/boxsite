@@ -176,7 +176,7 @@ class Pro22Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                            010-2112-3839
+                            010-8678-4462
                             </span>
                             <span></span>
                           </td>
@@ -432,7 +432,7 @@ class Pro22Page extends Component {
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              :&nbsp;<strong>010-2112-3839</strong>{" "}
+              :&nbsp;<strong>010-8678-4462</strong>{" "}
             </span>
           </font>
         </font>
@@ -723,7 +723,7 @@ class Pro22Page extends Component {
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              :&nbsp;<strong>010-2112-3839</strong>{" "}
+              :&nbsp;<strong>010-8678-4462</strong>{" "}
             </span>
           </font>
         </font>
@@ -1188,7 +1188,7 @@ class Pro22Page extends Component {
           </font>
           <font color="#0000ff">
             <span style={{ fontSize: "14pt" }}>
-              <font color="#ff0000"> </font>:&nbsp;010-2112-3839{" "}
+              <font color="#ff0000"> </font>:&nbsp;010-8678-4462{" "}
             </span>
           </font>
         </font>

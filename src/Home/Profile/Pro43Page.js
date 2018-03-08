@@ -335,7 +335,7 @@ class Pro43Page extends Component {
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           민석대표{" "}
-          010-5656-7796
+          010 5609 0240
         </font>
       </b>
       <b style={{ fontSize: "9pt" }}>
@@ -420,7 +420,7 @@ class Pro43Page extends Component {
         <font size={5}>
           <b>
             민석대표{" "}
-            010-5656-7796
+            010 5609 0240
           </b>
           <b>
             <br />

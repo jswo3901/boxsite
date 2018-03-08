@@ -176,7 +176,7 @@ class Pro11Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                            010-7523-7669
+                            010-8678-4462
                             </span>
                             <span></span>
                           </td>
@@ -265,7 +265,7 @@ class Pro11Page extends Component {
       <div style={{ fontSize: "11pt", textAlign: "center" }} align="center">
         &nbsp;<strong>
           <font color="#6d00ca" size={6}>
-            차민수 010-7523-7669
+            차민수 010-8678-4462
           </font>
         </strong>
       </div>
@@ -480,7 +480,7 @@ class Pro11Page extends Component {
               >
                 <strong>
                   <font color="#6d00ca" size={6}>
-                    차민수 010-7523-7669
+                    차민수 010-8678-4462
                   </font>
                 </strong>
               </div>

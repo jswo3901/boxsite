@@ -13,7 +13,7 @@ class Global extends Component {
     return (
             <div id="Global">
               <div id="Header">
-                <img src={fox_logo} />
+                <Link to="/"><img src={fox_logo} /></Link>
               </div>
               <div id="HeaderMenuWrap">
                 <div id="HeaderMenu">

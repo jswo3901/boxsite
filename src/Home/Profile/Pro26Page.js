@@ -176,7 +176,7 @@ class Pro26Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                            010-6833-3612
+                            010-5609-0240
                             </span>
                             <span></span>
                           </td>
@@ -2088,7 +2088,7 @@ class Pro26Page extends Component {
     <strong style={{ boxSizing: "border-box", fontWeight: 700 }}>
       <span style={{ boxSizing: "border-box", fontSize: "12pt" }}>
         *** 문의 및 면접 접수번호 ***
-        <h3> 010-6833-3612</h3>
+        <h3> 010-5609-0240</h3>
       </span>
     </strong>
   </p>

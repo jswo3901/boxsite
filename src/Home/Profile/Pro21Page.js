@@ -176,7 +176,7 @@ class Pro21Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                            010-7523-7669
+                            010-8678-4462
                             </span>
                             <span></span>
                           </td>
@@ -313,7 +313,7 @@ class Pro21Page extends Component {
       <b style={{ fontSize: "9pt" }}>
         <font size={3}>
           민아언니{" "}
-          010-7523-7669
+          010-8678-4462
         </font>
       </b>
       <br />
@@ -415,7 +415,7 @@ class Pro21Page extends Component {
         <font size={5}>
           <b>
             정진팀장{" "}
-            010-7523-7669
+            010 5609 0240 
           </b>
           <b>
             <br />

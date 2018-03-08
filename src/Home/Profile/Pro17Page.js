@@ -176,7 +176,7 @@ class Pro17Page extends Component {
                           <th>연락처</th>
                           <td>
                             <span>
-                            010-6833-3612
+                            010-8678-4462
                             </span>
                             <span></span>
                           </td>
@@ -1064,7 +1064,7 @@ class Pro17Page extends Component {
           <strong>
             <font color="#000000">
               <font size={6}>☎</font>
-              <font size={6}> 010-6833-3612</font>
+              <font size={6}> 010-8678-4462</font>
             </font>
           </strong>
         </font>
