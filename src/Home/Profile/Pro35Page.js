@@ -10,6 +10,9 @@ import Global from '../Global'
 import MainTop_ver2 from '../MainTop_ver2'
 
 class Pro35Page extends Component {
+  componentDidMount () {
+    window.scrollTo(0, 0)
+  }
   render() {
     return (
       <div>

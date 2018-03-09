@@ -12,6 +12,9 @@ import MainTop_ver2 from '../MainTop_ver2'
 //https://prettier.io/playground/#N4Igxg9gdgLgprEAuEIA0IIAcYEtoDOyoWATrrAOq4AmMAFsgBwAMGMAhgEbV2NIAmDAQoBzADZwAigFcI8ZADMO4gnHakOucWIDCEALYGOyEFGhx0ILprABrODADKWDmDHIYpGepAArAgAPACFbB2cOAzgAGQpLJGVVX1dSNVJTLm4AT3FoKzUDXE9vXxk1ABVuIgSVNQwKNJgABU1RYyVa31I4AEcZXG6WjjaTGqSMMgg1Sk0sUzI4NIA3SwwOUlIIAHcm9YRqkA4liForGggwDvHDghgruswZGCwngXu4AF8PoA
 //style={{"lineHeight":"26px"}}
 class Pro2Page extends Component {
+  componentDidMount () {
+    window.scrollTo(0, 0)
+  }
   render() {
     return (
       <div>

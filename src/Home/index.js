@@ -21,7 +21,11 @@ import Side_1 from './side_1.gif'
 import Side_2 from './side_2.gif'
 import Side_3 from './side_3.gif'
 import Side_4 from './side_4.gif'
-const Home = () => {
+class Home extends React.Component{
+  componentDidMount () {
+    window.scrollTo(0, 0)
+  }
+  render() {
     return (
       <div>
         
@@ -44,6 +48,8 @@ const Home = () => {
          </div>
       </div>
     )
+  }
 }
+
 export default Home
 
