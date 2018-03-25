@@ -536,7 +536,7 @@ class Pro9Page extends Component {
         </font>
       </p>
       <p align="center" style={{ margin: 0 }}>
-        <font size={5}>&nbsp;카톡 : jastenatiau</font>
+        
       </p>
     </font>
     <p align="center" style={{ margin: 0 }}>

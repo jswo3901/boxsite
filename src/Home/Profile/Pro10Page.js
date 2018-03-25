@@ -254,7 +254,7 @@ class Pro10Page extends Component {
     </p>
     <p align="center" style={{ margin: 0 }}>
       <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-        <strong>카톡ID jastenatiau</strong>
+        
       </font>
     </p>
     <p align="center" style={{ margin: 0 }}>
@@ -478,7 +478,7 @@ class Pro10Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-            <strong>카톡ID jastenatiau</strong>
+            
           </font>
         </p>
       </font>
@@ -793,7 +793,7 @@ class Pro10Page extends Component {
         </p>
         <p align="center" style={{ margin: 0 }}>
           <font color="#000000" size={3} style={{ backgroundColor: "#ffff00" }}>
-            <strong>카톡ID jastenatiau</strong>
+            
           </font>
         </p>
       </font>

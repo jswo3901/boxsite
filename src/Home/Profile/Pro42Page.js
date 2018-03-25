@@ -242,7 +242,7 @@ class Pro42Page extends Component {
       전화 010-2112-3839{" "}
       {" "}
       <br />
-      카톡 jastenatiau
+      
       <br />
       <br __jindo__id="e113604278184328851289" />
       <br />
@@ -256,7 +256,7 @@ class Pro42Page extends Component {
       전화 010-2112-3839{" "}
       {" "}
       <br />
-      카톡 jastenatiau
+      
     </p>
     <p align="center" style={{ margin: 0 }}>
       <br />

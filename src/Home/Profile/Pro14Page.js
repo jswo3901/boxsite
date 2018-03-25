@@ -475,13 +475,13 @@ class Pro14Page extends Component {
     </div>
     <div style={{ textAlign: "center" }}>
       <font color="#17365d" size={4}>
-        카카오
+        
       </font>
     </div>
     <div style={{ textAlign: "center" }}>
       <font size={4}>
         <font color="#17365d" size={4}>
-        jastenatiau
+        
         </font>
       </font>
     </div>

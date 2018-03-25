@@ -468,14 +468,14 @@ class Pro27Page extends Component {
       }}
     >
       <strong>
-        <font size={3}>카톡아이디:</font>
+        
         <font face="Times New Roman">
           <font color="#c9279f" size={4}>
             {" "}
           </font>
           <font color="#ff0000" size={5}>
             <u>
-            jastenatiau
+            
             </u>
           </font>
         </font>
@@ -2951,7 +2951,7 @@ class Pro27Page extends Component {
         </font>
         <font color="#c9279f">
           <span style={{ background: "rgb(255,255,255)" }}>
-            <font size={5}>카톡아이디</font>
+            
           </span>
         </font>
       </strong>
@@ -2962,7 +2962,7 @@ class Pro27Page extends Component {
               <strong>:</strong>
               <strong>
                 <font size={4}> </font>
-                <font size={5}>jastenatiau</font>
+                
               </strong>
             </span>
           </font>

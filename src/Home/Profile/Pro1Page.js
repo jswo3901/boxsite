@@ -546,7 +546,7 @@ class Pro1Page extends Component {
     </h3>
     <h3 align="center">
       <font style={{ backgroundColor: "#ffff00" }}>
-        카톡ID : jastenatiau<br />
+        
       </font>&nbsp;&nbsp;&nbsp;&nbsp;{" "}
     </h3>
     <h3 align="center">
